@@ -195,8 +195,8 @@ label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9
 F[shape = plaintext,
 label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
 <tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
-<tr><td bgcolor = "gold" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "gold" port = "e1"><b>?</b></td></tr>
-<tr><td bgcolor = "#C0C0C0" align = "left" port = "w2">🇫🇷 France</td><td bgcolor = "#C0C0C0" port = "e2">?</td></tr>
+<tr><td bgcolor = "gold" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "gold" port = "e1"><b>3 (4)</b></td></tr>
+<tr><td bgcolor = "#C0C0C0" align = "left" port = "w2">🇫🇷 France</td><td bgcolor = "#C0C0C0" port = "e2">3 (2)</td></tr>
 </table>>]
 
 AFCR1M1[shape = plaintext,

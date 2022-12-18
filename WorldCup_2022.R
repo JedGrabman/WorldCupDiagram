@@ -118,9 +118,6 @@ get_country_name = function(country){
 add_flag = function(countries){
   country_names = sapply(countries, function(country) get_country_name(country))
   country_flag = flag(country_names)
-#  country_flag[country_names == "England"] = "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-#  country_flag[country_names == "Wales"] = "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
-#  country_flag[country_names == "Scotland"] = "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
   country_flag[country_names %in% c("Scotland", "England", "Wales", "Northern Ireland")] = flag("United Kingdom")
   
   return(paste(country_flag, countries))
@@ -312,7 +309,7 @@ write(create_H2H("SF1", "Argentina", "Croatia", 3, 0, TRUE, ko_widths), file_nam
 write(create_H2H("SF2", "France", "Morocco", 2, 0, TRUE, ko_widths), file_name, append = TRUE)
 
 write(create_H2H("P3", "Croatia", "Morocco", "2", "1", TRUE, ko_widths, categories = c("bronze", "")), file_name, append = TRUE)
-write(create_H2H("F", "Argentina", "France", "?", "?", TRUE, ko_widths, categories = c("gold", "silver")), file_name, append = TRUE)
+write(create_H2H("F", "Argentina", "France", "3 (4)", "3 (2)", TRUE, ko_widths, categories = c("gold", "silver")), file_name, append = TRUE)
 
 
 afc_r1_teams =  c("Mongolia", "Brunei",
