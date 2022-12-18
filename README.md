@@ -104,6 +104,9 @@ I recommend the Wikipedia article ["2022 FIFA World Cup qualification"](https://
 
 **Software:** The diagram is written in [DOT and rendered using Graphviz](https://graphviz.org/). I used [https://dreampuf.github.io/GraphvizOnline](https://dreampuf.github.io/GraphvizOnline) for rendering. Most of the nodes in the graph are simply [HTML tables](https://www.w3schools.com/html/html_tables.asp). In principle, this could all be done by hand, but I’ve written [some code in R](https://github.com/JedGrabman/WorldCupDiagram/blob/main/WorldCup_2022.R) to streamline the process.
 
+## Can I use your code?
+Generally, yes. Please refer to the [License](https://github.com/JedGrabman/WorldCupDiagram/blob/main/LICENSE) for full details.
+
 ## Your code has a problem - will you fix it?
 
 This project is a low priority for me in terms of optimizing / maintaining, as it’s something I only do once every 4 years. Feel free to report issues on Github, but don’t expect a prompt resolution. It is open source though, so feel free to fork it or submit pull requests if you’d like.
