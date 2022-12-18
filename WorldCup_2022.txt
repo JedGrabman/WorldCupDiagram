@@ -1,0 +1,1204 @@
+digraph g{
+edge [penwidth = 2]
+CMBRR[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇧🇷 Brazil</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>45</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇦🇷 Argentina</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>39</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w3"><b>🇺🇾 Uruguay</b></td><td bgcolor = "#BBF3BB" port = "e3"><b>28</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w4"><b>🇪🇨 Ecuador</b></td><td bgcolor = "#BBF3BB" port = "e4"><b>26</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w5"><b>🇵🇪 Peru</b></td><td bgcolor = "#BBF3FF" port = "e5"><b>24</b></td></tr>
+<tr><td align = "left" port = "w6">🇨🇴 Colombia</td><td port = "e6">23</td></tr>
+<tr><td align = "left" port = "w7">🇨🇱 Chile</td><td port = "e7">19</td></tr>
+<tr><td align = "left" port = "w8">🇵🇾 Paraguay</td><td port = "e8">16</td></tr>
+<tr><td align = "left" port = "w9">🇧🇴 Bolivia</td><td port = "e9">15</td></tr>
+<tr><td align = "left" port = "w10">🇻🇪 Venezuela</td><td port = "e10">10</td></tr>
+</table>>]
+
+GroupA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇳🇱 Netherlands</b></td><td bgcolor = "#BBF3FF"><b>+4</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>7</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇸🇳 Senegal</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>6</b></td></tr>
+<tr><td align = "left" port = "w3">🇪🇨 Ecuador</td><td>+1</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇶🇦 Qatar</td><td>-6</td><td port = "e4">0</td></tr>
+</table>>]
+
+GroupB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇬🇧 England</b></td><td bgcolor = "#BBF3FF"><b>+7</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>7</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇺🇸 USA</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>5</b></td></tr>
+<tr><td align = "left" port = "w3">🇮🇷 Iran</td><td>-3</td><td port = "e3">3</td></tr>
+<tr><td align = "left" port = "w4">🇬🇧 Wales</td><td>-5</td><td port = "e4">1</td></tr>
+</table>>]
+
+GroupC[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇱 Poland</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>4</b></td></tr>
+<tr><td align = "left" port = "w3">🇲🇽 Mexico</td><td>-1</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇸🇦 Saudi Arabia</td><td>-2</td><td port = "e4">3</td></tr>
+</table>>]
+
+GroupD[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇫🇷 France</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇦🇺 Australia</b></td><td bgcolor = "#BBF3FF"><b>-1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>6</b></td></tr>
+<tr><td align = "left" port = "w3">🇹🇳 Tunisia</td><td>0</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇩🇰 Denmark</td><td>-2</td><td port = "e4">1</td></tr>
+</table>>]
+
+GroupE[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇯🇵 Japan</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇪🇸 Spain</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>4</b></td></tr>
+<tr><td align = "left" port = "w3">🇩🇪 Germany</td><td>+1</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇨🇷 Costa Rica</td><td>-8</td><td port = "e4">3</td></tr>
+</table>>]
+
+GroupF[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇦 Morocco</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>7</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇭🇷 Croatia</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>5</b></td></tr>
+<tr><td align = "left" port = "w3">🇧🇪 Belgium</td><td>-1</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇨🇦 Canada</td><td>-5</td><td port = "e4">0</td></tr>
+</table>>]
+
+GroupG[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇧🇷 Brazil</b></td><td bgcolor = "#BBF3FF"><b>+2</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇨🇭 Switzerland</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>6</b></td></tr>
+<tr><td align = "left" port = "w3">🇨🇲 Cameroon</td><td>0</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇷🇸 Serbia</td><td>-3</td><td port = "e4">1</td></tr>
+</table>>]
+
+GroupH[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "130.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇵🇹 Portugal</b></td><td bgcolor = "#BBF3FF"><b>+2</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇰🇷 South Korea</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>4</b></td></tr>
+<tr><td align = "left" port = "w3">🇺🇾 Uruguay</td><td>0</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇬🇭 Ghana</td><td>-2</td><td port = "e4">3</td></tr>
+</table>>]
+
+R16M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇳🇱 Netherlands</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇺🇸 USA</td><td port = "e2">1</td></tr>
+</table>>]
+
+R16M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇦🇺 Australia</td><td port = "e2">1</td></tr>
+</table>>]
+
+R16M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇯🇵 Japan</td><td port = "e1">1 (1)</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇭🇷 Croatia</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>1 (3)</b></td></tr>
+</table>>]
+
+R16M4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇧🇷 Brazil</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>4</b></td></tr>
+<tr><td align = "left" port = "w2">🇰🇷 South Korea</td><td port = "e2">1</td></tr>
+</table>>]
+
+R16M5[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇬🇧 England</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇸🇳 Senegal</td><td port = "e2">0</td></tr>
+</table>>]
+
+R16M6[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇫🇷 France</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇱 Poland</td><td port = "e2">1</td></tr>
+</table>>]
+
+R16M7[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇦 Morocco</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>0 (3)</b></td></tr>
+<tr><td align = "left" port = "w2">🇪🇸 Spain</td><td port = "e2">0 (0)</td></tr>
+</table>>]
+
+R16M8[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇵🇹 Portugal</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>6</b></td></tr>
+<tr><td align = "left" port = "w2">🇨🇭 Switzerland</td><td port = "e2">1</td></tr>
+</table>>]
+
+QF1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇳🇱 Netherlands</td><td port = "e1">2 (3)</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇦🇷 Argentina</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2 (4)</b></td></tr>
+</table>>]
+
+QF2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇭🇷 Croatia</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>1 (4)</b></td></tr>
+<tr><td align = "left" port = "w2">🇧🇷 Brazil</td><td port = "e2">1 (2)</td></tr>
+</table>>]
+
+QF3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇬🇧 England</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇫🇷 France</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2</b></td></tr>
+</table>>]
+
+QF4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇦 Morocco</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>1</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇹 Portugal</td><td port = "e2">0</td></tr>
+</table>>]
+
+SF1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇭🇷 Croatia</td><td port = "e2">0</td></tr>
+</table>>]
+
+SF2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇫🇷 France</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇲🇦 Morocco</td><td port = "e2">0</td></tr>
+</table>>]
+
+P3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#CC9966" align = "left" port = "w1"><b>🇭🇷 Croatia</b></td><td bgcolor = "#CC9966" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇲🇦 Morocco</td><td port = "e2">1</td></tr>
+</table>>]
+
+F[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "129.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "gold" align = "left" port = "w1"><b>🇦🇷 Argentina</b></td><td bgcolor = "gold" port = "e1"><b>?</b></td></tr>
+<tr><td bgcolor = "#C0C0C0" align = "left" port = "w2">🇫🇷 France</td><td bgcolor = "#C0C0C0" port = "e2">?</td></tr>
+</table>>]
+
+AFCR1M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇳 Mongolia</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇧🇳 Brunei</td><td>0</td><td>2</td><td port = "e2">2</td></tr>
+</table>>]
+
+AFCR1M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇲🇴 Macau</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇱🇰 Sri Lanka</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+AFCR1M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇱🇦 Laos</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇧🇩 Bangladesh</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>1</b></td></tr>
+</table>>]
+
+AFCR1M4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇾 Malaysia</b></td><td bgcolor = "#BBF3FF"><b>7</b></td><td bgcolor = "#BBF3FF"><b>5</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>12</b></td></tr>
+<tr><td align = "left" port = "w2">🇹🇱 Timor-Leste</td><td>1</td><td>1</td><td port = "e2">2</td></tr>
+</table>>]
+
+AFCR1M5[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇰🇭 Cambodia</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>4</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇰 Pakistan</td><td>0</td><td>1</td><td port = "e2">1</td></tr>
+</table>>]
+
+AFCR1M6[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "126.5" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇧🇹 Bhutan</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇬🇺 Guam</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF"><b>5</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>5</b></td></tr>
+</table>>]
+
+AFCR2GA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇾 Syria</b></td><td bgcolor = "#BBF3FF"><b>+15</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>21</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇨🇳 China</b></td><td bgcolor = "#BBF3FF"><b>+27</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>19</b></td></tr>
+<tr><td align = "left" port = "w3">🇵🇭 Philippines</td><td>+1</td><td port = "e3">11</td></tr>
+<tr><td align = "left" port = "w4">🇲🇻 Maldives</td><td>-13</td><td port = "e4">7</td></tr>
+<tr><td align = "left" port = "w5">🇬🇺 Guam</td><td>-30</td><td port = "e5">0</td></tr>
+</table>>]
+
+AFCR2GC[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇮🇷 Iran</b></td><td bgcolor = "#BBF3FF"><b>+30</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>18</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇮🇶 Iraq</b></td><td bgcolor = "#BBF3FF"><b>+10</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>17</b></td></tr>
+<tr><td align = "left" port = "w3">🇧🇭 Bahrain</td><td>+11</td><td port = "e3">15</td></tr>
+<tr><td align = "left" port = "w4">🇭🇰 Hong Kong</td><td>-9</td><td port = "e4">5</td></tr>
+<tr><td align = "left" port = "w5">🇰🇭 Cambodia</td><td>-42</td><td port = "e5">1</td></tr>
+</table>>]
+
+AFCR2GE[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇶🇦 Qatar (H)</b></td><td bgcolor = "#BBF3BB"><b>+17</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>22</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇴🇲 Oman</b></td><td bgcolor = "#BBF3FF"><b>+10</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>18</b></td></tr>
+<tr><td align = "left" port = "w3">🇮🇳 India</td><td>-1</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇦🇫 Afghanistan</td><td>-10</td><td port = "e4">6</td></tr>
+<tr><td align = "left" port = "w5">🇧🇩 Bangladesh</td><td>-16</td><td port = "e5">2</td></tr>
+</table>>]
+
+AFCR2GG[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇦🇪 UAE</b></td><td bgcolor = "#BBF3FF"><b>+16</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>18</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇻🇳 Vietnam</b></td><td bgcolor = "#BBF3FF"><b>+8</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>17</b></td></tr>
+<tr><td align = "left" port = "w3">🇲🇾 Malaysia</td><td>-2</td><td port = "e3">12</td></tr>
+<tr><td align = "left" port = "w4">🇹🇭 Thailand</td><td>0</td><td port = "e4">9</td></tr>
+<tr><td align = "left" port = "w5">🇮🇩 Indonesia</td><td>-22</td><td port = "e5">1</td></tr>
+</table>>]
+
+AFCR2GH[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇰🇷 South Korea</b></td><td bgcolor = "#BBF3FF"><b>+21</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>16</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇱🇧 Lebanon</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>10</b></td></tr>
+<tr><td align = "left" port = "w3">🇹🇲 Turkmenistan</td><td>-3</td><td port = "e3">9</td></tr>
+<tr><td align = "left" port = "w4">🇱🇰 Sri Lanka</td><td>-21</td><td port = "e4">0</td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w5">🇰🇵 North Korea (W)</td><td bgcolor = "#BBBBBB">-</td><td bgcolor = "#BBBBBB" port = "e5">-</td></tr>
+</table>>]
+
+AFCR2GB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇦🇺 Australia</b></td><td bgcolor = "#BBF3FF"><b>+26</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>24</b></td></tr>
+<tr><td align = "left" port = "w2">🇰🇼 Kuwait</td><td>+12</td><td port = "e2">14</td></tr>
+<tr><td align = "left" port = "w3">🇯🇴 Jordan</td><td>+10</td><td port = "e3">14</td></tr>
+<tr><td align = "left" port = "w4">🇳🇵 Nepal</td><td>-18</td><td port = "e4">6</td></tr>
+<tr><td align = "left" port = "w5">🇹🇼 Taiwan</td><td>-30</td><td port = "e5">0</td></tr>
+</table>>]
+
+AFCR2GD[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇦 Saudi Arabia</b></td><td bgcolor = "#BBF3FF"><b>+18</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>20</b></td></tr>
+<tr><td align = "left" port = "w2">🇺🇿 Uzbekistan</td><td>+9</td><td port = "e2">15</td></tr>
+<tr><td align = "left" port = "w3">🇵🇸 Palestine</td><td>0</td><td port = "e3">10</td></tr>
+<tr><td align = "left" port = "w4">🇸🇬 Singapore</td><td>-15</td><td port = "e4">7</td></tr>
+<tr><td align = "left" port = "w5">🇾🇪 Yemen</td><td>-12</td><td port = "e5">5</td></tr>
+</table>>]
+
+AFCR2GF[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇯🇵 Japan</b></td><td bgcolor = "#BBF3FF"><b>+44</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>24</b></td></tr>
+<tr><td align = "left" port = "w2">🇹🇯 Tajikistan</td><td>+2</td><td port = "e2">13</td></tr>
+<tr><td align = "left" port = "w3">🇰🇬 Kyrgyzstan</td><td>+7</td><td port = "e3">10</td></tr>
+<tr><td align = "left" port = "w4">🇲🇳 Mongolia</td><td>-24</td><td port = "e4">6</td></tr>
+<tr><td align = "left" port = "w5">🇲🇲 Myanmar</td><td>-29</td><td port = "e5">6</td></tr>
+</table>>]
+
+AFCR3GA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇮🇷 Iran</b></td><td bgcolor = "#BBF3BB"><b>+11</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>25</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇰🇷 South Korea</b></td><td bgcolor = "#BBF3BB"><b>+10</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>23</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w3"><b>🇦🇪 UAE</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e3"><b>12</b></td></tr>
+<tr><td align = "left" port = "w4">🇮🇶 Iraq</td><td>-6</td><td port = "e4">9</td></tr>
+<tr><td align = "left" port = "w5">🇸🇾 Syria</td><td>-7</td><td port = "e5">6</td></tr>
+<tr><td align = "left" port = "w6">🇱🇧 Lebanon</td><td>-8</td><td port = "e6">6</td></tr>
+</table>>]
+
+AFCR3GB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "133.1" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇸🇦 Saudi Arabia</b></td><td bgcolor = "#BBF3BB"><b>+6</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>23</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇯🇵 Japan</b></td><td bgcolor = "#BBF3BB"><b>+8</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>22</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w3"><b>🇦🇺 Australia</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e3"><b>15</b></td></tr>
+<tr><td align = "left" port = "w4">🇴🇲 Oman</td><td>+1</td><td port = "e4">14</td></tr>
+<tr><td align = "left" port = "w5">🇨🇳 China</td><td>-10</td><td port = "e5">6</td></tr>
+<tr><td align = "left" port = "w6">🇻🇳 Vietnam</td><td>-11</td><td port = "e6">4</td></tr>
+</table>>]
+
+AFCR4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇦🇪 UAE</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇦🇺 Australia</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2</b></td></tr>
+</table>>]
+
+CAFR1M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇪🇹 Ethiopia</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>1 (a)</b></td></tr>
+<tr><td align = "left" port = "w2">🇱🇸 Lesotho</td><td>0</td><td>1</td><td port = "e2">1</td></tr>
+</table>>]
+
+CAFR1M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇸🇴 Somalia</td><td>1</td><td>1</td><td port = "e1">2</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇿🇼 Zimbabwe</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+CAFR1M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇪🇷 Eritrea</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇳🇦 Namibia</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>4</b></td></tr>
+</table>>]
+
+CAFR1M4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇧🇮 Burundi</td><td>1</td><td>1</td><td port = "e1">2 (0)</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇹🇿 Tanzania</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2 (3)</b></td></tr>
+</table>>]
+
+CAFR1M5[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇩🇯 Djibouti</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇸🇿 Eswatini</td><td>1</td><td>0</td><td port = "e2">1</td></tr>
+</table>>]
+
+CAFR1M6[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇧🇼 Botswana</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇲🇼 Malawi</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>1</b></td></tr>
+</table>>]
+
+CAFR1M7[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇬🇲 Gambia</td><td>0</td><td>1</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇦🇴 Angola</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+CAFR1M8[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇱🇷 Liberia</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇸🇱 Sierra Leone</td><td>1</td><td>1</td><td port = "e2">2</td></tr>
+</table>>]
+
+CAFR1M9[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇲🇺 Mauritius</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇲🇿 Mozambique</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+CAFR1M10[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇸🇹 São Tomé and Príncipe</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇬🇼 Guinea-Bissau</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2</b></td></tr>
+</table>>]
+
+CAFR1M11[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇸🇸 South Sudan</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇬🇶 Equatorial Guinea</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>2</b></td></tr>
+</table>>]
+
+CAFR1M12[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇰🇲 Comoros</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇹🇬 Togo</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+CAFR1M13[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇹🇩 Chad</td><td>1</td><td>0</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇸🇩 Sudan</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+CAFR1M14[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "200.2" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇸🇨 Seychelles</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇷🇼 Rwanda</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF"><b>7</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>10</b></td></tr>
+</table>>]
+
+CAFR2GA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇩🇿 Algeria</b></td><td bgcolor = "#BBF3FF"><b>+21</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>14</b></td></tr>
+<tr><td align = "left" port = "w2">🇧🇫 Burkina Faso</td><td>+8</td><td port = "e2">12</td></tr>
+<tr><td align = "left" port = "w3">🇳🇪 Niger</td><td>-4</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇩🇯 Djibouti</td><td>-25</td><td port = "e4">0</td></tr>
+</table>>]
+
+CAFR2GB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇹🇳 Tunisia</b></td><td bgcolor = "#BBF3FF"><b>+9</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>13</b></td></tr>
+<tr><td align = "left" port = "w2">🇬🇶 Equatorial Guinea</td><td>+1</td><td port = "e2">11</td></tr>
+<tr><td align = "left" port = "w3">🇿🇲 Zambia</td><td>-1</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇲🇷 Mauritania</td><td>-9</td><td port = "e4">2</td></tr>
+</table>>]
+
+CAFR2GC[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇳🇬 Nigeria</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>13</b></td></tr>
+<tr><td align = "left" port = "w2">🇨🇻 Cape Verde</td><td>+2</td><td port = "e2">11</td></tr>
+<tr><td align = "left" port = "w3">🇱🇷 Liberia</td><td>-3</td><td port = "e3">6</td></tr>
+<tr><td align = "left" port = "w4">🇨🇫 Central African Republic</td><td>-5</td><td port = "e4">4</td></tr>
+</table>>]
+
+CAFR2GD[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇨🇲 Cameroon</b></td><td bgcolor = "#BBF3FF"><b>+9</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>15</b></td></tr>
+<tr><td align = "left" port = "w2">🇨🇮 Ivory Coast</td><td>+7</td><td port = "e2">13</td></tr>
+<tr><td align = "left" port = "w3">🇲🇿 Mozambique</td><td>-6</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇲🇼 Malawi</td><td>-10</td><td port = "e4">3</td></tr>
+</table>>]
+
+CAFR2GE[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇱 Mali</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>16</b></td></tr>
+<tr><td align = "left" port = "w2">🇺🇬 Uganda</td><td>+1</td><td port = "e2">9</td></tr>
+<tr><td align = "left" port = "w3">🇰🇪 Kenya</td><td>-5</td><td port = "e3">6</td></tr>
+<tr><td align = "left" port = "w4">🇷🇼 Rwanda</td><td>-7</td><td port = "e4">1</td></tr>
+</table>>]
+
+CAFR2GF[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇪🇬 Egypt</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>14</b></td></tr>
+<tr><td align = "left" port = "w2">🇬🇦 Gabon</td><td>-1</td><td port = "e2">7</td></tr>
+<tr><td align = "left" port = "w3">🇱🇾 Libya</td><td>-3</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇦🇴 Angola</td><td>-2</td><td port = "e4">5</td></tr>
+</table>>]
+
+CAFR2GG[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇬🇭 Ghana</b></td><td bgcolor = "#BBF3FF"><b>+4</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>13</b></td></tr>
+<tr><td align = "left" port = "w2">🇿🇦 South Africa</td><td>+4</td><td port = "e2">13</td></tr>
+<tr><td align = "left" port = "w3">🇪🇹 Ethiopia</td><td>-3</td><td port = "e3">5</td></tr>
+<tr><td align = "left" port = "w4">🇿🇼 Zimbabwe</td><td>-5</td><td port = "e4">2</td></tr>
+</table>>]
+
+CAFR2GH[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇳 Senegal</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>16</b></td></tr>
+<tr><td align = "left" port = "w2">🇹🇬 Togo</td><td>-1</td><td port = "e2">8</td></tr>
+<tr><td align = "left" port = "w3">🇳🇦 Namibia</td><td>-5</td><td port = "e3">5</td></tr>
+<tr><td align = "left" port = "w4">🇨🇬 Congo</td><td>-5</td><td port = "e4">3</td></tr>
+</table>>]
+
+CAFR2GI[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇲🇦 Morocco</b></td><td bgcolor = "#BBF3FF"><b>+19</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>18</b></td></tr>
+<tr><td align = "left" port = "w2">🇬🇼 Guinea-Bissau</td><td>-6</td><td port = "e2">6</td></tr>
+<tr><td align = "left" port = "w3">🇬🇳 Guinea</td><td>-6</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇸🇩 Sudan</td><td>-7</td><td port = "e4">3</td></tr>
+</table>>]
+
+CAFR2GJ[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "207.9" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇨🇩 DR Congo</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>11</b></td></tr>
+<tr><td align = "left" port = "w2">🇧🇯 Benin</td><td>+1</td><td port = "e2">10</td></tr>
+<tr><td align = "left" port = "w3">🇹🇿 Tanzania</td><td>-2</td><td port = "e3">8</td></tr>
+<tr><td align = "left" port = "w4">🇲🇬 Madagascar</td><td>-5</td><td port = "e4">4</td></tr>
+</table>>]
+
+CAFR3M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇪🇬 Egypt</td><td>1</td><td>0</td><td port = "e1">1 (1)</td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇸🇳 Senegal</b></td><td bgcolor = "#BBF3BB"><b>0</b></td><td bgcolor = "#BBF3BB"><b>1</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>1 (3)</b></td></tr>
+</table>>]
+
+CAFR3M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇨🇲 Cameroon</b></td><td bgcolor = "#BBF3BB"><b>0</b></td><td bgcolor = "#BBF3BB"><b>2</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>2 (a)</b></td></tr>
+<tr><td align = "left" port = "w2">🇩🇿 Algeria</td><td>1</td><td>1</td><td port = "e2">2</td></tr>
+</table>>]
+
+CAFR3M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇬🇭 Ghana</b></td><td bgcolor = "#BBF3BB"><b>0</b></td><td bgcolor = "#BBF3BB"><b>1</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>1 (a)</b></td></tr>
+<tr><td align = "left" port = "w2">🇳🇬 Nigeria</td><td>0</td><td>1</td><td port = "e2">1</td></tr>
+</table>>]
+
+CAFR3M4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇨🇩 DR Congo</td><td>1</td><td>1</td><td port = "e1">2</td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇲🇦 Morocco</b></td><td bgcolor = "#BBF3BB"><b>1</b></td><td bgcolor = "#BBF3BB"><b>4</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>5</b></td></tr>
+</table>>]
+
+CAFR3M5[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇲🇱 Mali</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇹🇳 Tunisia</b></td><td bgcolor = "#BBF3BB"><b>1</b></td><td bgcolor = "#BBF3BB"><b>0</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>1</b></td></tr>
+</table>>]
+
+ICF1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇦🇺 Australia</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>0 (5)</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇪 Peru</td><td port = "e2">0 (4)</td></tr>
+</table>>]
+
+ICF2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "116.6" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇨🇷 Costa Rica</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>1</b></td></tr>
+<tr><td align = "left" port = "w2">🇳🇿 New Zealand</td><td port = "e2">0</td></tr>
+</table>>]
+
+UEFAGA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇷🇸 Serbia</b></td><td bgcolor = "#BBF3BB"><b>+9</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>20</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇹 Portugal</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>17</b></td></tr>
+<tr><td align = "left" port = "w3">🇮🇪 Ireland</td><td>+3</td><td port = "e3">9</td></tr>
+<tr><td align = "left" port = "w4">🇱🇺 Luxembourg</td><td>-10</td><td port = "e4">9</td></tr>
+<tr><td align = "left" port = "w5">🇦🇿 Azerbaijan</td><td>-13</td><td port = "e5">1</td></tr>
+</table>>]
+
+UEFAGB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇪🇸 Spain</b></td><td bgcolor = "#BBF3BB"><b>+10</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>19</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇸🇪 Sweden</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>15</b></td></tr>
+<tr><td align = "left" port = "w3">🇬🇷 Greece</td><td>0</td><td port = "e3">10</td></tr>
+<tr><td align = "left" port = "w4">🇬🇪 Georgia</td><td>-6</td><td port = "e4">7</td></tr>
+<tr><td align = "left" port = "w5">🇽🇰 Kosovo</td><td>-10</td><td port = "e5">5</td></tr>
+</table>>]
+
+UEFAGC[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇨🇭 Switzerland</b></td><td bgcolor = "#BBF3BB"><b>+13</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>18</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇮🇹 Italy</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>16</b></td></tr>
+<tr><td align = "left" port = "w3">🇬🇧 Northern Ireland</td><td>-1</td><td port = "e3">9</td></tr>
+<tr><td align = "left" port = "w4">🇧🇬 Bulgaria</td><td>-8</td><td port = "e4">8</td></tr>
+<tr><td align = "left" port = "w5">🇱🇹 Lithuania</td><td>-15</td><td port = "e5">3</td></tr>
+</table>>]
+
+UEFAGD[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇫🇷 France</b></td><td bgcolor = "#BBF3BB"><b>+15</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>18</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇺🇦 Ukraine</b></td><td bgcolor = "#BBF3FF"><b>+3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>12</b></td></tr>
+<tr><td align = "left" port = "w3">🇫🇮 Finland</td><td>0</td><td port = "e3">11</td></tr>
+<tr><td align = "left" port = "w4">🇧🇦 Bosnia and Herzegovina</td><td>-3</td><td port = "e4">7</td></tr>
+<tr><td align = "left" port = "w5">🇰🇿 Kazakhstan</td><td>-15</td><td port = "e5">3</td></tr>
+</table>>]
+
+UEFAGE[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇧🇪 Belgium</b></td><td bgcolor = "#BBF3BB"><b>+19</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>20</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇬🇧 Wales</b></td><td bgcolor = "#BBF3FF"><b>+5</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>15</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w3"><b>🇨🇿 Czechia</b></td><td bgcolor = "#BBF3FF"><b>+5</b></td><td bgcolor = "#BBF3FF" port = "e3"><b>14</b></td></tr>
+<tr><td align = "left" port = "w4">🇪🇪 Estonia</td><td>-12</td><td port = "e4">4</td></tr>
+<tr><td align = "left" port = "w5">🇧🇾 Belarus</td><td>-17</td><td port = "e5">3</td></tr>
+</table>>]
+
+UEFAGF[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇩🇰 Denmark</b></td><td bgcolor = "#BBF3BB"><b>+27</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>27</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇬🇧 Scotland</b></td><td bgcolor = "#BBF3FF"><b>+10</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>23</b></td></tr>
+<tr><td align = "left" port = "w3">🇮🇱 Israel</td><td>+2</td><td port = "e3">16</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w4"><b>🇦🇹 Austria</b></td><td bgcolor = "#BBF3FF"><b>+2</b></td><td bgcolor = "#BBF3FF" port = "e4"><b>16</b></td></tr>
+<tr><td align = "left" port = "w5">🇫🇴 Faroe Islands</td><td>-16</td><td port = "e5">4</td></tr>
+<tr><td align = "left" port = "w6">🇲🇩 Moldova</td><td>-25</td><td port = "e6">1</td></tr>
+</table>>]
+
+UEFAGG[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇳🇱 Netherlands</b></td><td bgcolor = "#BBF3BB"><b>+25</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>23</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇹🇷 Turkey</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>21</b></td></tr>
+<tr><td align = "left" port = "w3">🇳🇴 Norway</td><td>+7</td><td port = "e3">18</td></tr>
+<tr><td align = "left" port = "w4">🇲🇪 Montenegro</td><td>-1</td><td port = "e4">12</td></tr>
+<tr><td align = "left" port = "w5">🇱🇻 Latvia</td><td>-3</td><td port = "e5">9</td></tr>
+<tr><td align = "left" port = "w6">🇬🇮 Gibraltar</td><td>-39</td><td port = "e6">0</td></tr>
+</table>>]
+
+UEFAGH[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇭🇷 Croatia</b></td><td bgcolor = "#BBF3BB"><b>+17</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>23</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇷🇺 Russia</b></td><td bgcolor = "#BBF3FF"><b>+13</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>22</b></td></tr>
+<tr><td align = "left" port = "w3">🇸🇰 Slovakia</td><td>+7</td><td port = "e3">14</td></tr>
+<tr><td align = "left" port = "w4">🇸🇮 Slovenia</td><td>+1</td><td port = "e4">14</td></tr>
+<tr><td align = "left" port = "w5">🇨🇾 Cyprus</td><td>-17</td><td port = "e5">5</td></tr>
+<tr><td align = "left" port = "w6">🇲🇹 Malta</td><td>-21</td><td port = "e6">5</td></tr>
+</table>>]
+
+UEFAGI[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇬🇧 England</b></td><td bgcolor = "#BBF3BB"><b>+36</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>26</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇱 Poland</b></td><td bgcolor = "#BBF3FF"><b>+19</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>20</b></td></tr>
+<tr><td align = "left" port = "w3">🇦🇱 Albania</td><td>0</td><td port = "e3">18</td></tr>
+<tr><td align = "left" port = "w4">🇭🇺 Hungary</td><td>+6</td><td port = "e4">17</td></tr>
+<tr><td align = "left" port = "w5">🇦🇩 Andorra</td><td>-16</td><td port = "e5">6</td></tr>
+<tr><td align = "left" port = "w6">🇸🇲 San Marino</td><td>-45</td><td port = "e6">0</td></tr>
+</table>>]
+
+UEFAGJ[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "36" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "26" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇩🇪 Germany</b></td><td bgcolor = "#BBF3BB"><b>+32</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>27</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇲🇰 North Macedonia</b></td><td bgcolor = "#BBF3FF"><b>+12</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>18</b></td></tr>
+<tr><td align = "left" port = "w3">🇷🇴 Romania</td><td>+5</td><td port = "e3">17</td></tr>
+<tr><td align = "left" port = "w4">🇦🇲 Armenia</td><td>-11</td><td port = "e4">12</td></tr>
+<tr><td align = "left" port = "w5">🇮🇸 Iceland</td><td>-6</td><td port = "e5">9</td></tr>
+<tr><td align = "left" port = "w6">🇱🇮 Liechtenstein</td><td>-32</td><td port = "e6">1</td></tr>
+</table>>]
+
+UEFAR2M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇬🇧 Scotland</td><td port = "e1">1</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇺🇦 Ukraine</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>3</b></td></tr>
+</table>>]
+
+UEFAR2M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇬🇧 Wales</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇦🇹 Austria</td><td port = "e2">1</td></tr>
+</table>>]
+
+UEFAR2M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w1">🇷🇺 Russia (DQ)</td><td bgcolor = "#BBBBBB" port = "e1">-</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇱 Poland</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>-</b></td></tr>
+</table>>]
+
+UEFAR2M4[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇪 Sweden</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>1</b></td></tr>
+<tr><td align = "left" port = "w2">🇨🇿 Czechia</td><td port = "e2">0</td></tr>
+</table>>]
+
+UEFAR2M5[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇮🇹 Italy</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇲🇰 North Macedonia</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>1</b></td></tr>
+</table>>]
+
+UEFAR2M6[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇵🇹 Portugal</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇹🇷 Turkey</td><td port = "e2">0</td></tr>
+</table>>]
+
+UEFAR3M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇬🇧 Wales</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>1</b></td></tr>
+<tr><td align = "left" port = "w2">🇺🇦 Ukraine</td><td port = "e2">0</td></tr>
+</table>>]
+
+UEFAR3M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇵🇱 Poland</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇸🇪 Sweden</td><td port = "e2">0</td></tr>
+</table>>]
+
+UEFAR3M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "162.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇵🇹 Portugal</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇲🇰 North Macedonia</td><td port = "e2">0</td></tr>
+</table>>]
+
+CCFR1GA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇻 El Salvador</b></td><td bgcolor = "#BBF3FF"><b>+12</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>10</b></td></tr>
+<tr><td align = "left" port = "w2">🇲🇸 Montserrat</td><td>+5</td><td port = "e2">8</td></tr>
+<tr><td align = "left" port = "w3">🇦🇬 Antigua and Barbuda</td><td>+1</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇬🇩 Grenada</td><td>-3</td><td port = "e4">3</td></tr>
+<tr><td align = "left" port = "w5">🇻🇮 U.S. Virgin Islands</td><td>-15</td><td port = "e5">0</td></tr>
+</table>>]
+
+CCFR1GB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇨🇦 Canada</b></td><td bgcolor = "#BBF3FF"><b>+26</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>12</b></td></tr>
+<tr><td align = "left" port = "w2">🇸🇷 Suriname</td><td>+11</td><td port = "e2">9</td></tr>
+<tr><td align = "left" port = "w3">🇧🇲 Bermuda</td><td>-5</td><td port = "e3">4</td></tr>
+<tr><td align = "left" port = "w4">🇦🇼 Aruba</td><td>-16</td><td port = "e4">3</td></tr>
+<tr><td align = "left" port = "w5">🇰🇾 Cayman Islands</td><td>-16</td><td port = "e5">1</td></tr>
+</table>>]
+
+CCFR1GC[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇨🇼 Curaçao</b></td><td bgcolor = "#BBF3FF"><b>+14</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>10</b></td></tr>
+<tr><td align = "left" port = "w2">🇬🇹 Guatemala</td><td>+14</td><td port = "e2">10</td></tr>
+<tr><td align = "left" port = "w3">🇨🇺 Cuba</td><td>+4</td><td port = "e3">6</td></tr>
+<tr><td align = "left" port = "w4">🇻🇨 Saint Vincent and the Grenadines</td><td>-13</td><td port = "e4">3</td></tr>
+<tr><td align = "left" port = "w5">🇻🇬 British Virgin Islands</td><td>-19</td><td port = "e5">0</td></tr>
+</table>>]
+
+CCFR1GD[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇵🇦 Panama</b></td><td bgcolor = "#BBF3FF"><b>+18</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>12</b></td></tr>
+<tr><td align = "left" port = "w2">🇩🇴 Dominican Republic</td><td>+4</td><td port = "e2">7</td></tr>
+<tr><td align = "left" port = "w3">🇧🇧 Barbados</td><td>0</td><td port = "e3">5</td></tr>
+<tr><td align = "left" port = "w4">🇩🇲 Dominica</td><td>+1</td><td port = "e4">4</td></tr>
+<tr><td align = "left" port = "w5">🇦🇮 Anguilla</td><td>-23</td><td port = "e5">0</td></tr>
+</table>>]
+
+CCFR1GF[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇰🇳 Saint Kitts and Nevis</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>9</b></td></tr>
+<tr><td align = "left" port = "w2">🇹🇹 Trinidad and Tobago</td><td>+5</td><td port = "e2">8</td></tr>
+<tr><td align = "left" port = "w3">🇵🇷 Puerto Rico</td><td>+8</td><td port = "e3">7</td></tr>
+<tr><td align = "left" port = "w4">🇬🇾 Guyana</td><td>-4</td><td port = "e4">3</td></tr>
+<tr><td align = "left" port = "w5">🇧🇸 Bahamas</td><td>-15</td><td port = "e5">1</td></tr>
+</table>>]
+
+CCFR1GE[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "264" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇭🇹 Haiti</b></td><td bgcolor = "#BBF3FF"><b>+13</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>9</b></td></tr>
+<tr><td align = "left" port = "w2">🇳🇮 Nicaragua</td><td>+9</td><td port = "e2">6</td></tr>
+<tr><td align = "left" port = "w3">🇧🇿 Belize</td><td>0</td><td port = "e3">3</td></tr>
+<tr><td align = "left" port = "w4">🇹🇨 Turks and Caicos Islands</td><td>-22</td><td port = "e4">0</td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w5">🇱🇨 Saint Lucia (W)</td><td bgcolor = "#BBBBBB">-</td><td bgcolor = "#BBBBBB" port = "e5">-</td></tr>
+</table>>]
+
+CCFR2M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "184.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇰🇳 Saint Kitts and Nevis</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇸🇻 El Salvador</b></td><td bgcolor = "#BBF3FF"><b>4</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>6</b></td></tr>
+</table>>]
+
+CCFR2M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "184.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td align = "left" port = "w1">🇭🇹 Haiti</td><td>0</td><td>0</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇨🇦 Canada</b></td><td bgcolor = "#BBF3FF"><b>1</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>4</b></td></tr>
+</table>>]
+
+CCFR2M3[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "184.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "60.5" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "41.2" align = "left"><b>Total</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇵🇦 Panama</b></td><td bgcolor = "#BBF3FF"><b>2</b></td><td bgcolor = "#BBF3FF"><b>0</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
+<tr><td align = "left" port = "w2">🇨🇼 Curaçao</td><td>1</td><td>0</td><td port = "e2">1</td></tr>
+</table>>]
+
+CCFRR[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇨🇦 Canada</b></td><td bgcolor = "#BBF3BB"><b>+16</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>28</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w2"><b>🇲🇽 Mexico</b></td><td bgcolor = "#BBF3BB"><b>+9</b></td><td bgcolor = "#BBF3BB" port = "e2"><b>28</b></td></tr>
+<tr><td bgcolor = "#BBF3BB" align = "left" port = "w3"><b>🇺🇸 USA</b></td><td bgcolor = "#BBF3BB"><b>+11</b></td><td bgcolor = "#BBF3BB" port = "e3"><b>25</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w4"><b>🇨🇷 Costa Rica</b></td><td bgcolor = "#BBF3FF"><b>+5</b></td><td bgcolor = "#BBF3FF" port = "e4"><b>25</b></td></tr>
+<tr><td align = "left" port = "w5">🇵🇦 Panama</td><td>-2</td><td port = "e5">21</td></tr>
+<tr><td align = "left" port = "w6">🇯🇲 Jamaica</td><td>-10</td><td port = "e6">11</td></tr>
+<tr><td align = "left" port = "w7">🇸🇻 El Salvador</td><td>-10</td><td port = "e7">10</td></tr>
+<tr><td align = "left" port = "w8">🇭🇳 Honduras</td><td>-19</td><td port = "e8">4</td></tr>
+</table>>]
+
+OFCR1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w1">🇹🇴 Tonga (W)</td><td bgcolor = "#BBBBBB" port = "e1">-</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇨🇰 Cook Islands</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>-</b></td></tr>
+</table>>]
+
+OFCR2GA[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇧 Solomon Islands</b></td><td bgcolor = "#BBF3FF"><b>+2</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇫 Tahiti</b></td><td bgcolor = "#BBF3FF"><b>-2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>0</b></td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w3">🇻🇺 Vanuatu (W)</td><td bgcolor = "#BBBBBB">-</td><td bgcolor = "#BBBBBB" port = "e3">-</td></tr>
+<tr><td bgcolor = "#BBBBBB" align = "left" port = "w4">🇨🇰 Cook Islands (W)</td><td bgcolor = "#BBBBBB">-</td><td bgcolor = "#BBBBBB" port = "e4">-</td></tr>
+</table>>]
+
+OFCR2GB[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "25.8" align = "left"><b>Pts</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇳🇿 New Zealand</b></td><td bgcolor = "#BBF3FF"><b>+11</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>9</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇵🇬 Papua New Guinea</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>6</b></td></tr>
+<tr><td align = "left" port = "w3">🇫🇯 Fiji</td><td>-4</td><td port = "e3">3</td></tr>
+<tr><td align = "left" port = "w4">🇳🇨 New Caledonia</td><td>-8</td><td port = "e4">0</td></tr>
+</table>>]
+
+OFCR3M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇸🇧 Solomon Islands</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>3</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇬 Papua New Guinea</td><td port = "e2">2</td></tr>
+</table>>]
+
+OFCR3M2[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>Score</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇳🇿 New Zealand</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>1</b></td></tr>
+<tr><td align = "left" port = "w2">🇵🇫 Tahiti</td><td port = "e2">0</td></tr>
+</table>>]
+
+OFCR4M1[shape = plaintext,
+label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
+<tr><td bgcolor = "#eaecf0" width = "173.8" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "35.7" align = "left"><b>Score</b></td></tr>
+<tr><td align = "left" port = "w1">🇸🇧 Solomon Islands</td><td port = "e1">0</td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇳🇿 New Zealand</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>5</b></td></tr>
+</table>>]
+
+  graph [rankdir = "LR",
+         newrank = "true"]
+
+  #node[shape = rect]
+  R16M1; R16M2; R16M3; R16M4; R16M5; R16M6; R16M7; R16M8;
+  QF1; QF2; QF3; QF4;
+  SF1; SF2; F;
+  GroupA
+  GroupB
+  GroupC
+  GroupD
+  GroupE
+  GroupF
+  GroupG
+  GroupH
+  
+  
+  subgraph cluster_Conmebol{
+    label = "Confederación 
+Sudamericana
+ de Fútbol"
+ #   label = "CONMEBOL"
+    fontsize = 50
+    CMBRR;
+  }
+  edge [color = "#800000"]
+ # CMBRR:e1 -> GroupG:w1
+ # CMBRR:e2 -> GroupC:w1
+ # CMBRR:e3 -> GroupH:w3
+ # CMBRR:e4 -> GroupA:w3
+  CMBRR:e5 -> ICF1:w2
+edge [color = "black"]
+  
+  subgraph cluster_AFC{
+label = "Asian Football Confederation"
+#label = "AFC"
+fontsize = 50
+    {rank = same; AFCR1M1; AFCR1M2; AFCR1M3; AFCR1M4; AFCR1M5; AFCR1M6;}
+    
+    {rank = same; AFCR2GA; AFCR2GB; AFCR2GC; AFCR2GD; AFCR2GE; AFCR2GF; AFCR2GG; AFCR2GH}
+    
+
+    
+    {rank = same; AFCR3GA; AFCR3GB;}
+    
+      edge[color = "#F58231"]
+    AFCR1M1:e1 -> AFCR2GF:w4
+    AFCR1M2:e2 -> AFCR2GH:w4
+    AFCR1M3:e2 -> AFCR2GE:w5
+    AFCR1M4:e1 -> AFCR2GG:w3
+    AFCR1M5:e1 -> AFCR2GC:w5
+    AFCR1M6:e2 -> AFCR2GA:w5
+    
+    AFCR2GA:e1 -> AFCR3GA:w5
+    AFCR2GA:e2 -> AFCR3GB:w5
+    AFCR2GB:e1 -> AFCR3GB:w3
+    AFCR2GC:e1 -> AFCR3GA:w1
+    AFCR2GC:e2 -> AFCR3GA:w4
+    AFCR2GD:e1 -> AFCR3GB:w1
+
+    AFCR2GE:e2 -> AFCR3GB:w4
+    AFCR2GF:e1 -> AFCR3GB:w2
+    AFCR2GG:e1 -> AFCR3GA:w3
+    AFCR2GG:e2 -> AFCR3GB:w6
+    AFCR2GH:e1 -> AFCR3GA:w2
+    AFCR2GH:e2 -> AFCR3GA:w6
+    
+    AFCR3GA:e3 -> AFCR4:w1
+    AFCR3GB:e3 -> AFCR4:w2
+      edge[color = "black"]
+  }
+      edge[color = "#F58231"]
+ # AFCR3GA:e1 -> GroupB:w3
+ # AFCR3GA:e2 -> GroupH:w2
+ # AFCR3GB:e1 -> GroupC:w4
+ # AFCR3GB:e2 -> GroupE:w1
+  AFCR4:e2 -> ICF1:w1
+  
+  subgraph cluster_CAF{
+label = "Confederation of African Football"
+#label = "CAF"
+fontsize = 50
+    {rank = same; CAFR1M1; CAFR1M2; CAFR1M3; CAFR1M4; CAFR1M5; CAFR1M6; CAFR1M7; CAFR1M8; CAFR1M9; CAFR1M10; CAFR1M11; CAFR1M12; CAFR1M13; }
+    
+
+    
+    
+    {rank = same; CAFR2GA; CAFR2GB; CAFR2GC; CAFR2GD; CAFR2GE; 
+      CAFR2GF; CAFR2GG; CAFR2GH; CAFR2GI; CAFR2GJ;}
+    
+    {edge[style = invis;]
+    CAFR2GH -> CAFR2GF;
+    CAFR2GI -> CAFR2GJ;
+    CAFR2GA -> CAFR2GD;
+    CAFR2GC -> CAFR2GG;
+    
+    }
+    
+
+edge[color = "#3CB44B"]    
+    CAFR1M1:e1 -> CAFR2GG:w3
+    CAFR1M2:e2 -> CAFR2GG:w4
+    CAFR1M3:e2 -> CAFR2GH:w3
+    CAFR1M4:e2 -> CAFR2GJ:w3
+    CAFR1M5:e1 -> CAFR2GA:w4
+    CAFR1M6:e2 -> CAFR2GD:w4
+    CAFR1M7:e2 -> CAFR2GF:w4
+    CAFR1M8:e1 -> CAFR2GC:w3
+    CAFR1M9:e2 -> CAFR2GD:w3
+    CAFR1M10:e2 -> CAFR2GI:w2
+    CAFR1M11:e2 -> CAFR2GB:w2
+    CAFR1M12:e2 -> CAFR2GH:w2
+    CAFR1M13:e2 -> CAFR2GI:w4
+    CAFR1M14:e2 -> CAFR2GE:w4
+
+    CAFR2GA:e1 -> CAFR3M2:w2
+    CAFR2GB:e1 -> CAFR3M5:w2
+    CAFR2GC:e1 -> CAFR3M3:w2
+    CAFR2GD:e1 -> CAFR3M2:w1
+    CAFR2GE:e1 -> CAFR3M5:w1
+    CAFR2GF:e1 -> CAFR3M1:w1
+    CAFR2GG:e1 -> CAFR3M3:w1
+    CAFR2GH:e1 -> CAFR3M1:w2
+    CAFR2GI:e1 -> CAFR3M4:w2
+    CAFR2GJ:e1 -> CAFR3M4:w1
+    edge[color = "black"]
+  }
+edge[color = "#3CB44B"]    
+#  CAFR3M1:e2 -> GroupA:w2
+#  CAFR3M2:e1 -> GroupG:w3
+#  CAFR3M3:e1 -> GroupH:w4
+#  CAFR3M4:e2 -> GroupF:w1
+#  CAFR3M5:e2 -> GroupD:w3
+edge[color = "black"]
+  
+  subgraph cluster_OFC{
+label = "Oceania Football Confederation"
+#label = "OFC"
+    fontsize = 50
+    {rank = same; OFCR2GA; OFCR2GB}
+    {rank = same; OFCR3M1; OFCR3M2}
+    edge[color = "#0082c8"]
+    OFCR1:e2 -> OFCR2GA:w4
+    OFCR2GA:e1 -> OFCR3M1:w1
+    OFCR2GA:e2 -> OFCR3M2:w2
+    OFCR2GB:e1 -> OFCR3M2:w1
+    OFCR2GB:e2 -> OFCR3M1:w2
+    OFCR3M1:e1 -> OFCR4M1:w1
+    OFCR3M2:e1 -> OFCR4M1:w2
+    edge[color = "black"]
+  }
+  
+  subgraph cluster_UEFA{
+label = "Union of European Football Associations"
+#label = "UEFA"
+fontsize = 50
+    {rank = same; UEFAGA; UEFAGB; UEFAGC; UEFAGD; UEFAGE; UEFAGF; UEFAGG; UEFAGH; UEFAGI; UEFAGJ}
+    {rank = same; UEFAR2M1; UEFAR2M2; UEFAR2M3; UEFAR2M4; UEFAR2M5; UEFAR2M6}
+    {rank = same; UEFAR3M1; UEFAR3M2; UEFAR3M3}
+    
+    
+    {
+        edge[style = invis;]
+        UEFAR2M5 -> UEFAR2M6
+    }
+
+  edge[ color = "black"] 
+    UEFAGA:e2 -> UEFAR2M6:w1
+    UEFAGB:e2 -> UEFAR2M4:w1
+    UEFAGC:e2 -> UEFAR2M5:w1
+    UEFAGD:e2 -> UEFAR2M1:w2
+    UEFAGE:e2 -> UEFAR2M2:w1
+    UEFAGE:e3 -> UEFAR2M4:w2
+    UEFAGF:e2 -> UEFAR2M1:w1
+    UEFAGF:e4 -> UEFAR2M2:w2
+    UEFAGG:e2 -> UEFAR2M6:w2
+    UEFAGH:e2 -> UEFAR2M3:w1
+    UEFAGI:e2 -> UEFAR2M3:w2
+    UEFAGJ:e2 -> UEFAR2M5:w2
+    
+    UEFAR2M1:e2 -> UEFAR3M1:w2
+    UEFAR2M2:e1 -> UEFAR3M1:w1
+    UEFAR2M3:e2 -> UEFAR3M2:w1
+    UEFAR2M4:e1 -> UEFAR3M2:w2
+    UEFAR2M5:e2 -> UEFAR3M3:w2
+    UEFAR2M6:e1 -> UEFAR3M3:w1
+    
+   edge[color = "black"] 
+  }
+  edge[ color = "black"]  
+  
+  subgraph cluster_Concacaf{
+label = "The Confederation of North,
+Central American and Caribbean
+Association Football"
+#label = "CONCACAF"
+fontsize = 50
+    {rank = same; CCFR1GA; CCFR1GB; CCFR1GC; CCFR1GD; CCFR1GE; CCFR1GF;}
+
+
+
+    {rank = same; CCFR2M1; CCFR2M2; CCFR2M3;}
+    
+        {edge[style = invis;]
+    CCFR2M1 -> CCFR2M3;
+    
+    }
+
+
+    edge[ color = "#000080"]
+    CCFR1GA:e1 -> CCFR2M1:w2
+    CCFR1GB:e1 -> CCFR2M2:w2
+    CCFR1GC:e1 -> CCFR2M3:w2
+    CCFR1GD:e1 -> CCFR2M3:w1
+    CCFR1GE:e1 -> CCFR2M2:w1
+    CCFR1GF:e1 -> CCFR2M1:w1
+    
+    CCFR2M1:e1 -> CCFRR:w7
+    CCFR2M2:e2 -> CCFRR:w1
+    CCFR2M3:e1 -> CCFRR:w5
+    edge[color = "black"]
+    
+  }
+  edge[color = "#000080"]
+  CCFRR:e4 -> ICF2:w1
+  edge[color = "black"]
+  OFCR4M1:e2 -> ICF2:w2 [color = "#0082c8"]
+  
+  node[style = invis;]
+  edge[style = invis;]
+  in1 -> in2 -> in3 -> in4 -> in5
+  node[style = ""]
+  edge[style = ""]
+  
+  {rank = same; ICF1; ICF2; in3}
+  {rank = same; GroupA; GroupB; GroupC; GroupD; GroupE; GroupF; GroupG; GroupH; in5}
+  {rank = same; GroupA -> GroupB -> GroupC -> GroupD -> GroupE -> GroupF -> GroupG -> GroupH [style = invis]; in5}
+
+  
+  UEFAR3M2 -> AFCR1M3 [style = "invis"]
+ 
+subgraph cluster_wcF {
+    label = "World Cup Finals"
+    fontsize = 50
+  GroupA:e1 -> R16M1:w1
+  GroupA:e2 -> R16M5:w2 [color = "#3CB44B"]
+  GroupB:e1 -> R16M5:w1
+  GroupB:e2 -> R16M1:w2 [color = "#000080"]
+  GroupC:e1 -> R16M2:w1 [color = "#800000"]
+  GroupC:e2 -> R16M6:w2
+  GroupD:e1 -> R16M6:w1
+  GroupD:e2 -> R16M2:w2 [color = "#f58231"]
+  GroupE:e1 -> R16M3:w1 [color = "#f58231"]
+  GroupE:e2 -> R16M7:w2
+  GroupF:e1 -> R16M7:w1 [color = "#3CB44B"]
+  GroupF:e2 -> R16M3:w2
+  GroupG:e1 -> R16M4:w1 [color = "#800000"]
+  GroupG:e2 -> R16M8:w2
+  GroupH:e1 -> R16M8:w1
+  GroupH:e2 -> R16M4:w2 [color = "#f58231"]
+  
+  R16M1:e1 -> QF1:w1
+  R16M2:e1 -> QF1:w2 [color = "#800000"]
+  R16M3:e2 -> QF2:w1
+  R16M4:e1 -> QF2:w2 [color = "#800000"]
+  R16M5:e1 -> QF3:w1
+  R16M6:e1 -> QF3:w2
+  R16M7:e1 -> QF4:w1 [color = "#3CB44B"]
+  R16M8:e1 -> QF4:w2
+  QF1:e2 -> SF1:w1 [color = "#800000"]
+  QF2:e1 -> SF1:w2
+  QF3:e2 -> SF2:w1
+  QF4:e1 -> SF2:w2 [color = "#3CB44B"]
+  SF1:e1 -> F:w1
+  SF2:e1 -> F:w2
+  SF1:e2 -> P3:w1
+  SF2:e2 -> P3:w2
+  {
+    rank = same; 
+    edge[style = "invis"]
+    GroupH -> GroupG -> GroupF -> GroupE -> GroupD -> GroupC -> GroupB -> GroupA
+  }
+  {
+    rank = same; 
+    edge[style = "invis"]
+    R16M8 -> R16M4 
+    R16M7 -> R16M3
+    R16M6 -> R16M2 
+    R16M5 -> R16M1
+  }
+  {
+    rank = same; 
+    edge[style = "invis"]
+    QF4 -> QF2
+    QF3 -> QF1
+  }
+  {
+    rank = same;
+    edge[style = "invis"]
+    SF2 -> SF1
+  }
+}
+
+graph [label = "2022 FIFA World Cup:\n206 Countries\n929 Matches\n1 Champion\nCreated by Jed Grabman",
+         labelloc = "t",
+fontsize = 200]
+}
