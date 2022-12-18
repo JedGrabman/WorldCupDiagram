@@ -132,7 +132,7 @@ As you can see, I’ve experimented with the exact format.
 
 ## How can I contact you?
 
-If you want to discuss this diagram publicly, you may comment on the [reddit post](https://www.reddit.com/r/soccer/comments/zp4fex/206_teams_929_matches_1_champion_diagrams_showing/). I’ll be notified for top-level comments. This is preferred for general questions about the diagram and the World Cup qualification process.
+If you want to discuss this diagram publicly, you may comment on the [reddit post](https://reddit.com/user/aeouo/comments/zp5sf0/206_teams_929_matches_1_champion_diagrams_showing/). I’ll be notified for top-level comments. This is preferred for general questions about the diagram and the World Cup qualification process.
 
 You can also message [u/aeouo](https://www.reddit.com/user/aeouo) on Reddit.
 
