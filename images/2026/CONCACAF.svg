@@ -1,0 +1,600 @@
+<svg width="1168pt" height="1187pt" viewBox="0.00 0.00 1168.00 1187.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1183)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1183 1164.08,-1183 1164.08,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_Concacaf</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-1171 1152.08,-1171 1152.08,-8 8,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="580.04" y="-1122" font-family="Times,serif" font-size="50.00">The Confederation of North,</text>
+<text xml:space="preserve" text-anchor="middle" x="580.04" y="-1062" font-family="Times,serif" font-size="50.00">Central American and Caribbean</text>
+<text xml:space="preserve" text-anchor="middle" x="580.04" y="-1002" font-family="Times,serif" font-size="50.00">Association Football</text>
+</g>
+<!-- CCFR1M1 -->
+<g id="node1" class="node">
+<title>CCFR1M1</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-19.8 24,-88.2 384.75,-88.2 384.75,-19.8 24,-19.8"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-65.4 24,-88.2 235,-88.2 235,-65.4 24,-65.4"/>
+<polygon fill="none" stroke="black" points="24,-65.4 24,-88.2 235,-88.2 235,-65.4 24,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="235,-65.4 235,-88.2 290.38,-88.2 290.38,-65.4 235,-65.4"/>
+<polygon fill="none" stroke="black" points="235,-65.4 235,-88.2 290.38,-88.2 290.38,-65.4 235,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="238" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Match 1</text>
+<polygon fill="#eaecf0" stroke="none" points="290.38,-65.4 290.38,-88.2 345.75,-88.2 345.75,-65.4 290.38,-65.4"/>
+<polygon fill="none" stroke="black" points="290.38,-65.4 290.38,-88.2 345.75,-88.2 345.75,-65.4 290.38,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="293.38" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Match 2</text>
+<polygon fill="#eaecf0" stroke="none" points="345.75,-65.4 345.75,-88.2 384.75,-88.2 384.75,-65.4 345.75,-65.4"/>
+<polygon fill="none" stroke="black" points="345.75,-65.4 345.75,-88.2 384.75,-88.2 384.75,-65.4 345.75,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="348.75" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Total</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-42.6 24,-65.4 235,-65.4 235,-42.6 24,-42.6"/>
+<polygon fill="none" stroke="black" points="24,-42.6 24,-65.4 235,-65.4 235,-42.6 24,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇮 Anguilla</text>
+<polygon fill="#bbf3ff" stroke="none" points="235,-42.6 235,-65.4 290.38,-65.4 290.38,-42.6 235,-42.6"/>
+<polygon fill="none" stroke="black" points="235,-42.6 235,-65.4 290.38,-65.4 290.38,-42.6 235,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="259.19" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="290.38,-42.6 290.38,-65.4 345.75,-65.4 345.75,-42.6 290.38,-42.6"/>
+<polygon fill="none" stroke="black" points="290.38,-42.6 290.38,-65.4 345.75,-65.4 345.75,-42.6 290.38,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="314.56" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="345.75,-42.6 345.75,-65.4 384.75,-65.4 384.75,-42.6 345.75,-42.6"/>
+<polygon fill="none" stroke="black" points="345.75,-42.6 345.75,-65.4 384.75,-65.4 384.75,-42.6 345.75,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="351.84" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (4)</text>
+<polygon fill="none" stroke="black" points="24,-19.8 24,-42.6 235,-42.6 235,-19.8 24,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-27" font-family="Times,serif" font-size="14.00">🇹🇨 Turks and Caicos Islands</text>
+<polygon fill="none" stroke="black" points="235,-19.8 235,-42.6 290.38,-42.6 290.38,-19.8 235,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="259.19" y="-27" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="290.38,-19.8 290.38,-42.6 345.75,-42.6 345.75,-19.8 290.38,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="314.56" y="-27" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="none" stroke="black" points="345.75,-19.8 345.75,-42.6 384.75,-42.6 384.75,-19.8 345.75,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="351.84" y="-27" font-family="Times,serif" font-size="14.00">1 (3)</text>
+</g>
+<!-- CCFR2GF -->
+<g id="node8" class="node">
+<title>CCFR2GF</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-19.6 436.75,-156.4 760.41,-156.4 760.41,-19.6 436.75,-19.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-133.6 436.75,-156.4 701.75,-156.4 701.75,-133.6 436.75,-133.6"/>
+<polygon fill="none" stroke="black" points="436.75,-133.6 436.75,-156.4 701.75,-156.4 701.75,-133.6 436.75,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-133.6 701.75,-156.4 735.75,-156.4 735.75,-133.6 701.75,-133.6"/>
+<polygon fill="none" stroke="black" points="701.75,-133.6 701.75,-156.4 735.75,-156.4 735.75,-133.6 701.75,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-133.6 735.75,-156.4 760.41,-156.4 760.41,-133.6 735.75,-133.6"/>
+<polygon fill="none" stroke="black" points="735.75,-133.6 735.75,-156.4 760.41,-156.4 760.41,-133.6 735.75,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-110.8 436.75,-133.6 701.75,-133.6 701.75,-110.8 436.75,-110.8"/>
+<polygon fill="none" stroke="black" points="436.75,-110.8 436.75,-133.6 701.75,-133.6 701.75,-110.8 436.75,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇷 Suriname</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-110.8 701.75,-133.6 735.75,-133.6 735.75,-110.8 701.75,-110.8"/>
+<polygon fill="none" stroke="black" points="701.75,-110.8 701.75,-133.6 735.75,-133.6 735.75,-110.8 701.75,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">+8</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-110.8 735.75,-133.6 760.41,-133.6 760.41,-110.8 735.75,-110.8"/>
+<polygon fill="none" stroke="black" points="735.75,-110.8 735.75,-133.6 760.41,-133.6 760.41,-110.8 735.75,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">10</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-88 436.75,-110.8 701.75,-110.8 701.75,-88 436.75,-88"/>
+<polygon fill="none" stroke="black" points="436.75,-88 436.75,-110.8 701.75,-110.8 701.75,-88 436.75,-88"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇻 El Salvador</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-88 701.75,-110.8 735.75,-110.8 735.75,-88 701.75,-88"/>
+<polygon fill="none" stroke="black" points="701.75,-88 701.75,-110.8 735.75,-110.8 735.75,-88 701.75,-88"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-88 735.75,-110.8 760.41,-110.8 760.41,-88 735.75,-88"/>
+<polygon fill="none" stroke="black" points="735.75,-88 735.75,-110.8 760.41,-110.8 760.41,-88 735.75,-88"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">8</text>
+<polygon fill="none" stroke="black" points="436.75,-65.2 436.75,-88 701.75,-88 701.75,-65.2 436.75,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-72.4" font-family="Times,serif" font-size="14.00">🇵🇷 Puerto Rico</text>
+<polygon fill="none" stroke="black" points="701.75,-65.2 701.75,-88 735.75,-88 735.75,-65.2 701.75,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="711.3" y="-72.4" font-family="Times,serif" font-size="14.00">+8</text>
+<polygon fill="none" stroke="black" points="735.75,-65.2 735.75,-88 760.41,-88 760.41,-65.2 735.75,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-72.4" font-family="Times,serif" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="436.75,-42.4 436.75,-65.2 701.75,-65.2 701.75,-42.4 436.75,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-49.6" font-family="Times,serif" font-size="14.00">🇻🇨 Saint Vincent and the Grenadines</text>
+<polygon fill="none" stroke="black" points="701.75,-42.4 701.75,-65.2 735.75,-65.2 735.75,-42.4 701.75,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="715.25" y="-49.6" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="735.75,-42.4 735.75,-65.2 760.41,-65.2 760.41,-42.4 735.75,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-49.6" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="436.75,-19.6 436.75,-42.4 701.75,-42.4 701.75,-19.6 436.75,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-26.8" font-family="Times,serif" font-size="14.00">🇦🇮 Anguilla</text>
+<polygon fill="none" stroke="black" points="701.75,-19.6 701.75,-42.4 735.75,-42.4 735.75,-19.6 701.75,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="709.42" y="-26.8" font-family="Times,serif" font-size="14.00">-21</text>
+<polygon fill="none" stroke="black" points="735.75,-19.6 735.75,-42.4 760.41,-42.4 760.41,-19.6 735.75,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-26.8" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CCFR1M1&#45;&gt;CCFR2GF -->
+<g id="edge1" class="edge">
+<title>CCFR1M1:e1-&gt;CCFR2GF:w5</title>
+<path fill="none" stroke="#000080" stroke-width="2" d="M385.75,-54C405.24,-54 409.89,-39.39 423.35,-33.46"/>
+<polygon fill="#000080" stroke="#000080" stroke-width="2" points="423.66,-36.97 432.78,-31.59 422.29,-30.1 423.66,-36.97"/>
+</g>
+<!-- CCFR1M2 -->
+<g id="node2" class="node">
+<title>CCFR1M2</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-182.8 24,-251.2 384.75,-251.2 384.75,-182.8 24,-182.8"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-228.4 24,-251.2 235,-251.2 235,-228.4 24,-228.4"/>
+<polygon fill="none" stroke="black" points="24,-228.4 24,-251.2 235,-251.2 235,-228.4 24,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="235,-228.4 235,-251.2 290.38,-251.2 290.38,-228.4 235,-228.4"/>
+<polygon fill="none" stroke="black" points="235,-228.4 235,-251.2 290.38,-251.2 290.38,-228.4 235,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="238" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Match 1</text>
+<polygon fill="#eaecf0" stroke="none" points="290.38,-228.4 290.38,-251.2 345.75,-251.2 345.75,-228.4 290.38,-228.4"/>
+<polygon fill="none" stroke="black" points="290.38,-228.4 290.38,-251.2 345.75,-251.2 345.75,-228.4 290.38,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="293.38" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Match 2</text>
+<polygon fill="#eaecf0" stroke="none" points="345.75,-228.4 345.75,-251.2 384.75,-251.2 384.75,-228.4 345.75,-228.4"/>
+<polygon fill="none" stroke="black" points="345.75,-228.4 345.75,-251.2 384.75,-251.2 384.75,-228.4 345.75,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="348.75" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Total</text>
+<polygon fill="none" stroke="black" points="24,-205.6 24,-228.4 235,-228.4 235,-205.6 24,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-212.8" font-family="Times,serif" font-size="14.00">🇻🇮 U.S. Virgin Islands</text>
+<polygon fill="none" stroke="black" points="235,-205.6 235,-228.4 290.38,-228.4 290.38,-205.6 235,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="259.19" y="-212.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="none" stroke="black" points="290.38,-205.6 290.38,-228.4 345.75,-228.4 345.75,-205.6 290.38,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="314.56" y="-212.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="345.75,-205.6 345.75,-228.4 384.75,-228.4 384.75,-205.6 345.75,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="351.84" y="-212.8" font-family="Times,serif" font-size="14.00">1 (2)</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-182.8 24,-205.6 235,-205.6 235,-182.8 24,-182.8"/>
+<polygon fill="none" stroke="black" points="24,-182.8 24,-205.6 235,-205.6 235,-182.8 24,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">🇻🇬 British Virgin Islands</text>
+<polygon fill="#bbf3ff" stroke="none" points="235,-182.8 235,-205.6 290.38,-205.6 290.38,-182.8 235,-182.8"/>
+<polygon fill="none" stroke="black" points="235,-182.8 235,-205.6 290.38,-205.6 290.38,-182.8 235,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="259.19" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="290.38,-182.8 290.38,-205.6 345.75,-205.6 345.75,-182.8 290.38,-182.8"/>
+<polygon fill="none" stroke="black" points="290.38,-182.8 290.38,-205.6 345.75,-205.6 345.75,-182.8 290.38,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="314.56" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="345.75,-182.8 345.75,-205.6 384.75,-205.6 384.75,-182.8 345.75,-182.8"/>
+<polygon fill="none" stroke="black" points="345.75,-182.8 345.75,-205.6 384.75,-205.6 384.75,-182.8 345.75,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="351.84" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (4)</text>
+</g>
+<!-- CCFR2GE -->
+<g id="node7" class="node">
+<title>CCFR2GE</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-182.6 436.75,-319.4 760.41,-319.4 760.41,-182.6 436.75,-182.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-296.6 436.75,-319.4 701.75,-319.4 701.75,-296.6 436.75,-296.6"/>
+<polygon fill="none" stroke="black" points="436.75,-296.6 436.75,-319.4 701.75,-319.4 701.75,-296.6 436.75,-296.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-304.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-296.6 701.75,-319.4 735.75,-319.4 735.75,-296.6 701.75,-296.6"/>
+<polygon fill="none" stroke="black" points="701.75,-296.6 701.75,-319.4 735.75,-319.4 735.75,-296.6 701.75,-296.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-304.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-296.6 735.75,-319.4 760.41,-319.4 760.41,-296.6 735.75,-296.6"/>
+<polygon fill="none" stroke="black" points="735.75,-296.6 735.75,-319.4 760.41,-319.4 760.41,-296.6 735.75,-296.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-304.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-273.8 436.75,-296.6 701.75,-296.6 701.75,-273.8 436.75,-273.8"/>
+<polygon fill="none" stroke="black" points="436.75,-273.8 436.75,-296.6 701.75,-296.6 701.75,-273.8 436.75,-273.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-282" font-family="Times,serif" font-weight="bold" font-size="14.00">🇯🇲 Jamaica</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-273.8 701.75,-296.6 735.75,-296.6 735.75,-273.8 701.75,-273.8"/>
+<polygon fill="none" stroke="black" points="701.75,-273.8 701.75,-296.6 735.75,-296.6 735.75,-273.8 701.75,-273.8"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-282" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-273.8 735.75,-296.6 760.41,-296.6 760.41,-273.8 735.75,-273.8"/>
+<polygon fill="none" stroke="black" points="735.75,-273.8 735.75,-296.6 760.41,-296.6 760.41,-273.8 735.75,-273.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-282" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-251 436.75,-273.8 701.75,-273.8 701.75,-251 436.75,-251"/>
+<polygon fill="none" stroke="black" points="436.75,-251 436.75,-273.8 701.75,-273.8 701.75,-251 436.75,-251"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-259.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇬🇹 Guatemala</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-251 701.75,-273.8 735.75,-273.8 735.75,-251 701.75,-251"/>
+<polygon fill="none" stroke="black" points="701.75,-251 701.75,-273.8 735.75,-273.8 735.75,-251 701.75,-251"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-259.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+8</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-251 735.75,-273.8 760.41,-273.8 760.41,-251 735.75,-251"/>
+<polygon fill="none" stroke="black" points="735.75,-251 735.75,-273.8 760.41,-273.8 760.41,-251 735.75,-251"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-259.2" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="436.75,-228.2 436.75,-251 701.75,-251 701.75,-228.2 436.75,-228.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-235.4" font-family="Times,serif" font-size="14.00">🇩🇴 Dominican Republic</text>
+<polygon fill="none" stroke="black" points="701.75,-228.2 701.75,-251 735.75,-251 735.75,-228.2 701.75,-228.2"/>
+<text xml:space="preserve" text-anchor="start" x="711.3" y="-235.4" font-family="Times,serif" font-size="14.00">+6</text>
+<polygon fill="none" stroke="black" points="735.75,-228.2 735.75,-251 760.41,-251 760.41,-228.2 735.75,-228.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-235.4" font-family="Times,serif" font-size="14.00">6</text>
+<polygon fill="none" stroke="black" points="436.75,-205.4 436.75,-228.2 701.75,-228.2 701.75,-205.4 436.75,-205.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-212.6" font-family="Times,serif" font-size="14.00">🇩🇲 Dominica</text>
+<polygon fill="none" stroke="black" points="701.75,-205.4 701.75,-228.2 735.75,-228.2 735.75,-205.4 701.75,-205.4"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-212.6" font-family="Times,serif" font-size="14.00">-9</text>
+<polygon fill="none" stroke="black" points="735.75,-205.4 735.75,-228.2 760.41,-228.2 760.41,-205.4 735.75,-205.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-212.6" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="436.75,-182.6 436.75,-205.4 701.75,-205.4 701.75,-182.6 436.75,-182.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-189.8" font-family="Times,serif" font-size="14.00">🇻🇬 British Virgin Islands</text>
+<polygon fill="none" stroke="black" points="701.75,-182.6 701.75,-205.4 735.75,-205.4 735.75,-182.6 701.75,-182.6"/>
+<text xml:space="preserve" text-anchor="start" x="709.42" y="-189.8" font-family="Times,serif" font-size="14.00">-11</text>
+<polygon fill="none" stroke="black" points="735.75,-182.6 735.75,-205.4 760.41,-205.4 760.41,-182.6 735.75,-182.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-189.8" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CCFR1M2&#45;&gt;CCFR2GE -->
+<g id="edge2" class="edge">
+<title>CCFR1M2:e2-&gt;CCFR2GE:w5</title>
+<path fill="none" stroke="#000080" stroke-width="2" d="M385.75,-194.2C402.94,-194.2 410.16,-194.08 422.83,-194.03"/>
+<polygon fill="#000080" stroke="#000080" stroke-width="2" points="422.73,-197.53 432.72,-194.01 422.72,-190.53 422.73,-197.53"/>
+</g>
+<!-- CCFR2GA -->
+<g id="node3" class="node">
+<title>CCFR2GA</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-508.6 436.75,-645.4 760.41,-645.4 760.41,-508.6 436.75,-508.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-622.6 436.75,-645.4 701.75,-645.4 701.75,-622.6 436.75,-622.6"/>
+<polygon fill="none" stroke="black" points="436.75,-622.6 436.75,-645.4 701.75,-645.4 701.75,-622.6 436.75,-622.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-630.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-622.6 701.75,-645.4 735.75,-645.4 735.75,-622.6 701.75,-622.6"/>
+<polygon fill="none" stroke="black" points="701.75,-622.6 701.75,-645.4 735.75,-645.4 735.75,-622.6 701.75,-622.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-630.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-622.6 735.75,-645.4 760.41,-645.4 760.41,-622.6 735.75,-622.6"/>
+<polygon fill="none" stroke="black" points="735.75,-622.6 735.75,-645.4 760.41,-645.4 760.41,-622.6 735.75,-622.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-630.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-599.8 436.75,-622.6 701.75,-622.6 701.75,-599.8 436.75,-599.8"/>
+<polygon fill="none" stroke="black" points="436.75,-599.8 436.75,-622.6 701.75,-622.6 701.75,-599.8 436.75,-599.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-608" font-family="Times,serif" font-weight="bold" font-size="14.00">🇭🇳 Honduras</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-599.8 701.75,-622.6 735.75,-622.6 735.75,-599.8 701.75,-599.8"/>
+<polygon fill="none" stroke="black" points="701.75,-599.8 701.75,-622.6 735.75,-622.6 735.75,-599.8 701.75,-599.8"/>
+<text xml:space="preserve" text-anchor="start" x="707.76" y="-608" font-family="Times,serif" font-weight="bold" font-size="14.00">+10</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-599.8 735.75,-622.6 760.41,-622.6 760.41,-599.8 735.75,-599.8"/>
+<polygon fill="none" stroke="black" points="735.75,-599.8 735.75,-622.6 760.41,-622.6 760.41,-599.8 735.75,-599.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-608" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-577 436.75,-599.8 701.75,-599.8 701.75,-577 436.75,-577"/>
+<polygon fill="none" stroke="black" points="436.75,-577 436.75,-599.8 701.75,-599.8 701.75,-577 436.75,-577"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-585.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇲 Bermuda</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-577 701.75,-599.8 735.75,-599.8 735.75,-577 701.75,-577"/>
+<polygon fill="none" stroke="black" points="701.75,-577 701.75,-599.8 735.75,-599.8 735.75,-577 701.75,-577"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-585.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+1</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-577 735.75,-599.8 760.41,-599.8 760.41,-577 735.75,-577"/>
+<polygon fill="none" stroke="black" points="735.75,-577 735.75,-599.8 760.41,-599.8 760.41,-577 735.75,-577"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-585.2" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="436.75,-554.2 436.75,-577 701.75,-577 701.75,-554.2 436.75,-554.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-561.4" font-family="Times,serif" font-size="14.00">🇨🇺 Cuba</text>
+<polygon fill="none" stroke="black" points="701.75,-554.2 701.75,-577 735.75,-577 735.75,-554.2 701.75,-554.2"/>
+<text xml:space="preserve" text-anchor="start" x="711.3" y="-561.4" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="735.75,-554.2 735.75,-577 760.41,-577 760.41,-554.2 735.75,-554.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-561.4" font-family="Times,serif" font-size="14.00">6</text>
+<polygon fill="none" stroke="black" points="436.75,-531.4 436.75,-554.2 701.75,-554.2 701.75,-531.4 436.75,-531.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-538.6" font-family="Times,serif" font-size="14.00">🇰🇾 Cayman Islands</text>
+<polygon fill="none" stroke="black" points="701.75,-531.4 701.75,-554.2 735.75,-554.2 735.75,-531.4 701.75,-531.4"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-538.6" font-family="Times,serif" font-size="14.00">-8</text>
+<polygon fill="none" stroke="black" points="735.75,-531.4 735.75,-554.2 760.41,-554.2 760.41,-531.4 735.75,-531.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-538.6" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="436.75,-508.6 436.75,-531.4 701.75,-531.4 701.75,-508.6 436.75,-508.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-515.8" font-family="Times,serif" font-size="14.00">🇦🇬 Antigua and Barbuda</text>
+<polygon fill="none" stroke="black" points="701.75,-508.6 701.75,-531.4 735.75,-531.4 735.75,-508.6 701.75,-508.6"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-515.8" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="735.75,-508.6 735.75,-531.4 760.41,-531.4 760.41,-508.6 735.75,-508.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-515.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CCFR3GB -->
+<g id="node10" class="node">
+<title>CCFR3GB</title>
+<polygon fill="#f8f9fa" stroke="none" points="812.41,-583 812.41,-697 1136.08,-697 1136.08,-583 812.41,-583"/>
+<polygon fill="#eaecf0" stroke="none" points="812.41,-674.2 812.41,-697 1077.41,-697 1077.41,-674.2 812.41,-674.2"/>
+<polygon fill="none" stroke="black" points="812.41,-674.2 812.41,-697 1077.41,-697 1077.41,-674.2 812.41,-674.2"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-682.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1077.41,-674.2 1077.41,-697 1111.41,-697 1111.41,-674.2 1077.41,-674.2"/>
+<polygon fill="none" stroke="black" points="1077.41,-674.2 1077.41,-697 1111.41,-697 1111.41,-674.2 1077.41,-674.2"/>
+<text xml:space="preserve" text-anchor="start" x="1080.41" y="-682.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="1111.41,-674.2 1111.41,-697 1136.08,-697 1136.08,-674.2 1111.41,-674.2"/>
+<polygon fill="none" stroke="black" points="1111.41,-674.2 1111.41,-697 1136.08,-697 1136.08,-674.2 1111.41,-674.2"/>
+<text xml:space="preserve" text-anchor="start" x="1114.41" y="-682.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="812.41,-651.4 812.41,-674.2 1077.41,-674.2 1077.41,-651.4 812.41,-651.4"/>
+<polygon fill="none" stroke="black" points="812.41,-651.4 812.41,-674.2 1077.41,-674.2 1077.41,-651.4 812.41,-651.4"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-659.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇼 Curaçao</text>
+<polygon fill="#bbf3bb" stroke="none" points="1077.41,-651.4 1077.41,-674.2 1111.41,-674.2 1111.41,-651.4 1077.41,-651.4"/>
+<polygon fill="none" stroke="black" points="1077.41,-651.4 1077.41,-674.2 1111.41,-674.2 1111.41,-651.4 1077.41,-651.4"/>
+<text xml:space="preserve" text-anchor="start" x="1083.43" y="-659.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+10</text>
+<polygon fill="#bbf3bb" stroke="none" points="1111.41,-651.4 1111.41,-674.2 1136.08,-674.2 1136.08,-651.4 1111.41,-651.4"/>
+<polygon fill="none" stroke="black" points="1111.41,-651.4 1111.41,-674.2 1136.08,-674.2 1136.08,-651.4 1111.41,-651.4"/>
+<text xml:space="preserve" text-anchor="start" x="1116.75" y="-659.6" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="812.41,-628.6 812.41,-651.4 1077.41,-651.4 1077.41,-628.6 812.41,-628.6"/>
+<polygon fill="none" stroke="black" points="812.41,-628.6 812.41,-651.4 1077.41,-651.4 1077.41,-628.6 812.41,-628.6"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-636.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇯🇲 Jamaica</text>
+<polygon fill="#bbf3ff" stroke="none" points="1077.41,-628.6 1077.41,-651.4 1111.41,-651.4 1111.41,-628.6 1077.41,-628.6"/>
+<polygon fill="none" stroke="black" points="1077.41,-628.6 1077.41,-651.4 1111.41,-651.4 1111.41,-628.6 1077.41,-628.6"/>
+<text xml:space="preserve" text-anchor="start" x="1086.93" y="-636.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+8</text>
+<polygon fill="#bbf3ff" stroke="none" points="1111.41,-628.6 1111.41,-651.4 1136.08,-651.4 1136.08,-628.6 1111.41,-628.6"/>
+<polygon fill="none" stroke="black" points="1111.41,-628.6 1111.41,-651.4 1136.08,-651.4 1136.08,-628.6 1111.41,-628.6"/>
+<text xml:space="preserve" text-anchor="start" x="1116.75" y="-636.8" font-family="Times,serif" font-weight="bold" font-size="14.00">11</text>
+<polygon fill="none" stroke="black" points="812.41,-605.8 812.41,-628.6 1077.41,-628.6 1077.41,-605.8 812.41,-605.8"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-613" font-family="Times,serif" font-size="14.00">🇹🇹 Trinidad and Tobago</text>
+<polygon fill="none" stroke="black" points="1077.41,-605.8 1077.41,-628.6 1111.41,-628.6 1111.41,-605.8 1077.41,-605.8"/>
+<text xml:space="preserve" text-anchor="start" x="1086.97" y="-613" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="1111.41,-605.8 1111.41,-628.6 1136.08,-628.6 1136.08,-605.8 1111.41,-605.8"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-613" font-family="Times,serif" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="812.41,-583 812.41,-605.8 1077.41,-605.8 1077.41,-583 812.41,-583"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-590.2" font-family="Times,serif" font-size="14.00">🇧🇲 Bermuda</text>
+<polygon fill="none" stroke="black" points="1077.41,-583 1077.41,-605.8 1111.41,-605.8 1111.41,-583 1077.41,-583"/>
+<text xml:space="preserve" text-anchor="start" x="1085.08" y="-590.2" font-family="Times,serif" font-size="14.00">-19</text>
+<polygon fill="none" stroke="black" points="1111.41,-583 1111.41,-605.8 1136.08,-605.8 1136.08,-583 1111.41,-583"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-590.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CCFR2GA&#45;&gt;CCFR3GB -->
+<g id="edge4" class="edge">
+<title>CCFR2GA:e2-&gt;CCFR3GB:w4</title>
+<path fill="none" stroke="#68d359" stroke-width="2" d="M761.41,-588.4C778.72,-588.4 785.78,-591.99 798.44,-593.62"/>
+<polygon fill="#68d359" stroke="#68d359" stroke-width="2" points="798.2,-597.11 808.39,-594.22 798.62,-590.12 798.2,-597.11"/>
+</g>
+<!-- CCFR3GC -->
+<g id="node11" class="node">
+<title>CCFR3GC</title>
+<polygon fill="#f8f9fa" stroke="none" points="812.41,-734 812.41,-848 1136.08,-848 1136.08,-734 812.41,-734"/>
+<polygon fill="#eaecf0" stroke="none" points="812.41,-825.2 812.41,-848 1077.41,-848 1077.41,-825.2 812.41,-825.2"/>
+<polygon fill="none" stroke="black" points="812.41,-825.2 812.41,-848 1077.41,-848 1077.41,-825.2 812.41,-825.2"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-833.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1077.41,-825.2 1077.41,-848 1111.41,-848 1111.41,-825.2 1077.41,-825.2"/>
+<polygon fill="none" stroke="black" points="1077.41,-825.2 1077.41,-848 1111.41,-848 1111.41,-825.2 1077.41,-825.2"/>
+<text xml:space="preserve" text-anchor="start" x="1080.41" y="-833.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="1111.41,-825.2 1111.41,-848 1136.08,-848 1136.08,-825.2 1111.41,-825.2"/>
+<polygon fill="none" stroke="black" points="1111.41,-825.2 1111.41,-848 1136.08,-848 1136.08,-825.2 1111.41,-825.2"/>
+<text xml:space="preserve" text-anchor="start" x="1114.41" y="-833.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="812.41,-802.4 812.41,-825.2 1077.41,-825.2 1077.41,-802.4 812.41,-802.4"/>
+<polygon fill="none" stroke="black" points="812.41,-802.4 812.41,-825.2 1077.41,-825.2 1077.41,-802.4 812.41,-802.4"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-810.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇭🇹 Haiti</text>
+<polygon fill="#bbf3bb" stroke="none" points="1077.41,-802.4 1077.41,-825.2 1111.41,-825.2 1111.41,-802.4 1077.41,-802.4"/>
+<polygon fill="none" stroke="black" points="1077.41,-802.4 1077.41,-825.2 1111.41,-825.2 1111.41,-802.4 1077.41,-802.4"/>
+<text xml:space="preserve" text-anchor="start" x="1086.93" y="-810.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+3</text>
+<polygon fill="#bbf3bb" stroke="none" points="1111.41,-802.4 1111.41,-825.2 1136.08,-825.2 1136.08,-802.4 1111.41,-802.4"/>
+<polygon fill="none" stroke="black" points="1111.41,-802.4 1111.41,-825.2 1136.08,-825.2 1136.08,-802.4 1111.41,-802.4"/>
+<text xml:space="preserve" text-anchor="start" x="1116.75" y="-810.6" font-family="Times,serif" font-weight="bold" font-size="14.00">11</text>
+<polygon fill="none" stroke="black" points="812.41,-779.6 812.41,-802.4 1077.41,-802.4 1077.41,-779.6 812.41,-779.6"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-786.8" font-family="Times,serif" font-size="14.00">🇭🇳 Honduras</text>
+<polygon fill="none" stroke="black" points="1077.41,-779.6 1077.41,-802.4 1111.41,-802.4 1111.41,-779.6 1077.41,-779.6"/>
+<text xml:space="preserve" text-anchor="start" x="1086.97" y="-786.8" font-family="Times,serif" font-size="14.00">+3</text>
+<polygon fill="none" stroke="black" points="1111.41,-779.6 1111.41,-802.4 1136.08,-802.4 1136.08,-779.6 1111.41,-779.6"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-786.8" font-family="Times,serif" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="812.41,-756.8 812.41,-779.6 1077.41,-779.6 1077.41,-756.8 812.41,-756.8"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-764" font-family="Times,serif" font-size="14.00">🇨🇷 Costa Rica</text>
+<polygon fill="none" stroke="black" points="1077.41,-756.8 1077.41,-779.6 1111.41,-779.6 1111.41,-756.8 1077.41,-756.8"/>
+<text xml:space="preserve" text-anchor="start" x="1086.97" y="-764" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="1111.41,-756.8 1111.41,-779.6 1136.08,-779.6 1136.08,-756.8 1111.41,-756.8"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-764" font-family="Times,serif" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="812.41,-734 812.41,-756.8 1077.41,-756.8 1077.41,-734 812.41,-734"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-741.2" font-family="Times,serif" font-size="14.00">🇳🇮 Nicaragua</text>
+<polygon fill="none" stroke="black" points="1077.41,-734 1077.41,-756.8 1111.41,-756.8 1111.41,-734 1077.41,-734"/>
+<text xml:space="preserve" text-anchor="start" x="1088.58" y="-741.2" font-family="Times,serif" font-size="14.00">-8</text>
+<polygon fill="none" stroke="black" points="1111.41,-734 1111.41,-756.8 1136.08,-756.8 1136.08,-734 1111.41,-734"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-741.2" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- CCFR2GA&#45;&gt;CCFR3GC -->
+<g id="edge3" class="edge">
+<title>CCFR2GA:e1-&gt;CCFR3GC:w2</title>
+<path fill="none" stroke="#cb7c77" stroke-width="2" d="M761.41,-611.2C839.5,-611.2 741.37,-770.55 798.8,-789.22"/>
+<polygon fill="#cb7c77" stroke="#cb7c77" stroke-width="2" points="798.03,-792.65 808.42,-790.58 799,-785.71 798.03,-792.65"/>
+</g>
+<!-- CCFR2GB -->
+<g id="node4" class="node">
+<title>CCFR2GB</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-671.6 436.75,-808.4 760.41,-808.4 760.41,-671.6 436.75,-671.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-785.6 436.75,-808.4 701.75,-808.4 701.75,-785.6 436.75,-785.6"/>
+<polygon fill="none" stroke="black" points="436.75,-785.6 436.75,-808.4 701.75,-808.4 701.75,-785.6 436.75,-785.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-793.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-785.6 701.75,-808.4 735.75,-808.4 735.75,-785.6 701.75,-785.6"/>
+<polygon fill="none" stroke="black" points="701.75,-785.6 701.75,-808.4 735.75,-808.4 735.75,-785.6 701.75,-785.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-793.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-785.6 735.75,-808.4 760.41,-808.4 760.41,-785.6 735.75,-785.6"/>
+<polygon fill="none" stroke="black" points="735.75,-785.6 735.75,-808.4 760.41,-808.4 760.41,-785.6 735.75,-785.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-793.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-762.8 436.75,-785.6 701.75,-785.6 701.75,-762.8 436.75,-762.8"/>
+<polygon fill="none" stroke="black" points="436.75,-762.8 436.75,-785.6 701.75,-785.6 701.75,-762.8 436.75,-762.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-771" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇷 Costa Rica</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-762.8 701.75,-785.6 735.75,-785.6 735.75,-762.8 701.75,-762.8"/>
+<polygon fill="none" stroke="black" points="701.75,-762.8 701.75,-785.6 735.75,-785.6 735.75,-762.8 701.75,-762.8"/>
+<text xml:space="preserve" text-anchor="start" x="707.76" y="-771" font-family="Times,serif" font-weight="bold" font-size="14.00">+16</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-762.8 735.75,-785.6 760.41,-785.6 760.41,-762.8 735.75,-762.8"/>
+<polygon fill="none" stroke="black" points="735.75,-762.8 735.75,-785.6 760.41,-785.6 760.41,-762.8 735.75,-762.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-771" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-740 436.75,-762.8 701.75,-762.8 701.75,-740 436.75,-740"/>
+<polygon fill="none" stroke="black" points="436.75,-740 436.75,-762.8 701.75,-762.8 701.75,-740 436.75,-740"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-748.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇹🇹 Trinidad and Tobago</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-740 701.75,-762.8 735.75,-762.8 735.75,-740 701.75,-740"/>
+<polygon fill="none" stroke="black" points="701.75,-740 701.75,-762.8 735.75,-762.8 735.75,-740 701.75,-740"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-748.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+9</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-740 735.75,-762.8 760.41,-762.8 760.41,-740 735.75,-740"/>
+<polygon fill="none" stroke="black" points="735.75,-740 735.75,-762.8 760.41,-762.8 760.41,-740 735.75,-740"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-748.2" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="436.75,-717.2 436.75,-740 701.75,-740 701.75,-717.2 436.75,-717.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-724.4" font-family="Times,serif" font-size="14.00">🇬🇩 Grenada</text>
+<polygon fill="none" stroke="black" points="701.75,-717.2 701.75,-740 735.75,-740 735.75,-717.2 701.75,-717.2"/>
+<text xml:space="preserve" text-anchor="start" x="711.3" y="-724.4" font-family="Times,serif" font-size="14.00">+4</text>
+<polygon fill="none" stroke="black" points="735.75,-717.2 735.75,-740 760.41,-740 760.41,-717.2 735.75,-717.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-724.4" font-family="Times,serif" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="436.75,-694.4 436.75,-717.2 701.75,-717.2 701.75,-694.4 436.75,-694.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-701.6" font-family="Times,serif" font-size="14.00">🇰🇳 Saint Kitts and Nevis</text>
+<polygon fill="none" stroke="black" points="701.75,-694.4 701.75,-717.2 735.75,-717.2 735.75,-694.4 701.75,-694.4"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-701.6" font-family="Times,serif" font-size="14.00">-8</text>
+<polygon fill="none" stroke="black" points="735.75,-694.4 735.75,-717.2 760.41,-717.2 760.41,-694.4 735.75,-694.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-701.6" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="436.75,-671.6 436.75,-694.4 701.75,-694.4 701.75,-671.6 436.75,-671.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-678.8" font-family="Times,serif" font-size="14.00">🇧🇸 Bahamas</text>
+<polygon fill="none" stroke="black" points="701.75,-671.6 701.75,-694.4 735.75,-694.4 735.75,-671.6 701.75,-671.6"/>
+<text xml:space="preserve" text-anchor="start" x="709.42" y="-678.8" font-family="Times,serif" font-size="14.00">-21</text>
+<polygon fill="none" stroke="black" points="735.75,-671.6 735.75,-694.4 760.41,-694.4 760.41,-671.6 735.75,-671.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-678.8" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CCFR2GB&#45;&gt;CCFR3GB -->
+<g id="edge6" class="edge">
+<title>CCFR2GB:e2-&gt;CCFR3GB:w3</title>
+<path fill="none" stroke="#c9d73d" stroke-width="2" d="M761.41,-751.4C820.09,-751.4 758.98,-637.35 798.94,-619.53"/>
+<polygon fill="#c9d73d" stroke="#c9d73d" stroke-width="2" points="799.25,-623.03 808.44,-617.76 797.97,-616.15 799.25,-623.03"/>
+</g>
+<!-- CCFR2GB&#45;&gt;CCFR3GC -->
+<g id="edge5" class="edge">
+<title>CCFR2GB:e1-&gt;CCFR3GC:w3</title>
+<path fill="none" stroke="#6b42c8" stroke-width="2" d="M761.41,-774.2C778.72,-774.2 785.78,-770.61 798.44,-768.98"/>
+<polygon fill="#6b42c8" stroke="#6b42c8" stroke-width="2" points="798.62,-772.48 808.39,-768.38 798.2,-765.49 798.62,-772.48"/>
+</g>
+<!-- CCFR2GC -->
+<g id="node5" class="node">
+<title>CCFR2GC</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-834.6 436.75,-971.4 760.41,-971.4 760.41,-834.6 436.75,-834.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-948.6 436.75,-971.4 701.75,-971.4 701.75,-948.6 436.75,-948.6"/>
+<polygon fill="none" stroke="black" points="436.75,-948.6 436.75,-971.4 701.75,-971.4 701.75,-948.6 436.75,-948.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-956.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-948.6 701.75,-971.4 735.75,-971.4 735.75,-948.6 701.75,-948.6"/>
+<polygon fill="none" stroke="black" points="701.75,-948.6 701.75,-971.4 735.75,-971.4 735.75,-948.6 701.75,-948.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-956.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-948.6 735.75,-971.4 760.41,-971.4 760.41,-948.6 735.75,-948.6"/>
+<polygon fill="none" stroke="black" points="735.75,-948.6 735.75,-971.4 760.41,-971.4 760.41,-948.6 735.75,-948.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-956.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-925.8 436.75,-948.6 701.75,-948.6 701.75,-925.8 436.75,-925.8"/>
+<polygon fill="none" stroke="black" points="436.75,-925.8 436.75,-948.6 701.75,-948.6 701.75,-925.8 436.75,-925.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-934" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇼 Curaçao</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-925.8 701.75,-948.6 735.75,-948.6 735.75,-925.8 701.75,-925.8"/>
+<polygon fill="none" stroke="black" points="701.75,-925.8 701.75,-948.6 735.75,-948.6 735.75,-925.8 701.75,-925.8"/>
+<text xml:space="preserve" text-anchor="start" x="707.76" y="-934" font-family="Times,serif" font-weight="bold" font-size="14.00">+13</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-925.8 735.75,-948.6 760.41,-948.6 760.41,-925.8 735.75,-925.8"/>
+<polygon fill="none" stroke="black" points="735.75,-925.8 735.75,-948.6 760.41,-948.6 760.41,-925.8 735.75,-925.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-934" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-903 436.75,-925.8 701.75,-925.8 701.75,-903 436.75,-903"/>
+<polygon fill="none" stroke="black" points="436.75,-903 436.75,-925.8 701.75,-925.8 701.75,-903 436.75,-903"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-911.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇭🇹 Haiti</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-903 701.75,-925.8 735.75,-925.8 735.75,-903 701.75,-903"/>
+<polygon fill="none" stroke="black" points="701.75,-903 701.75,-925.8 735.75,-925.8 735.75,-903 701.75,-903"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-911.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-903 735.75,-925.8 760.41,-925.8 760.41,-903 735.75,-903"/>
+<polygon fill="none" stroke="black" points="735.75,-903 735.75,-925.8 760.41,-925.8 760.41,-903 735.75,-903"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-911.2" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="436.75,-880.2 436.75,-903 701.75,-903 701.75,-880.2 436.75,-880.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-887.4" font-family="Times,serif" font-size="14.00">🇱🇨 Saint Lucia</text>
+<polygon fill="none" stroke="black" points="701.75,-880.2 701.75,-903 735.75,-903 735.75,-880.2 701.75,-880.2"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-887.4" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="735.75,-880.2 735.75,-903 760.41,-903 760.41,-880.2 735.75,-880.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-887.4" font-family="Times,serif" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="436.75,-857.4 436.75,-880.2 701.75,-880.2 701.75,-857.4 436.75,-857.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-864.6" font-family="Times,serif" font-size="14.00">🇦🇼 Aruba</text>
+<polygon fill="none" stroke="black" points="701.75,-857.4 701.75,-880.2 735.75,-880.2 735.75,-857.4 701.75,-857.4"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-864.6" font-family="Times,serif" font-size="14.00">-7</text>
+<polygon fill="none" stroke="black" points="735.75,-857.4 735.75,-880.2 760.41,-880.2 760.41,-857.4 735.75,-857.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-864.6" font-family="Times,serif" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="436.75,-834.6 436.75,-857.4 701.75,-857.4 701.75,-834.6 436.75,-834.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-841.8" font-family="Times,serif" font-size="14.00">🇧🇧 Barbados</text>
+<polygon fill="none" stroke="black" points="701.75,-834.6 701.75,-857.4 735.75,-857.4 735.75,-834.6 701.75,-834.6"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-841.8" font-family="Times,serif" font-size="14.00">-6</text>
+<polygon fill="none" stroke="black" points="735.75,-834.6 735.75,-857.4 760.41,-857.4 760.41,-834.6 735.75,-834.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-841.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CCFR2GC&#45;&gt;CCFR3GB -->
+<g id="edge7" class="edge">
+<title>CCFR2GC:e1-&gt;CCFR3GB:w1</title>
+<path fill="none" stroke="#c555cb" stroke-width="2" d="M761.41,-937.2C880.66,-937.2 702.06,-683.3 798.62,-663.96"/>
+<polygon fill="#c555cb" stroke="#c555cb" stroke-width="2" points="798.76,-667.47 808.4,-663.07 798.12,-660.49 798.76,-667.47"/>
+</g>
+<!-- CCFR2GC&#45;&gt;CCFR3GC -->
+<g id="edge8" class="edge">
+<title>CCFR2GC:e2-&gt;CCFR3GC:w1</title>
+<path fill="none" stroke="#aed688" stroke-width="2" d="M761.41,-914.4C806.27,-914.4 770.58,-833.2 799.08,-816.7"/>
+<polygon fill="#aed688" stroke="#aed688" stroke-width="2" points="799.54,-820.19 808.47,-814.49 797.93,-813.38 799.54,-820.19"/>
+</g>
+<!-- CCFR2GD -->
+<g id="node6" class="node">
+<title>CCFR2GD</title>
+<polygon fill="#f8f9fa" stroke="none" points="436.75,-345.6 436.75,-482.4 760.41,-482.4 760.41,-345.6 436.75,-345.6"/>
+<polygon fill="#eaecf0" stroke="none" points="436.75,-459.6 436.75,-482.4 701.75,-482.4 701.75,-459.6 436.75,-459.6"/>
+<polygon fill="none" stroke="black" points="436.75,-459.6 436.75,-482.4 701.75,-482.4 701.75,-459.6 436.75,-459.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-467.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="701.75,-459.6 701.75,-482.4 735.75,-482.4 735.75,-459.6 701.75,-459.6"/>
+<polygon fill="none" stroke="black" points="701.75,-459.6 701.75,-482.4 735.75,-482.4 735.75,-459.6 701.75,-459.6"/>
+<text xml:space="preserve" text-anchor="start" x="704.75" y="-467.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="735.75,-459.6 735.75,-482.4 760.41,-482.4 760.41,-459.6 735.75,-459.6"/>
+<polygon fill="none" stroke="black" points="735.75,-459.6 735.75,-482.4 760.41,-482.4 760.41,-459.6 735.75,-459.6"/>
+<text xml:space="preserve" text-anchor="start" x="738.75" y="-467.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-436.8 436.75,-459.6 701.75,-459.6 701.75,-436.8 436.75,-436.8"/>
+<polygon fill="none" stroke="black" points="436.75,-436.8 436.75,-459.6 701.75,-459.6 701.75,-436.8 436.75,-436.8"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-445" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇦 Panama</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-436.8 701.75,-459.6 735.75,-459.6 735.75,-436.8 701.75,-436.8"/>
+<polygon fill="none" stroke="black" points="701.75,-436.8 701.75,-459.6 735.75,-459.6 735.75,-436.8 701.75,-436.8"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-445" font-family="Times,serif" font-weight="bold" font-size="14.00">+9</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-436.8 735.75,-459.6 760.41,-459.6 760.41,-436.8 735.75,-436.8"/>
+<polygon fill="none" stroke="black" points="735.75,-436.8 735.75,-459.6 760.41,-459.6 760.41,-436.8 735.75,-436.8"/>
+<text xml:space="preserve" text-anchor="start" x="741.08" y="-445" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="436.75,-414 436.75,-436.8 701.75,-436.8 701.75,-414 436.75,-414"/>
+<polygon fill="none" stroke="black" points="436.75,-414 436.75,-436.8 701.75,-436.8 701.75,-414 436.75,-414"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-422.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇮 Nicaragua</text>
+<polygon fill="#bbf3ff" stroke="none" points="701.75,-414 701.75,-436.8 735.75,-436.8 735.75,-414 701.75,-414"/>
+<polygon fill="none" stroke="black" points="701.75,-414 701.75,-436.8 735.75,-436.8 735.75,-414 701.75,-414"/>
+<text xml:space="preserve" text-anchor="start" x="711.26" y="-422.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3ff" stroke="none" points="735.75,-414 735.75,-436.8 760.41,-436.8 760.41,-414 735.75,-414"/>
+<polygon fill="none" stroke="black" points="735.75,-414 735.75,-436.8 760.41,-436.8 760.41,-414 735.75,-414"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-422.2" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="436.75,-391.2 436.75,-414 701.75,-414 701.75,-391.2 436.75,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-398.4" font-family="Times,serif" font-size="14.00">🇬🇾 Guyana</text>
+<polygon fill="none" stroke="black" points="701.75,-391.2 701.75,-414 735.75,-414 735.75,-391.2 701.75,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="711.3" y="-398.4" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="735.75,-391.2 735.75,-414 760.41,-414 760.41,-391.2 735.75,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-398.4" font-family="Times,serif" font-size="14.00">6</text>
+<polygon fill="none" stroke="black" points="436.75,-368.4 436.75,-391.2 701.75,-391.2 701.75,-368.4 436.75,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-375.6" font-family="Times,serif" font-size="14.00">🇲🇸 Montserrat</text>
+<polygon fill="none" stroke="black" points="701.75,-368.4 701.75,-391.2 735.75,-391.2 735.75,-368.4 701.75,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-375.6" font-family="Times,serif" font-size="14.00">-7</text>
+<polygon fill="none" stroke="black" points="735.75,-368.4 735.75,-391.2 760.41,-391.2 760.41,-368.4 735.75,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-375.6" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="436.75,-345.6 436.75,-368.4 701.75,-368.4 701.75,-345.6 436.75,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="439.75" y="-352.8" font-family="Times,serif" font-size="14.00">🇧🇿 Belize</text>
+<polygon fill="none" stroke="black" points="701.75,-345.6 701.75,-368.4 735.75,-368.4 735.75,-345.6 701.75,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="712.92" y="-352.8" font-family="Times,serif" font-size="14.00">-9</text>
+<polygon fill="none" stroke="black" points="735.75,-345.6 735.75,-368.4 760.41,-368.4 760.41,-345.6 735.75,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="744.58" y="-352.8" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CCFR3GA -->
+<g id="node9" class="node">
+<title>CCFR3GA</title>
+<polygon fill="#f8f9fa" stroke="none" points="812.41,-158 812.41,-272 1136.08,-272 1136.08,-158 812.41,-158"/>
+<polygon fill="#eaecf0" stroke="none" points="812.41,-249.2 812.41,-272 1077.41,-272 1077.41,-249.2 812.41,-249.2"/>
+<polygon fill="none" stroke="black" points="812.41,-249.2 812.41,-272 1077.41,-272 1077.41,-249.2 812.41,-249.2"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-257.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1077.41,-249.2 1077.41,-272 1111.41,-272 1111.41,-249.2 1077.41,-249.2"/>
+<polygon fill="none" stroke="black" points="1077.41,-249.2 1077.41,-272 1111.41,-272 1111.41,-249.2 1077.41,-249.2"/>
+<text xml:space="preserve" text-anchor="start" x="1080.41" y="-257.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="1111.41,-249.2 1111.41,-272 1136.08,-272 1136.08,-249.2 1111.41,-249.2"/>
+<polygon fill="none" stroke="black" points="1111.41,-249.2 1111.41,-272 1136.08,-272 1136.08,-249.2 1111.41,-249.2"/>
+<text xml:space="preserve" text-anchor="start" x="1114.41" y="-257.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="812.41,-226.4 812.41,-249.2 1077.41,-249.2 1077.41,-226.4 812.41,-226.4"/>
+<polygon fill="none" stroke="black" points="812.41,-226.4 812.41,-249.2 1077.41,-249.2 1077.41,-226.4 812.41,-226.4"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-234.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇦 Panama</text>
+<polygon fill="#bbf3bb" stroke="none" points="1077.41,-226.4 1077.41,-249.2 1111.41,-249.2 1111.41,-226.4 1077.41,-226.4"/>
+<polygon fill="none" stroke="black" points="1077.41,-226.4 1077.41,-249.2 1111.41,-249.2 1111.41,-226.4 1077.41,-226.4"/>
+<text xml:space="preserve" text-anchor="start" x="1086.93" y="-234.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3bb" stroke="none" points="1111.41,-226.4 1111.41,-249.2 1136.08,-249.2 1136.08,-226.4 1111.41,-226.4"/>
+<polygon fill="none" stroke="black" points="1111.41,-226.4 1111.41,-249.2 1136.08,-249.2 1136.08,-226.4 1111.41,-226.4"/>
+<text xml:space="preserve" text-anchor="start" x="1116.75" y="-234.6" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
+<polygon fill="#bbf3ff" stroke="none" points="812.41,-203.6 812.41,-226.4 1077.41,-226.4 1077.41,-203.6 812.41,-203.6"/>
+<polygon fill="none" stroke="black" points="812.41,-203.6 812.41,-226.4 1077.41,-226.4 1077.41,-203.6 812.41,-203.6"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-211.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇷 Suriname</text>
+<polygon fill="#bbf3ff" stroke="none" points="1077.41,-203.6 1077.41,-226.4 1111.41,-226.4 1111.41,-203.6 1077.41,-203.6"/>
+<polygon fill="none" stroke="black" points="1077.41,-203.6 1077.41,-226.4 1111.41,-226.4 1111.41,-203.6 1077.41,-203.6"/>
+<text xml:space="preserve" text-anchor="start" x="1086.93" y="-211.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+3</text>
+<polygon fill="#bbf3ff" stroke="none" points="1111.41,-203.6 1111.41,-226.4 1136.08,-226.4 1136.08,-203.6 1111.41,-203.6"/>
+<polygon fill="none" stroke="black" points="1111.41,-203.6 1111.41,-226.4 1136.08,-226.4 1136.08,-203.6 1111.41,-203.6"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-211.8" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="812.41,-180.8 812.41,-203.6 1077.41,-203.6 1077.41,-180.8 812.41,-180.8"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-188" font-family="Times,serif" font-size="14.00">🇬🇹 Guatemala</text>
+<polygon fill="none" stroke="black" points="1077.41,-180.8 1077.41,-203.6 1111.41,-203.6 1111.41,-180.8 1077.41,-180.8"/>
+<text xml:space="preserve" text-anchor="start" x="1086.97" y="-188" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="1111.41,-180.8 1111.41,-203.6 1136.08,-203.6 1136.08,-180.8 1111.41,-180.8"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-188" font-family="Times,serif" font-size="14.00">8</text>
+<polygon fill="none" stroke="black" points="812.41,-158 812.41,-180.8 1077.41,-180.8 1077.41,-158 812.41,-158"/>
+<text xml:space="preserve" text-anchor="start" x="815.41" y="-165.2" font-family="Times,serif" font-size="14.00">🇸🇻 El Salvador</text>
+<polygon fill="none" stroke="black" points="1077.41,-158 1077.41,-180.8 1111.41,-180.8 1111.41,-158 1077.41,-158"/>
+<text xml:space="preserve" text-anchor="start" x="1088.58" y="-165.2" font-family="Times,serif" font-size="14.00">-9</text>
+<polygon fill="none" stroke="black" points="1111.41,-158 1111.41,-180.8 1136.08,-180.8 1136.08,-158 1111.41,-158"/>
+<text xml:space="preserve" text-anchor="start" x="1120.25" y="-165.2" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- CCFR2GD&#45;&gt;CCFR3GA -->
+<g id="edge9" class="edge">
+<title>CCFR2GD:e1-&gt;CCFR3GA:w1</title>
+<path fill="none" stroke="#502e71" stroke-width="2" d="M761.41,-448.2C852.65,-448.2 729.13,-258.63 798.55,-239.37"/>
+<polygon fill="#502e71" stroke="#502e71" stroke-width="2" points="798.91,-242.86 808.41,-238.17 798.06,-235.91 798.91,-242.86"/>
+</g>
+<!-- CCFR2GD&#45;&gt;CCFR3GC -->
+<g id="edge10" class="edge">
+<title>CCFR2GD:e2-&gt;CCFR3GC:w4</title>
+<path fill="none" stroke="#c49a3f" stroke-width="2" d="M761.41,-425.4C828.61,-425.4 751.19,-704.31 799.17,-741.35"/>
+<polygon fill="#c49a3f" stroke="#c49a3f" stroke-width="2" points="797.95,-744.63 808.54,-744.45 800.14,-737.99 797.95,-744.63"/>
+</g>
+<!-- CCFR2GE&#45;&gt;CCFR3GA -->
+<g id="edge12" class="edge">
+<title>CCFR2GE:e2-&gt;CCFR3GA:w3</title>
+<path fill="none" stroke="#d7652d" stroke-width="2" d="M761.41,-262.4C794.48,-262.4 779.17,-210.08 799.01,-195.78"/>
+<polygon fill="#d7652d" stroke="#d7652d" stroke-width="2" points="799.87,-199.17 808.51,-193.04 797.93,-192.45 799.87,-199.17"/>
+</g>
+<!-- CCFR2GE&#45;&gt;CCFR3GB -->
+<g id="edge11" class="edge">
+<title>CCFR2GE:e1-&gt;CCFR3GB:w2</title>
+<path fill="none" stroke="#6a7dc9" stroke-width="2" d="M761.41,-285.2C836.22,-285.2 744.33,-598.34 798.94,-636.26"/>
+<polygon fill="#6a7dc9" stroke="#6a7dc9" stroke-width="2" points="797.93,-639.61 808.51,-639.13 799.94,-632.9 797.93,-639.61"/>
+</g>
+<!-- CCFR2GF&#45;&gt;CCFR3GA -->
+<g id="edge13" class="edge">
+<title>CCFR2GF:e1-&gt;CCFR3GA:w2</title>
+<path fill="none" stroke="#7cd5c8" stroke-width="2" d="M761.41,-122.2C803.14,-122.2 773.04,-195.81 799.05,-211.91"/>
+<polygon fill="#7cd5c8" stroke="#7cd5c8" stroke-width="2" points="797.93,-215.24 808.48,-214.27 799.62,-208.45 797.93,-215.24"/>
+</g>
+<!-- CCFR2GF&#45;&gt;CCFR3GA -->
+<g id="edge14" class="edge">
+<title>CCFR2GF:e2-&gt;CCFR3GA:w4</title>
+<path fill="none" stroke="#c5383c" stroke-width="2" d="M761.41,-99.4C794.42,-99.4 779.21,-151.57 799.03,-165.83"/>
+<polygon fill="#c5383c" stroke="#c5383c" stroke-width="2" points="797.93,-169.16 808.51,-168.56 799.86,-162.43 797.93,-169.16"/>
+</g>
+</g>
+</svg>

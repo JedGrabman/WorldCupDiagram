@@ -1,0 +1,108 @@
+<svg width="331pt" height="486pt" viewBox="0.00 0.00 331.00 486.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 482)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-482 326.81,-482 326.81,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_Conmebol</title>
+<polygon fill="none" stroke="black" points="0,-8 0,-470 322.81,-470 322.81,-8 0,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="161.41" y="-421" font-family="Times,serif" font-size="50.00">Confederación </text>
+<text xml:space="preserve" text-anchor="middle" x="161.41" y="-361" font-family="Times,serif" font-size="50.00">Sudamericana</text>
+<text xml:space="preserve" text-anchor="middle" x="161.41" y="-301" font-family="Times,serif" font-size="50.00"> de Fútbol</text>
+</g>
+<!-- CMBRR -->
+<g id="node1" class="node">
+<title>CMBRR</title>
+<polygon fill="#f8f9fa" stroke="none" points="85.5,-19.6 85.5,-270.4 236.31,-270.4 236.31,-19.6 85.5,-19.6"/>
+<polygon fill="#eaecf0" stroke="none" points="85.5,-247.6 85.5,-270.4 183.67,-270.4 183.67,-247.6 85.5,-247.6"/>
+<polygon fill="none" stroke="black" points="85.5,-247.6 85.5,-270.4 183.67,-270.4 183.67,-247.6 85.5,-247.6"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-255.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="183.67,-247.6 183.67,-270.4 211.64,-270.4 211.64,-247.6 183.67,-247.6"/>
+<polygon fill="none" stroke="black" points="183.67,-247.6 183.67,-270.4 211.64,-270.4 211.64,-247.6 183.67,-247.6"/>
+<text xml:space="preserve" text-anchor="start" x="186.67" y="-255.8" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="211.64,-247.6 211.64,-270.4 236.31,-270.4 236.31,-247.6 211.64,-247.6"/>
+<polygon fill="none" stroke="black" points="211.64,-247.6 211.64,-270.4 236.31,-270.4 236.31,-247.6 211.64,-247.6"/>
+<text xml:space="preserve" text-anchor="start" x="214.64" y="-255.8" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-224.8 85.5,-247.6 183.67,-247.6 183.67,-224.8 85.5,-224.8"/>
+<polygon fill="none" stroke="black" points="85.5,-224.8 85.5,-247.6 183.67,-247.6 183.67,-224.8 85.5,-224.8"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-233" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-224.8 183.67,-247.6 211.64,-247.6 211.64,-224.8 183.67,-224.8"/>
+<polygon fill="none" stroke="black" points="183.67,-224.8 183.67,-247.6 211.64,-247.6 211.64,-224.8 183.67,-224.8"/>
+<text xml:space="preserve" text-anchor="start" x="186.67" y="-233" font-family="Times,serif" font-weight="bold" font-size="14.00">+21</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-224.8 211.64,-247.6 236.31,-247.6 236.31,-224.8 211.64,-224.8"/>
+<polygon fill="none" stroke="black" points="211.64,-224.8 211.64,-247.6 236.31,-247.6 236.31,-224.8 211.64,-224.8"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-233" font-family="Times,serif" font-weight="bold" font-size="14.00">38</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-202 85.5,-224.8 183.67,-224.8 183.67,-202 85.5,-202"/>
+<polygon fill="none" stroke="black" points="85.5,-202 85.5,-224.8 183.67,-224.8 183.67,-202 85.5,-202"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-210.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇨 Ecuador</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-202 183.67,-224.8 211.64,-224.8 211.64,-202 183.67,-202"/>
+<polygon fill="none" stroke="black" points="183.67,-202 183.67,-224.8 211.64,-224.8 211.64,-202 183.67,-202"/>
+<text xml:space="preserve" text-anchor="start" x="190.17" y="-210.2" font-family="Times,serif" font-weight="bold" font-size="14.00">+9</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-202 211.64,-224.8 236.31,-224.8 236.31,-202 211.64,-202"/>
+<polygon fill="none" stroke="black" points="211.64,-202 211.64,-224.8 236.31,-224.8 236.31,-202 211.64,-202"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-210.2" font-family="Times,serif" font-weight="bold" font-size="14.00">29</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-179.2 85.5,-202 183.67,-202 183.67,-179.2 85.5,-179.2"/>
+<polygon fill="none" stroke="black" points="85.5,-179.2 85.5,-202 183.67,-202 183.67,-179.2 85.5,-179.2"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-187.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇴 Colombia</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-179.2 183.67,-202 211.64,-202 211.64,-179.2 183.67,-179.2"/>
+<polygon fill="none" stroke="black" points="183.67,-179.2 183.67,-202 211.64,-202 211.64,-179.2 183.67,-179.2"/>
+<text xml:space="preserve" text-anchor="start" x="186.67" y="-187.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+10</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-179.2 211.64,-202 236.31,-202 236.31,-179.2 211.64,-179.2"/>
+<polygon fill="none" stroke="black" points="211.64,-179.2 211.64,-202 236.31,-202 236.31,-179.2 211.64,-179.2"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-187.4" font-family="Times,serif" font-weight="bold" font-size="14.00">28</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-156.4 85.5,-179.2 183.67,-179.2 183.67,-156.4 85.5,-156.4"/>
+<polygon fill="none" stroke="black" points="85.5,-156.4 85.5,-179.2 183.67,-179.2 183.67,-156.4 85.5,-156.4"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-164.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇺🇾 Uruguay</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-156.4 183.67,-179.2 211.64,-179.2 211.64,-156.4 183.67,-156.4"/>
+<polygon fill="none" stroke="black" points="183.67,-156.4 183.67,-179.2 211.64,-179.2 211.64,-156.4 183.67,-156.4"/>
+<text xml:space="preserve" text-anchor="start" x="186.67" y="-164.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+10</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-156.4 211.64,-179.2 236.31,-179.2 236.31,-156.4 211.64,-156.4"/>
+<polygon fill="none" stroke="black" points="211.64,-156.4 211.64,-179.2 236.31,-179.2 236.31,-156.4 211.64,-156.4"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-164.6" font-family="Times,serif" font-weight="bold" font-size="14.00">28</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-133.6 85.5,-156.4 183.67,-156.4 183.67,-133.6 85.5,-133.6"/>
+<polygon fill="none" stroke="black" points="85.5,-133.6 85.5,-156.4 183.67,-156.4 183.67,-133.6 85.5,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇷 Brazil</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-133.6 183.67,-156.4 211.64,-156.4 211.64,-133.6 183.67,-133.6"/>
+<polygon fill="none" stroke="black" points="183.67,-133.6 183.67,-156.4 211.64,-156.4 211.64,-133.6 183.67,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="190.17" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+7</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-133.6 211.64,-156.4 236.31,-156.4 236.31,-133.6 211.64,-133.6"/>
+<polygon fill="none" stroke="black" points="211.64,-133.6 211.64,-156.4 236.31,-156.4 236.31,-133.6 211.64,-133.6"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-141.8" font-family="Times,serif" font-weight="bold" font-size="14.00">28</text>
+<polygon fill="#bbf3bb" stroke="none" points="85.5,-110.8 85.5,-133.6 183.67,-133.6 183.67,-110.8 85.5,-110.8"/>
+<polygon fill="none" stroke="black" points="85.5,-110.8 85.5,-133.6 183.67,-133.6 183.67,-110.8 85.5,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇾 Paraguay</text>
+<polygon fill="#bbf3bb" stroke="none" points="183.67,-110.8 183.67,-133.6 211.64,-133.6 211.64,-110.8 183.67,-110.8"/>
+<polygon fill="none" stroke="black" points="183.67,-110.8 183.67,-133.6 211.64,-133.6 211.64,-110.8 183.67,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="190.17" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3bb" stroke="none" points="211.64,-110.8 211.64,-133.6 236.31,-133.6 236.31,-110.8 211.64,-110.8"/>
+<polygon fill="none" stroke="black" points="211.64,-110.8 211.64,-133.6 236.31,-133.6 236.31,-110.8 211.64,-110.8"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-119" font-family="Times,serif" font-weight="bold" font-size="14.00">28</text>
+<polygon fill="#bbf3ff" stroke="none" points="85.5,-88 85.5,-110.8 183.67,-110.8 183.67,-88 85.5,-88"/>
+<polygon fill="none" stroke="black" points="85.5,-88 85.5,-110.8 183.67,-110.8 183.67,-88 85.5,-88"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇴 Bolivia</text>
+<polygon fill="#bbf3ff" stroke="none" points="183.67,-88 183.67,-110.8 211.64,-110.8 211.64,-88 183.67,-88"/>
+<polygon fill="none" stroke="black" points="183.67,-88 183.67,-110.8 211.64,-110.8 211.64,-88 183.67,-88"/>
+<text xml:space="preserve" text-anchor="start" x="188.32" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">-18</text>
+<polygon fill="#bbf3ff" stroke="none" points="211.64,-88 211.64,-110.8 236.31,-110.8 236.31,-88 211.64,-88"/>
+<polygon fill="none" stroke="black" points="211.64,-88 211.64,-110.8 236.31,-110.8 236.31,-88 211.64,-88"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-96.2" font-family="Times,serif" font-weight="bold" font-size="14.00">20</text>
+<polygon fill="none" stroke="black" points="85.5,-65.2 85.5,-88 183.67,-88 183.67,-65.2 85.5,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-72.4" font-family="Times,serif" font-size="14.00">🇻🇪 Venezuela</text>
+<polygon fill="none" stroke="black" points="183.67,-65.2 183.67,-88 211.64,-88 211.64,-65.2 183.67,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="188.32" y="-72.4" font-family="Times,serif" font-size="14.00">-10</text>
+<polygon fill="none" stroke="black" points="211.64,-65.2 211.64,-88 236.31,-88 236.31,-65.2 211.64,-65.2"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-72.4" font-family="Times,serif" font-size="14.00">18</text>
+<polygon fill="none" stroke="black" points="85.5,-42.4 85.5,-65.2 183.67,-65.2 183.67,-42.4 85.5,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-49.6" font-family="Times,serif" font-size="14.00">🇵🇪 Peru</text>
+<polygon fill="none" stroke="black" points="183.67,-42.4 183.67,-65.2 211.64,-65.2 211.64,-42.4 183.67,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="188.32" y="-49.6" font-family="Times,serif" font-size="14.00">-15</text>
+<polygon fill="none" stroke="black" points="211.64,-42.4 211.64,-65.2 236.31,-65.2 236.31,-42.4 211.64,-42.4"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-49.6" font-family="Times,serif" font-size="14.00">12</text>
+<polygon fill="none" stroke="black" points="85.5,-19.6 85.5,-42.4 183.67,-42.4 183.67,-19.6 85.5,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="88.5" y="-26.8" font-family="Times,serif" font-size="14.00">🇨🇱 Chile</text>
+<polygon fill="none" stroke="black" points="183.67,-19.6 183.67,-42.4 211.64,-42.4 211.64,-19.6 183.67,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="188.32" y="-26.8" font-family="Times,serif" font-size="14.00">-18</text>
+<polygon fill="none" stroke="black" points="211.64,-19.6 211.64,-42.4 236.31,-42.4 236.31,-19.6 211.64,-19.6"/>
+<text xml:space="preserve" text-anchor="start" x="216.98" y="-26.8" font-family="Times,serif" font-size="14.00">11</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,604 @@
+<svg width="1050pt" height="1020pt" viewBox="0.00 0.00 1050.00 1020.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1016)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1016 1046.18,-1016 1046.18,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_CAF</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-1004 1034.18,-1004 1034.18,-8 8,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="521.09" y="-955" font-family="Times,serif" font-size="50.00">Confederation of African Football</text>
+</g>
+<!-- CAFR1GA -->
+<g id="node1" class="node">
+<title>CAFR1GA</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-20.2 24,-179.8 289.66,-179.8 289.66,-20.2 24,-20.2"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-157 24,-179.8 231,-179.8 231,-157 24,-157"/>
+<polygon fill="none" stroke="black" points="24,-157 24,-179.8 231,-179.8 231,-157 24,-157"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="231,-157 231,-179.8 265,-179.8 265,-157 231,-157"/>
+<polygon fill="none" stroke="black" points="231,-157 231,-179.8 265,-179.8 265,-157 231,-157"/>
+<text xml:space="preserve" text-anchor="start" x="234" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="265,-157 265,-179.8 289.66,-179.8 289.66,-157 265,-157"/>
+<polygon fill="none" stroke="black" points="265,-157 265,-179.8 289.66,-179.8 289.66,-157 265,-157"/>
+<text xml:space="preserve" text-anchor="start" x="268" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="24,-134.2 24,-157 231,-157 231,-134.2 24,-134.2"/>
+<polygon fill="none" stroke="black" points="24,-134.2 24,-157 231,-157 231,-134.2 24,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇬 Egypt</text>
+<polygon fill="#bbf3bb" stroke="none" points="231,-134.2 231,-157 265,-157 265,-134.2 231,-134.2"/>
+<polygon fill="none" stroke="black" points="231,-134.2 231,-157 265,-157 265,-134.2 231,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="237.01" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+18</text>
+<polygon fill="#bbf3bb" stroke="none" points="265,-134.2 265,-157 289.66,-157 289.66,-134.2 265,-134.2"/>
+<polygon fill="none" stroke="black" points="265,-134.2 265,-157 289.66,-157 289.66,-134.2 265,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">26</text>
+<polygon fill="none" stroke="black" points="24,-111.4 24,-134.2 231,-134.2 231,-111.4 24,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-118.6" font-family="Times,serif" font-size="14.00">🇧🇫 Burkina Faso</text>
+<polygon fill="none" stroke="black" points="231,-111.4 231,-134.2 265,-134.2 265,-111.4 231,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.05" y="-118.6" font-family="Times,serif" font-size="14.00">+15</text>
+<polygon fill="none" stroke="black" points="265,-111.4 265,-134.2 289.66,-134.2 289.66,-111.4 265,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-118.6" font-family="Times,serif" font-size="14.00">21</text>
+<polygon fill="none" stroke="black" points="24,-88.6 24,-111.4 231,-111.4 231,-88.6 24,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-95.8" font-family="Times,serif" font-size="14.00">🇸🇱 Sierra Leone</text>
+<polygon fill="none" stroke="black" points="231,-88.6 231,-111.4 265,-111.4 265,-88.6 231,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-95.8" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="265,-88.6 265,-111.4 289.66,-111.4 289.66,-88.6 265,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-95.8" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-65.8 24,-88.6 231,-88.6 231,-65.8 24,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-73" font-family="Times,serif" font-size="14.00">🇬🇼 Guinea-Bissau</text>
+<polygon fill="none" stroke="black" points="231,-65.8 231,-88.6 265,-88.6 265,-65.8 231,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-73" font-family="Times,serif" font-size="14.00">-2</text>
+<polygon fill="none" stroke="black" points="265,-65.8 265,-88.6 289.66,-88.6 289.66,-65.8 265,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-73" font-family="Times,serif" font-size="14.00">10</text>
+<polygon fill="none" stroke="black" points="24,-43 24,-65.8 231,-65.8 231,-43 24,-43"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-50.2" font-family="Times,serif" font-size="14.00">🇪🇹 Ethiopia</text>
+<polygon fill="none" stroke="black" points="231,-43 231,-65.8 265,-65.8 265,-43 231,-43"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-50.2" font-family="Times,serif" font-size="14.00">-5</text>
+<polygon fill="none" stroke="black" points="265,-43 265,-65.8 289.66,-65.8 289.66,-43 265,-43"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-50.2" font-family="Times,serif" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="24,-20.2 24,-43 231,-43 231,-20.2 24,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-27.4" font-family="Times,serif" font-size="14.00">🇩🇯 Djibouti</text>
+<polygon fill="none" stroke="black" points="231,-20.2 231,-43 265,-43 265,-20.2 231,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-27.4" font-family="Times,serif" font-size="14.00">-28</text>
+<polygon fill="none" stroke="black" points="265,-20.2 265,-43 289.66,-43 289.66,-20.2 265,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-27.4" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CAFR1GC -->
+<g id="node3" class="node">
+<title>CAFR1GC</title>
+<polygon fill="#f8f9fa" stroke="none" points="341.66,-206.2 341.66,-365.8 607.32,-365.8 607.32,-206.2 341.66,-206.2"/>
+<polygon fill="#eaecf0" stroke="none" points="341.66,-343 341.66,-365.8 548.66,-365.8 548.66,-343 341.66,-343"/>
+<polygon fill="none" stroke="black" points="341.66,-343 341.66,-365.8 548.66,-365.8 548.66,-343 341.66,-343"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="548.66,-343 548.66,-365.8 582.66,-365.8 582.66,-343 548.66,-343"/>
+<polygon fill="none" stroke="black" points="548.66,-343 548.66,-365.8 582.66,-365.8 582.66,-343 548.66,-343"/>
+<text xml:space="preserve" text-anchor="start" x="551.66" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="582.66,-343 582.66,-365.8 607.32,-365.8 607.32,-343 582.66,-343"/>
+<polygon fill="none" stroke="black" points="582.66,-343 582.66,-365.8 607.32,-365.8 607.32,-343 582.66,-343"/>
+<text xml:space="preserve" text-anchor="start" x="585.66" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="341.66,-320.2 341.66,-343 548.66,-343 548.66,-320.2 341.66,-320.2"/>
+<polygon fill="none" stroke="black" points="341.66,-320.2 341.66,-343 548.66,-343 548.66,-320.2 341.66,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇿🇦 South Africa</text>
+<polygon fill="#bbf3bb" stroke="none" points="548.66,-320.2 548.66,-343 582.66,-343 582.66,-320.2 548.66,-320.2"/>
+<polygon fill="none" stroke="black" points="548.66,-320.2 548.66,-343 582.66,-343 582.66,-320.2 548.66,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="558.17" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3bb" stroke="none" points="582.66,-320.2 582.66,-343 607.32,-343 607.32,-320.2 582.66,-320.2"/>
+<polygon fill="none" stroke="black" points="582.66,-320.2 582.66,-343 607.32,-343 607.32,-320.2 582.66,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">18</text>
+<polygon fill="#bbf3ff" stroke="none" points="341.66,-297.4 341.66,-320.2 548.66,-320.2 548.66,-297.4 341.66,-297.4"/>
+<polygon fill="none" stroke="black" points="341.66,-297.4 341.66,-320.2 548.66,-320.2 548.66,-297.4 341.66,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-305.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇬 Nigeria</text>
+<polygon fill="#bbf3ff" stroke="none" points="548.66,-297.4 548.66,-320.2 582.66,-320.2 582.66,-297.4 548.66,-297.4"/>
+<polygon fill="none" stroke="black" points="548.66,-297.4 548.66,-320.2 582.66,-320.2 582.66,-297.4 548.66,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="558.17" y="-305.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+7</text>
+<polygon fill="#bbf3ff" stroke="none" points="582.66,-297.4 582.66,-320.2 607.32,-320.2 607.32,-297.4 582.66,-297.4"/>
+<polygon fill="none" stroke="black" points="582.66,-297.4 582.66,-320.2 607.32,-320.2 607.32,-297.4 582.66,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-305.6" font-family="Times,serif" font-weight="bold" font-size="14.00">17</text>
+<polygon fill="none" stroke="black" points="341.66,-274.6 341.66,-297.4 548.66,-297.4 548.66,-274.6 341.66,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-281.8" font-family="Times,serif" font-size="14.00">🇧🇯 Benin</text>
+<polygon fill="none" stroke="black" points="548.66,-274.6 548.66,-297.4 582.66,-297.4 582.66,-274.6 548.66,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-281.8" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="582.66,-274.6 582.66,-297.4 607.32,-297.4 607.32,-274.6 582.66,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-281.8" font-family="Times,serif" font-size="14.00">17</text>
+<polygon fill="none" stroke="black" points="341.66,-251.8 341.66,-274.6 548.66,-274.6 548.66,-251.8 341.66,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-259" font-family="Times,serif" font-size="14.00">🇱🇸 Lesotho</text>
+<polygon fill="none" stroke="black" points="548.66,-251.8 548.66,-274.6 582.66,-274.6 582.66,-251.8 548.66,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="559.83" y="-259" font-family="Times,serif" font-size="14.00">-3</text>
+<polygon fill="none" stroke="black" points="582.66,-251.8 582.66,-274.6 607.32,-274.6 607.32,-251.8 582.66,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-259" font-family="Times,serif" font-size="14.00">12</text>
+<polygon fill="none" stroke="black" points="341.66,-229 341.66,-251.8 548.66,-251.8 548.66,-229 341.66,-229"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-236.2" font-family="Times,serif" font-size="14.00">🇷🇼 Rwanda</text>
+<polygon fill="none" stroke="black" points="548.66,-229 548.66,-251.8 582.66,-251.8 582.66,-229 548.66,-229"/>
+<text xml:space="preserve" text-anchor="start" x="559.83" y="-236.2" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="582.66,-229 582.66,-251.8 607.32,-251.8 607.32,-229 582.66,-229"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-236.2" font-family="Times,serif" font-size="14.00">11</text>
+<polygon fill="none" stroke="black" points="341.66,-206.2 341.66,-229 548.66,-229 548.66,-206.2 341.66,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-213.4" font-family="Times,serif" font-size="14.00">🇿🇼 Zimbabwe</text>
+<polygon fill="none" stroke="black" points="548.66,-206.2 548.66,-229 582.66,-229 582.66,-206.2 548.66,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="559.83" y="-213.4" font-family="Times,serif" font-size="14.00">-7</text>
+<polygon fill="none" stroke="black" points="582.66,-206.2 582.66,-229 607.32,-229 607.32,-206.2 582.66,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-213.4" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- CAFR1GA&#45;&gt;CAFR1GC -->
+<!-- CAFR1GB -->
+<g id="node2" class="node">
+<title>CAFR1GB</title>
+<polygon fill="#f8f9fa" stroke="none" points="341.66,-392.2 341.66,-551.8 607.32,-551.8 607.32,-392.2 341.66,-392.2"/>
+<polygon fill="#eaecf0" stroke="none" points="341.66,-529 341.66,-551.8 548.66,-551.8 548.66,-529 341.66,-529"/>
+<polygon fill="none" stroke="black" points="341.66,-529 341.66,-551.8 548.66,-551.8 548.66,-529 341.66,-529"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="548.66,-529 548.66,-551.8 582.66,-551.8 582.66,-529 548.66,-529"/>
+<polygon fill="none" stroke="black" points="548.66,-529 548.66,-551.8 582.66,-551.8 582.66,-529 548.66,-529"/>
+<text xml:space="preserve" text-anchor="start" x="551.66" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="582.66,-529 582.66,-551.8 607.32,-551.8 607.32,-529 582.66,-529"/>
+<polygon fill="none" stroke="black" points="582.66,-529 582.66,-551.8 607.32,-551.8 607.32,-529 582.66,-529"/>
+<text xml:space="preserve" text-anchor="start" x="585.66" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="341.66,-506.2 341.66,-529 548.66,-529 548.66,-506.2 341.66,-506.2"/>
+<polygon fill="none" stroke="black" points="341.66,-506.2 341.66,-529 548.66,-529 548.66,-506.2 341.66,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇳 Senegal</text>
+<polygon fill="#bbf3bb" stroke="none" points="548.66,-506.2 548.66,-529 582.66,-529 582.66,-506.2 548.66,-506.2"/>
+<polygon fill="none" stroke="black" points="548.66,-506.2 548.66,-529 582.66,-529 582.66,-506.2 548.66,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="554.67" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+19</text>
+<polygon fill="#bbf3bb" stroke="none" points="582.66,-506.2 582.66,-529 607.32,-529 607.32,-506.2 582.66,-506.2"/>
+<polygon fill="none" stroke="black" points="582.66,-506.2 582.66,-529 607.32,-529 607.32,-506.2 582.66,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">24</text>
+<polygon fill="#bbf3ff" stroke="none" points="341.66,-483.4 341.66,-506.2 548.66,-506.2 548.66,-483.4 341.66,-483.4"/>
+<polygon fill="none" stroke="black" points="341.66,-483.4 341.66,-506.2 548.66,-506.2 548.66,-483.4 341.66,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-491.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="#bbf3ff" stroke="none" points="548.66,-483.4 548.66,-506.2 582.66,-506.2 582.66,-483.4 548.66,-483.4"/>
+<polygon fill="none" stroke="black" points="548.66,-483.4 548.66,-506.2 582.66,-506.2 582.66,-483.4 548.66,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="558.17" y="-491.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+9</text>
+<polygon fill="#bbf3ff" stroke="none" points="582.66,-483.4 582.66,-506.2 607.32,-506.2 607.32,-483.4 582.66,-483.4"/>
+<polygon fill="none" stroke="black" points="582.66,-483.4 582.66,-506.2 607.32,-506.2 607.32,-483.4 582.66,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-491.6" font-family="Times,serif" font-weight="bold" font-size="14.00">22</text>
+<polygon fill="none" stroke="black" points="341.66,-460.6 341.66,-483.4 548.66,-483.4 548.66,-460.6 341.66,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-467.8" font-family="Times,serif" font-size="14.00">🇸🇩 Sudan</text>
+<polygon fill="none" stroke="black" points="548.66,-460.6 548.66,-483.4 582.66,-483.4 582.66,-460.6 548.66,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-467.8" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="582.66,-460.6 582.66,-483.4 607.32,-483.4 607.32,-460.6 582.66,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-467.8" font-family="Times,serif" font-size="14.00">13</text>
+<polygon fill="none" stroke="black" points="341.66,-437.8 341.66,-460.6 548.66,-460.6 548.66,-437.8 341.66,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-445" font-family="Times,serif" font-size="14.00">🇹🇬 Togo</text>
+<polygon fill="none" stroke="black" points="548.66,-437.8 548.66,-460.6 582.66,-460.6 582.66,-437.8 548.66,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="559.83" y="-445" font-family="Times,serif" font-size="14.00">-5</text>
+<polygon fill="none" stroke="black" points="582.66,-437.8 582.66,-460.6 607.32,-460.6 607.32,-437.8 582.66,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-445" font-family="Times,serif" font-size="14.00">8</text>
+<polygon fill="none" stroke="black" points="341.66,-415 341.66,-437.8 548.66,-437.8 548.66,-415 341.66,-415"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-422.2" font-family="Times,serif" font-size="14.00">🇲🇷 Mauritania</text>
+<polygon fill="none" stroke="black" points="548.66,-415 548.66,-437.8 582.66,-437.8 582.66,-415 548.66,-415"/>
+<text xml:space="preserve" text-anchor="start" x="559.83" y="-422.2" font-family="Times,serif" font-size="14.00">-9</text>
+<polygon fill="none" stroke="black" points="582.66,-415 582.66,-437.8 607.32,-437.8 607.32,-415 582.66,-415"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-422.2" font-family="Times,serif" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="341.66,-392.2 341.66,-415 548.66,-415 548.66,-392.2 341.66,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-399.4" font-family="Times,serif" font-size="14.00">🇸🇸 South Sudan</text>
+<polygon fill="none" stroke="black" points="548.66,-392.2 548.66,-415 582.66,-415 582.66,-392.2 548.66,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="556.33" y="-399.4" font-family="Times,serif" font-size="14.00">-16</text>
+<polygon fill="none" stroke="black" points="582.66,-392.2 582.66,-415 607.32,-415 607.32,-392.2 582.66,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-399.4" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- CAFR2S2 -->
+<g id="node11" class="node">
+<title>CAFR2S2</title>
+<polygon fill="#f8f9fa" stroke="none" points="659.32,-482.8 659.32,-551.2 812.75,-551.2 812.75,-482.8 659.32,-482.8"/>
+<polygon fill="#eaecf0" stroke="none" points="659.32,-528.4 659.32,-551.2 773.32,-551.2 773.32,-528.4 659.32,-528.4"/>
+<polygon fill="none" stroke="black" points="659.32,-528.4 659.32,-551.2 773.32,-551.2 773.32,-528.4 659.32,-528.4"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-536.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="773.32,-528.4 773.32,-551.2 812.75,-551.2 812.75,-528.4 773.32,-528.4"/>
+<polygon fill="none" stroke="black" points="773.32,-528.4 773.32,-551.2 812.75,-551.2 812.75,-528.4 773.32,-528.4"/>
+<text xml:space="preserve" text-anchor="start" x="776.32" y="-536.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="659.32,-505.6 659.32,-528.4 773.32,-528.4 773.32,-505.6 659.32,-505.6"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-512.8" font-family="Times,serif" font-size="14.00">🇨🇲 Cameroon</text>
+<polygon fill="none" stroke="black" points="773.32,-505.6 773.32,-528.4 812.75,-528.4 812.75,-505.6 773.32,-505.6"/>
+<text xml:space="preserve" text-anchor="start" x="789.54" y="-512.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="659.32,-482.8 659.32,-505.6 773.32,-505.6 773.32,-482.8 659.32,-482.8"/>
+<polygon fill="none" stroke="black" points="659.32,-482.8 659.32,-505.6 773.32,-505.6 773.32,-482.8 659.32,-482.8"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-491" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="#bbf3ff" stroke="none" points="773.32,-482.8 773.32,-505.6 812.75,-505.6 812.75,-482.8 773.32,-482.8"/>
+<polygon fill="none" stroke="black" points="773.32,-482.8 773.32,-505.6 812.75,-505.6 812.75,-482.8 773.32,-482.8"/>
+<text xml:space="preserve" text-anchor="start" x="789.54" y="-491" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+</g>
+<!-- CAFR1GB&#45;&gt;CAFR2S2 -->
+<g id="edge6" class="edge">
+<title>CAFR1GB:e2-&gt;CAFR2S2:w2</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M608.32,-494.8C625.51,-494.8 632.73,-494.44 645.4,-494.28"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="645.32,-497.78 655.3,-494.22 645.28,-490.78 645.32,-497.78"/>
+</g>
+<!-- CAFR1GF -->
+<g id="node6" class="node">
+<title>CAFR1GF</title>
+<polygon fill="#f8f9fa" stroke="none" points="341.66,-20.2 341.66,-179.8 607.32,-179.8 607.32,-20.2 341.66,-20.2"/>
+<polygon fill="#eaecf0" stroke="none" points="341.66,-157 341.66,-179.8 548.66,-179.8 548.66,-157 341.66,-157"/>
+<polygon fill="none" stroke="black" points="341.66,-157 341.66,-179.8 548.66,-179.8 548.66,-157 341.66,-157"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="548.66,-157 548.66,-179.8 582.66,-179.8 582.66,-157 548.66,-157"/>
+<polygon fill="none" stroke="black" points="548.66,-157 548.66,-179.8 582.66,-179.8 582.66,-157 548.66,-157"/>
+<text xml:space="preserve" text-anchor="start" x="551.66" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="582.66,-157 582.66,-179.8 607.32,-179.8 607.32,-157 582.66,-157"/>
+<polygon fill="none" stroke="black" points="582.66,-157 582.66,-179.8 607.32,-179.8 607.32,-157 582.66,-157"/>
+<text xml:space="preserve" text-anchor="start" x="585.66" y="-165.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="341.66,-134.2 341.66,-157 548.66,-157 548.66,-134.2 341.66,-134.2"/>
+<polygon fill="none" stroke="black" points="341.66,-134.2 341.66,-157 548.66,-157 548.66,-134.2 341.66,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇮 Ivory Coast</text>
+<polygon fill="#bbf3bb" stroke="none" points="548.66,-134.2 548.66,-157 582.66,-157 582.66,-134.2 548.66,-134.2"/>
+<polygon fill="none" stroke="black" points="548.66,-134.2 548.66,-157 582.66,-157 582.66,-134.2 548.66,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="554.67" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+25</text>
+<polygon fill="#bbf3bb" stroke="none" points="582.66,-134.2 582.66,-157 607.32,-157 607.32,-134.2 582.66,-134.2"/>
+<polygon fill="none" stroke="black" points="582.66,-134.2 582.66,-157 607.32,-157 607.32,-134.2 582.66,-134.2"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-142.4" font-family="Times,serif" font-weight="bold" font-size="14.00">26</text>
+<polygon fill="#bbf3ff" stroke="none" points="341.66,-111.4 341.66,-134.2 548.66,-134.2 548.66,-111.4 341.66,-111.4"/>
+<polygon fill="none" stroke="black" points="341.66,-111.4 341.66,-134.2 548.66,-134.2 548.66,-111.4 341.66,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-119.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇬🇦 Gabon</text>
+<polygon fill="#bbf3ff" stroke="none" points="548.66,-111.4 548.66,-134.2 582.66,-134.2 582.66,-111.4 548.66,-111.4"/>
+<polygon fill="none" stroke="black" points="548.66,-111.4 548.66,-134.2 582.66,-134.2 582.66,-111.4 548.66,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="554.67" y="-119.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+13</text>
+<polygon fill="#bbf3ff" stroke="none" points="582.66,-111.4 582.66,-134.2 607.32,-134.2 607.32,-111.4 582.66,-111.4"/>
+<polygon fill="none" stroke="black" points="582.66,-111.4 582.66,-134.2 607.32,-134.2 607.32,-111.4 582.66,-111.4"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-119.6" font-family="Times,serif" font-weight="bold" font-size="14.00">25</text>
+<polygon fill="none" stroke="black" points="341.66,-88.6 341.66,-111.4 548.66,-111.4 548.66,-88.6 341.66,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-95.8" font-family="Times,serif" font-size="14.00">🇬🇲 Gambia</text>
+<polygon fill="none" stroke="black" points="548.66,-88.6 548.66,-111.4 582.66,-111.4 582.66,-88.6 548.66,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-95.8" font-family="Times,serif" font-size="14.00">+9</text>
+<polygon fill="none" stroke="black" points="582.66,-88.6 582.66,-111.4 607.32,-111.4 607.32,-88.6 582.66,-88.6"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-95.8" font-family="Times,serif" font-size="14.00">13</text>
+<polygon fill="none" stroke="black" points="341.66,-65.8 341.66,-88.6 548.66,-88.6 548.66,-65.8 341.66,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-73" font-family="Times,serif" font-size="14.00">🇰🇪 Kenya</text>
+<polygon fill="none" stroke="black" points="548.66,-65.8 548.66,-88.6 582.66,-88.6 582.66,-65.8 548.66,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-73" font-family="Times,serif" font-size="14.00">+4</text>
+<polygon fill="none" stroke="black" points="582.66,-65.8 582.66,-88.6 607.32,-88.6 607.32,-65.8 582.66,-65.8"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-73" font-family="Times,serif" font-size="14.00">12</text>
+<polygon fill="none" stroke="black" points="341.66,-43 341.66,-65.8 548.66,-65.8 548.66,-43 341.66,-43"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-50.2" font-family="Times,serif" font-size="14.00">🇧🇮 Burundi</text>
+<polygon fill="none" stroke="black" points="548.66,-43 548.66,-65.8 582.66,-65.8 582.66,-43 548.66,-43"/>
+<text xml:space="preserve" text-anchor="start" x="562.16" y="-50.2" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="582.66,-43 582.66,-65.8 607.32,-65.8 607.32,-43 582.66,-43"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-50.2" font-family="Times,serif" font-size="14.00">10</text>
+<polygon fill="none" stroke="black" points="341.66,-20.2 341.66,-43 548.66,-43 548.66,-20.2 341.66,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-27.4" font-family="Times,serif" font-size="14.00">🇸🇨 Seychelles</text>
+<polygon fill="none" stroke="black" points="548.66,-20.2 548.66,-43 582.66,-43 582.66,-20.2 548.66,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="556.33" y="-27.4" font-family="Times,serif" font-size="14.00">-51</text>
+<polygon fill="none" stroke="black" points="582.66,-20.2 582.66,-43 607.32,-43 607.32,-20.2 582.66,-20.2"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-27.4" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CAFR1GC&#45;&gt;CAFR1GF -->
+<!-- CAFR2S1 -->
+<g id="node10" class="node">
+<title>CAFR2S1</title>
+<polygon fill="#f8f9fa" stroke="none" points="659.32,-273.8 659.32,-342.2 812.75,-342.2 812.75,-273.8 659.32,-273.8"/>
+<polygon fill="#eaecf0" stroke="none" points="659.32,-319.4 659.32,-342.2 773.32,-342.2 773.32,-319.4 659.32,-319.4"/>
+<polygon fill="none" stroke="black" points="659.32,-319.4 659.32,-342.2 773.32,-342.2 773.32,-319.4 659.32,-319.4"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-327.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="773.32,-319.4 773.32,-342.2 812.75,-342.2 812.75,-319.4 773.32,-319.4"/>
+<polygon fill="none" stroke="black" points="773.32,-319.4 773.32,-342.2 812.75,-342.2 812.75,-319.4 773.32,-319.4"/>
+<text xml:space="preserve" text-anchor="start" x="776.32" y="-327.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="659.32,-296.6 659.32,-319.4 773.32,-319.4 773.32,-296.6 659.32,-296.6"/>
+<polygon fill="none" stroke="black" points="659.32,-296.6 659.32,-319.4 773.32,-319.4 773.32,-296.6 659.32,-296.6"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-304.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇬 Nigeria</text>
+<polygon fill="#bbf3ff" stroke="none" points="773.32,-296.6 773.32,-319.4 812.75,-319.4 812.75,-296.6 773.32,-296.6"/>
+<polygon fill="none" stroke="black" points="773.32,-296.6 773.32,-319.4 812.75,-319.4 812.75,-296.6 773.32,-296.6"/>
+<text xml:space="preserve" text-anchor="start" x="789.54" y="-304.8" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="659.32,-273.8 659.32,-296.6 773.32,-296.6 773.32,-273.8 659.32,-273.8"/>
+<text xml:space="preserve" text-anchor="start" x="662.32" y="-281" font-family="Times,serif" font-size="14.00">🇬🇦 Gabon</text>
+<polygon fill="none" stroke="black" points="773.32,-273.8 773.32,-296.6 812.75,-296.6 812.75,-273.8 773.32,-273.8"/>
+<text xml:space="preserve" text-anchor="start" x="789.54" y="-281" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CAFR1GC&#45;&gt;CAFR2S1 -->
+<g id="edge3" class="edge">
+<title>CAFR1GC:e2-&gt;CAFR2S1:w1</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M608.32,-308.8C625.51,-308.8 632.73,-308.32 645.4,-308.1"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="645.33,-311.61 655.3,-308.02 645.27,-304.61 645.33,-311.61"/>
+</g>
+<!-- CAFR1GD -->
+<g id="node4" class="node">
+<title>CAFR1GD</title>
+<polygon fill="#f8f9fa" stroke="none" points="341.66,-578.2 341.66,-737.8 607.32,-737.8 607.32,-578.2 341.66,-578.2"/>
+<polygon fill="#eaecf0" stroke="none" points="341.66,-715 341.66,-737.8 548.66,-737.8 548.66,-715 341.66,-715"/>
+<polygon fill="none" stroke="black" points="341.66,-715 341.66,-737.8 548.66,-737.8 548.66,-715 341.66,-715"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="548.66,-715 548.66,-737.8 582.66,-737.8 582.66,-715 548.66,-715"/>
+<polygon fill="none" stroke="black" points="548.66,-715 548.66,-737.8 582.66,-737.8 582.66,-715 548.66,-715"/>
+<text xml:space="preserve" text-anchor="start" x="551.66" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="582.66,-715 582.66,-737.8 607.32,-737.8 607.32,-715 582.66,-715"/>
+<polygon fill="none" stroke="black" points="582.66,-715 582.66,-737.8 607.32,-737.8 607.32,-715 582.66,-715"/>
+<text xml:space="preserve" text-anchor="start" x="585.66" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="341.66,-692.2 341.66,-715 548.66,-715 548.66,-692.2 341.66,-692.2"/>
+<polygon fill="none" stroke="black" points="341.66,-692.2 341.66,-715 548.66,-715 548.66,-692.2 341.66,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇻 Cape Verde</text>
+<polygon fill="#bbf3bb" stroke="none" points="548.66,-692.2 548.66,-715 582.66,-715 582.66,-692.2 548.66,-692.2"/>
+<polygon fill="none" stroke="black" points="548.66,-692.2 548.66,-715 582.66,-715 582.66,-692.2 548.66,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="558.17" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+8</text>
+<polygon fill="#bbf3bb" stroke="none" points="582.66,-692.2 582.66,-715 607.32,-715 607.32,-692.2 582.66,-692.2"/>
+<polygon fill="none" stroke="black" points="582.66,-692.2 582.66,-715 607.32,-715 607.32,-692.2 582.66,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">23</text>
+<polygon fill="#bbf3ff" stroke="none" points="341.66,-669.4 341.66,-692.2 548.66,-692.2 548.66,-669.4 341.66,-669.4"/>
+<polygon fill="none" stroke="black" points="341.66,-669.4 341.66,-692.2 548.66,-692.2 548.66,-669.4 341.66,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-677.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇲 Cameroon</text>
+<polygon fill="#bbf3ff" stroke="none" points="548.66,-669.4 548.66,-692.2 582.66,-692.2 582.66,-669.4 548.66,-669.4"/>
+<polygon fill="none" stroke="black" points="548.66,-669.4 548.66,-692.2 582.66,-692.2 582.66,-669.4 548.66,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="554.67" y="-677.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+12</text>
+<polygon fill="#bbf3ff" stroke="none" points="582.66,-669.4 582.66,-692.2 607.32,-692.2 607.32,-669.4 582.66,-669.4"/>
+<polygon fill="none" stroke="black" points="582.66,-669.4 582.66,-692.2 607.32,-692.2 607.32,-669.4 582.66,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-677.6" font-family="Times,serif" font-weight="bold" font-size="14.00">19</text>
+<polygon fill="none" stroke="black" points="341.66,-646.6 341.66,-669.4 548.66,-669.4 548.66,-646.6 341.66,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-653.8" font-family="Times,serif" font-size="14.00">🇱🇾 Libya</text>
+<polygon fill="none" stroke="black" points="548.66,-646.6 548.66,-669.4 582.66,-669.4 582.66,-646.6 548.66,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-653.8" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="582.66,-646.6 582.66,-669.4 607.32,-669.4 607.32,-646.6 582.66,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-653.8" font-family="Times,serif" font-size="14.00">16</text>
+<polygon fill="none" stroke="black" points="341.66,-623.8 341.66,-646.6 548.66,-646.6 548.66,-623.8 341.66,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-631" font-family="Times,serif" font-size="14.00">🇦🇴 Angola</text>
+<polygon fill="none" stroke="black" points="548.66,-623.8 548.66,-646.6 582.66,-646.6 582.66,-623.8 548.66,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.21" y="-631" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="582.66,-623.8 582.66,-646.6 607.32,-646.6 607.32,-623.8 582.66,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="587.99" y="-631" font-family="Times,serif" font-size="14.00">12</text>
+<polygon fill="none" stroke="black" points="341.66,-601 341.66,-623.8 548.66,-623.8 548.66,-601 341.66,-601"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-608.2" font-family="Times,serif" font-size="14.00">🇲🇺 Mauritius</text>
+<polygon fill="none" stroke="black" points="548.66,-601 548.66,-623.8 582.66,-623.8 582.66,-601 548.66,-601"/>
+<text xml:space="preserve" text-anchor="start" x="556.33" y="-608.2" font-family="Times,serif" font-size="14.00">-10</text>
+<polygon fill="none" stroke="black" points="582.66,-601 582.66,-623.8 607.32,-623.8 607.32,-601 582.66,-601"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-608.2" font-family="Times,serif" font-size="14.00">6</text>
+<polygon fill="none" stroke="black" points="341.66,-578.2 341.66,-601 548.66,-601 548.66,-578.2 341.66,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="344.66" y="-585.4" font-family="Times,serif" font-size="14.00">🇸🇿 Eswatini</text>
+<polygon fill="none" stroke="black" points="548.66,-578.2 548.66,-601 582.66,-601 582.66,-578.2 548.66,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="556.33" y="-585.4" font-family="Times,serif" font-size="14.00">-13</text>
+<polygon fill="none" stroke="black" points="582.66,-578.2 582.66,-601 607.32,-601 607.32,-578.2 582.66,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="591.49" y="-585.4" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- CAFR1GD&#45;&gt;CAFR2S2 -->
+<g id="edge5" class="edge">
+<title>CAFR1GD:e2-&gt;CAFR2S2:w1</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M608.32,-680.8C679.53,-680.8 594.65,-537.43 645.73,-518.95"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="645.99,-522.46 655.33,-517.46 644.91,-515.54 645.99,-522.46"/>
+</g>
+<!-- CAFR1GE -->
+<g id="node5" class="node">
+<title>CAFR1GE</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-206.2 24,-365.8 289.66,-365.8 289.66,-206.2 24,-206.2"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-343 24,-365.8 231,-365.8 231,-343 24,-343"/>
+<polygon fill="none" stroke="black" points="24,-343 24,-365.8 231,-365.8 231,-343 24,-343"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="231,-343 231,-365.8 265,-365.8 265,-343 231,-343"/>
+<polygon fill="none" stroke="black" points="231,-343 231,-365.8 265,-365.8 265,-343 231,-343"/>
+<text xml:space="preserve" text-anchor="start" x="234" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="265,-343 265,-365.8 289.66,-365.8 289.66,-343 265,-343"/>
+<polygon fill="none" stroke="black" points="265,-343 265,-365.8 289.66,-365.8 289.66,-343 265,-343"/>
+<text xml:space="preserve" text-anchor="start" x="268" y="-351.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="24,-320.2 24,-343 231,-343 231,-320.2 24,-320.2"/>
+<polygon fill="none" stroke="black" points="24,-320.2 24,-343 231,-343 231,-320.2 24,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇦 Morocco</text>
+<polygon fill="#bbf3bb" stroke="none" points="231,-320.2 231,-343 265,-343 265,-320.2 231,-320.2"/>
+<polygon fill="none" stroke="black" points="231,-320.2 231,-343 265,-343 265,-320.2 231,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="237.01" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+20</text>
+<polygon fill="#bbf3bb" stroke="none" points="265,-320.2 265,-343 289.66,-343 289.66,-320.2 265,-320.2"/>
+<polygon fill="none" stroke="black" points="265,-320.2 265,-343 289.66,-343 289.66,-320.2 265,-320.2"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-328.4" font-family="Times,serif" font-weight="bold" font-size="14.00">24</text>
+<polygon fill="none" stroke="black" points="24,-297.4 24,-320.2 231,-320.2 231,-297.4 24,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-304.6" font-family="Times,serif" font-size="14.00">🇳🇪 Niger</text>
+<polygon fill="none" stroke="black" points="231,-297.4 231,-320.2 265,-320.2 265,-297.4 231,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-304.6" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="265,-297.4 265,-320.2 289.66,-320.2 289.66,-297.4 265,-297.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-304.6" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-274.6 24,-297.4 231,-297.4 231,-274.6 24,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-281.8" font-family="Times,serif" font-size="14.00">🇹🇿 Tanzania</text>
+<polygon fill="none" stroke="black" points="231,-274.6 231,-297.4 265,-297.4 265,-274.6 231,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-281.8" font-family="Times,serif" font-size="14.00">-1</text>
+<polygon fill="none" stroke="black" points="265,-274.6 265,-297.4 289.66,-297.4 289.66,-274.6 265,-274.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-281.8" font-family="Times,serif" font-size="14.00">10</text>
+<polygon fill="none" stroke="black" points="24,-251.8 24,-274.6 231,-274.6 231,-251.8 24,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-259" font-family="Times,serif" font-size="14.00">🇿🇲 Zambia</text>
+<polygon fill="none" stroke="black" points="231,-251.8 231,-274.6 265,-274.6 265,-251.8 231,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="244.5" y="-259" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="265,-251.8 265,-274.6 289.66,-274.6 289.66,-251.8 265,-251.8"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-259" font-family="Times,serif" font-size="14.00">9</text>
+<polygon fill="none" stroke="black" points="24,-229 24,-251.8 231,-251.8 231,-229 24,-229"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-236.2" font-family="Times,serif" font-size="14.00">🇨🇬 Congo</text>
+<polygon fill="none" stroke="black" points="231,-229 231,-251.8 265,-251.8 265,-229 231,-229"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-236.2" font-family="Times,serif" font-size="14.00">-20</text>
+<polygon fill="none" stroke="black" points="265,-229 265,-251.8 289.66,-251.8 289.66,-229 265,-229"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-236.2" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbbbbb" stroke="none" points="24,-206.2 24,-229 231,-229 231,-206.2 24,-206.2"/>
+<polygon fill="none" stroke="black" points="24,-206.2 24,-229 231,-229 231,-206.2 24,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-213.4" font-family="Times,serif" font-size="14.00">🇪🇷 Eritrea</text>
+<polygon fill="#bbbbbb" stroke="none" points="231,-206.2 231,-229 265,-229 265,-206.2 231,-206.2"/>
+<polygon fill="none" stroke="black" points="231,-206.2 231,-229 265,-229 265,-206.2 231,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="244.5" y="-213.4" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbbbbb" stroke="none" points="265,-206.2 265,-229 289.66,-229 289.66,-206.2 265,-206.2"/>
+<polygon fill="none" stroke="black" points="265,-206.2 265,-229 289.66,-229 289.66,-206.2 265,-206.2"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-213.4" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- CAFR1GF&#45;&gt;CAFR2S1 -->
+<g id="edge4" class="edge">
+<title>CAFR1GF:e2-&gt;CAFR2S1:w2</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M608.32,-122.8C678.83,-122.8 595.44,-264.35 645.51,-283.15"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="644.91,-286.59 655.34,-284.72 646.02,-279.68 644.91,-286.59"/>
+</g>
+<!-- CAFR1GG -->
+<g id="node7" class="node">
+<title>CAFR1GG</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-392.2 24,-551.8 289.66,-551.8 289.66,-392.2 24,-392.2"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-529 24,-551.8 231,-551.8 231,-529 24,-529"/>
+<polygon fill="none" stroke="black" points="24,-529 24,-551.8 231,-551.8 231,-529 24,-529"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="231,-529 231,-551.8 265,-551.8 265,-529 231,-529"/>
+<polygon fill="none" stroke="black" points="231,-529 231,-551.8 265,-551.8 265,-529 231,-529"/>
+<text xml:space="preserve" text-anchor="start" x="234" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="265,-529 265,-551.8 289.66,-551.8 289.66,-529 265,-529"/>
+<polygon fill="none" stroke="black" points="265,-529 265,-551.8 289.66,-551.8 289.66,-529 265,-529"/>
+<text xml:space="preserve" text-anchor="start" x="268" y="-537.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="24,-506.2 24,-529 231,-529 231,-506.2 24,-506.2"/>
+<polygon fill="none" stroke="black" points="24,-506.2 24,-529 231,-529 231,-506.2 24,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇩🇿 Algeria</text>
+<polygon fill="#bbf3bb" stroke="none" points="231,-506.2 231,-529 265,-529 265,-506.2 231,-506.2"/>
+<polygon fill="none" stroke="black" points="231,-506.2 231,-529 265,-529 265,-506.2 231,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="237.01" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+16</text>
+<polygon fill="#bbf3bb" stroke="none" points="265,-506.2 265,-529 289.66,-529 289.66,-506.2 265,-506.2"/>
+<polygon fill="none" stroke="black" points="265,-506.2 265,-529 289.66,-529 289.66,-506.2 265,-506.2"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-514.4" font-family="Times,serif" font-weight="bold" font-size="14.00">25</text>
+<polygon fill="none" stroke="black" points="24,-483.4 24,-506.2 231,-506.2 231,-483.4 24,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-490.6" font-family="Times,serif" font-size="14.00">🇺🇬 Uganda</text>
+<polygon fill="none" stroke="black" points="231,-483.4 231,-506.2 265,-506.2 265,-483.4 231,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-490.6" font-family="Times,serif" font-size="14.00">+5</text>
+<polygon fill="none" stroke="black" points="265,-483.4 265,-506.2 289.66,-506.2 289.66,-483.4 265,-483.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-490.6" font-family="Times,serif" font-size="14.00">18</text>
+<polygon fill="none" stroke="black" points="24,-460.6 24,-483.4 231,-483.4 231,-460.6 24,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-467.8" font-family="Times,serif" font-size="14.00">🇲🇿 Mozambique</text>
+<polygon fill="none" stroke="black" points="231,-460.6 231,-483.4 265,-483.4 265,-460.6 231,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-467.8" font-family="Times,serif" font-size="14.00">-3</text>
+<polygon fill="none" stroke="black" points="265,-460.6 265,-483.4 289.66,-483.4 289.66,-460.6 265,-460.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-467.8" font-family="Times,serif" font-size="14.00">18</text>
+<polygon fill="none" stroke="black" points="24,-437.8 24,-460.6 231,-460.6 231,-437.8 24,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-445" font-family="Times,serif" font-size="14.00">🇬🇳 Guinea</text>
+<polygon fill="none" stroke="black" points="231,-437.8 231,-460.6 265,-460.6 265,-437.8 231,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-445" font-family="Times,serif" font-size="14.00">+3</text>
+<polygon fill="none" stroke="black" points="265,-437.8 265,-460.6 289.66,-460.6 289.66,-437.8 265,-437.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-445" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-415 24,-437.8 231,-437.8 231,-415 24,-415"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-422.2" font-family="Times,serif" font-size="14.00">🇧🇼 Botswana</text>
+<polygon fill="none" stroke="black" points="231,-415 231,-437.8 265,-437.8 265,-415 231,-415"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-422.2" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="265,-415 265,-437.8 289.66,-437.8 289.66,-415 265,-415"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-422.2" font-family="Times,serif" font-size="14.00">10</text>
+<polygon fill="none" stroke="black" points="24,-392.2 24,-415 231,-415 231,-392.2 24,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-399.4" font-family="Times,serif" font-size="14.00">🇸🇴 Somalia</text>
+<polygon fill="none" stroke="black" points="231,-392.2 231,-415 265,-415 265,-392.2 231,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-399.4" font-family="Times,serif" font-size="14.00">-17</text>
+<polygon fill="none" stroke="black" points="265,-392.2 265,-415 289.66,-415 289.66,-392.2 265,-392.2"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-399.4" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CAFR1GH -->
+<g id="node8" class="node">
+<title>CAFR1GH</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-578.2 24,-737.8 289.66,-737.8 289.66,-578.2 24,-578.2"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-715 24,-737.8 231,-737.8 231,-715 24,-715"/>
+<polygon fill="none" stroke="black" points="24,-715 24,-737.8 231,-737.8 231,-715 24,-715"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="231,-715 231,-737.8 265,-737.8 265,-715 231,-715"/>
+<polygon fill="none" stroke="black" points="231,-715 231,-737.8 265,-737.8 265,-715 231,-715"/>
+<text xml:space="preserve" text-anchor="start" x="234" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="265,-715 265,-737.8 289.66,-737.8 289.66,-715 265,-715"/>
+<polygon fill="none" stroke="black" points="265,-715 265,-737.8 289.66,-737.8 289.66,-715 265,-715"/>
+<text xml:space="preserve" text-anchor="start" x="268" y="-723.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="24,-692.2 24,-715 231,-715 231,-692.2 24,-692.2"/>
+<polygon fill="none" stroke="black" points="24,-692.2 24,-715 231,-715 231,-692.2 24,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇹🇳 Tunisia</text>
+<polygon fill="#bbf3bb" stroke="none" points="231,-692.2 231,-715 265,-715 265,-692.2 231,-692.2"/>
+<polygon fill="none" stroke="black" points="231,-692.2 231,-715 265,-715 265,-692.2 231,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="237.01" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+22</text>
+<polygon fill="#bbf3bb" stroke="none" points="265,-692.2 265,-715 289.66,-715 289.66,-692.2 265,-692.2"/>
+<polygon fill="none" stroke="black" points="265,-692.2 265,-715 289.66,-715 289.66,-692.2 265,-692.2"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-700.4" font-family="Times,serif" font-weight="bold" font-size="14.00">28</text>
+<polygon fill="none" stroke="black" points="24,-669.4 24,-692.2 231,-692.2 231,-669.4 24,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-676.6" font-family="Times,serif" font-size="14.00">🇳🇦 Namibia</text>
+<polygon fill="none" stroke="black" points="231,-669.4 231,-692.2 265,-692.2 265,-669.4 231,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-676.6" font-family="Times,serif" font-size="14.00">+3</text>
+<polygon fill="none" stroke="black" points="265,-669.4 265,-692.2 289.66,-692.2 289.66,-669.4 265,-669.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-676.6" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-646.6 24,-669.4 231,-669.4 231,-646.6 24,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-653.8" font-family="Times,serif" font-size="14.00">🇱🇷 Liberia</text>
+<polygon fill="none" stroke="black" points="231,-646.6 231,-669.4 265,-669.4 265,-646.6 231,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-653.8" font-family="Times,serif" font-size="14.00">+2</text>
+<polygon fill="none" stroke="black" points="265,-646.6 265,-669.4 289.66,-669.4 289.66,-646.6 265,-646.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-653.8" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-623.8 24,-646.6 231,-646.6 231,-623.8 24,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-631" font-family="Times,serif" font-size="14.00">🇲🇼 Malawi</text>
+<polygon fill="none" stroke="black" points="231,-623.8 231,-646.6 265,-646.6 265,-623.8 231,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-631" font-family="Times,serif" font-size="14.00">+1</text>
+<polygon fill="none" stroke="black" points="265,-623.8 265,-646.6 289.66,-646.6 289.66,-623.8 265,-623.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-631" font-family="Times,serif" font-size="14.00">13</text>
+<polygon fill="none" stroke="black" points="24,-601 24,-623.8 231,-623.8 231,-601 24,-601"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-608.2" font-family="Times,serif" font-size="14.00">🇬🇶 Equatorial Guinea</text>
+<polygon fill="none" stroke="black" points="231,-601 231,-623.8 265,-623.8 265,-601 231,-601"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-608.2" font-family="Times,serif" font-size="14.00">-7</text>
+<polygon fill="none" stroke="black" points="265,-601 265,-623.8 289.66,-623.8 289.66,-601 265,-601"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-608.2" font-family="Times,serif" font-size="14.00">11</text>
+<polygon fill="none" stroke="black" points="24,-578.2 24,-601 231,-601 231,-578.2 24,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-585.4" font-family="Times,serif" font-size="14.00">🇸🇹 São Tomé and Príncipe</text>
+<polygon fill="none" stroke="black" points="231,-578.2 231,-601 265,-601 265,-578.2 231,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-585.4" font-family="Times,serif" font-size="14.00">-21</text>
+<polygon fill="none" stroke="black" points="265,-578.2 265,-601 289.66,-601 289.66,-578.2 265,-578.2"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-585.4" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- CAFR1GI -->
+<g id="node9" class="node">
+<title>CAFR1GI</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-764.2 24,-923.8 289.66,-923.8 289.66,-764.2 24,-764.2"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-901 24,-923.8 231,-923.8 231,-901 24,-901"/>
+<polygon fill="none" stroke="black" points="24,-901 24,-923.8 231,-923.8 231,-901 24,-901"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-909.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="231,-901 231,-923.8 265,-923.8 265,-901 231,-901"/>
+<polygon fill="none" stroke="black" points="231,-901 231,-923.8 265,-923.8 265,-901 231,-901"/>
+<text xml:space="preserve" text-anchor="start" x="234" y="-909.2" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="265,-901 265,-923.8 289.66,-923.8 289.66,-901 265,-901"/>
+<polygon fill="none" stroke="black" points="265,-901 265,-923.8 289.66,-923.8 289.66,-901 265,-901"/>
+<text xml:space="preserve" text-anchor="start" x="268" y="-909.2" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3bb" stroke="none" points="24,-878.2 24,-901 231,-901 231,-878.2 24,-878.2"/>
+<polygon fill="none" stroke="black" points="24,-878.2 24,-901 231,-901 231,-878.2 24,-878.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-886.4" font-family="Times,serif" font-weight="bold" font-size="14.00">🇬🇭 Ghana</text>
+<polygon fill="#bbf3bb" stroke="none" points="231,-878.2 231,-901 265,-901 265,-878.2 231,-878.2"/>
+<polygon fill="none" stroke="black" points="231,-878.2 231,-901 265,-901 265,-878.2 231,-878.2"/>
+<text xml:space="preserve" text-anchor="start" x="237.01" y="-886.4" font-family="Times,serif" font-weight="bold" font-size="14.00">+17</text>
+<polygon fill="#bbf3bb" stroke="none" points="265,-878.2 265,-901 289.66,-901 289.66,-878.2 265,-878.2"/>
+<polygon fill="none" stroke="black" points="265,-878.2 265,-901 289.66,-901 289.66,-878.2 265,-878.2"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-886.4" font-family="Times,serif" font-weight="bold" font-size="14.00">25</text>
+<polygon fill="none" stroke="black" points="24,-855.4 24,-878.2 231,-878.2 231,-855.4 24,-855.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-862.6" font-family="Times,serif" font-size="14.00">🇲🇬 Madagascar</text>
+<polygon fill="none" stroke="black" points="231,-855.4 231,-878.2 265,-878.2 265,-855.4 231,-855.4"/>
+<text xml:space="preserve" text-anchor="start" x="240.55" y="-862.6" font-family="Times,serif" font-size="14.00">+5</text>
+<polygon fill="none" stroke="black" points="265,-855.4 265,-878.2 289.66,-878.2 289.66,-855.4 265,-855.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-862.6" font-family="Times,serif" font-size="14.00">19</text>
+<polygon fill="none" stroke="black" points="24,-832.6 24,-855.4 231,-855.4 231,-832.6 24,-832.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-839.8" font-family="Times,serif" font-size="14.00">🇲🇱 Mali</text>
+<polygon fill="none" stroke="black" points="231,-832.6 231,-855.4 265,-855.4 265,-832.6 231,-832.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.05" y="-839.8" font-family="Times,serif" font-size="14.00">+11</text>
+<polygon fill="none" stroke="black" points="265,-832.6 265,-855.4 289.66,-855.4 289.66,-832.6 265,-832.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-839.8" font-family="Times,serif" font-size="14.00">18</text>
+<polygon fill="none" stroke="black" points="24,-809.8 24,-832.6 231,-832.6 231,-809.8 24,-809.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-817" font-family="Times,serif" font-size="14.00">🇰🇲 Comoros</text>
+<polygon fill="none" stroke="black" points="231,-809.8 231,-832.6 265,-832.6 265,-809.8 231,-809.8"/>
+<text xml:space="preserve" text-anchor="start" x="242.17" y="-817" font-family="Times,serif" font-size="14.00">-1</text>
+<polygon fill="none" stroke="black" points="265,-809.8 265,-832.6 289.66,-832.6 289.66,-809.8 265,-809.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.33" y="-817" font-family="Times,serif" font-size="14.00">15</text>
+<polygon fill="none" stroke="black" points="24,-787 24,-809.8 231,-809.8 231,-787 24,-787"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-794.2" font-family="Times,serif" font-size="14.00">🇨🇫 Central African Republic</text>
+<polygon fill="none" stroke="black" points="231,-787 231,-809.8 265,-809.8 265,-787 231,-787"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-794.2" font-family="Times,serif" font-size="14.00">-13</text>
+<polygon fill="none" stroke="black" points="265,-787 265,-809.8 289.66,-809.8 289.66,-787 265,-787"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-794.2" font-family="Times,serif" font-size="14.00">8</text>
+<polygon fill="none" stroke="black" points="24,-764.2 24,-787 231,-787 231,-764.2 24,-764.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-771.4" font-family="Times,serif" font-size="14.00">🇹🇩 Chad</text>
+<polygon fill="none" stroke="black" points="231,-764.2 231,-787 265,-787 265,-764.2 231,-764.2"/>
+<text xml:space="preserve" text-anchor="start" x="238.67" y="-771.4" font-family="Times,serif" font-size="14.00">-19</text>
+<polygon fill="none" stroke="black" points="265,-764.2 265,-787 289.66,-787 289.66,-764.2 265,-764.2"/>
+<text xml:space="preserve" text-anchor="start" x="273.83" y="-771.4" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- CAFR2F -->
+<g id="node12" class="node">
+<title>CAFR2F</title>
+<polygon fill="#f8f9fa" stroke="none" points="864.75,-377.8 864.75,-446.2 1018.18,-446.2 1018.18,-377.8 864.75,-377.8"/>
+<polygon fill="#eaecf0" stroke="none" points="864.75,-423.4 864.75,-446.2 978.75,-446.2 978.75,-423.4 864.75,-423.4"/>
+<polygon fill="none" stroke="black" points="864.75,-423.4 864.75,-446.2 978.75,-446.2 978.75,-423.4 864.75,-423.4"/>
+<text xml:space="preserve" text-anchor="start" x="867.75" y="-431.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="978.75,-423.4 978.75,-446.2 1018.18,-446.2 1018.18,-423.4 978.75,-423.4"/>
+<polygon fill="none" stroke="black" points="978.75,-423.4 978.75,-446.2 1018.18,-446.2 1018.18,-423.4 978.75,-423.4"/>
+<text xml:space="preserve" text-anchor="start" x="981.75" y="-431.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="864.75,-400.6 864.75,-423.4 978.75,-423.4 978.75,-400.6 864.75,-400.6"/>
+<text xml:space="preserve" text-anchor="start" x="867.75" y="-407.8" font-family="Times,serif" font-size="14.00">🇳🇬 Nigeria</text>
+<polygon fill="none" stroke="black" points="978.75,-400.6 978.75,-423.4 1018.18,-423.4 1018.18,-400.6 978.75,-400.6"/>
+<text xml:space="preserve" text-anchor="start" x="985.05" y="-407.8" font-family="Times,serif" font-size="14.00">1 (3)</text>
+<polygon fill="#bbf3ff" stroke="none" points="864.75,-377.8 864.75,-400.6 978.75,-400.6 978.75,-377.8 864.75,-377.8"/>
+<polygon fill="none" stroke="black" points="864.75,-377.8 864.75,-400.6 978.75,-400.6 978.75,-377.8 864.75,-377.8"/>
+<text xml:space="preserve" text-anchor="start" x="867.75" y="-386" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="#bbf3ff" stroke="none" points="978.75,-377.8 978.75,-400.6 1018.18,-400.6 1018.18,-377.8 978.75,-377.8"/>
+<polygon fill="none" stroke="black" points="978.75,-377.8 978.75,-400.6 1018.18,-400.6 1018.18,-377.8 978.75,-377.8"/>
+<text xml:space="preserve" text-anchor="start" x="985.05" y="-386" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (4)</text>
+</g>
+<!-- CAFR2S1&#45;&gt;CAFR2F -->
+<g id="edge7" class="edge">
+<title>CAFR2S1:e1-&gt;CAFR2F:w1</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M813.75,-308C859.83,-308 822.07,-391.95 851.12,-409"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="850.27,-412.39 860.81,-411.3 851.89,-405.58 850.27,-412.39"/>
+</g>
+<!-- CAFR2S2&#45;&gt;CAFR2F -->
+<g id="edge8" class="edge">
+<title>CAFR2S2:e2-&gt;CAFR2F:w2</title>
+<path fill="none" stroke="#3cb44b" stroke-width="2" d="M813.75,-494.2C860.39,-494.2 821.49,-408.71 851.42,-392.01"/>
+<polygon fill="#3cb44b" stroke="#3cb44b" stroke-width="2" points="851.83,-395.51 860.8,-389.87 850.27,-388.68 851.83,-395.51"/>
+</g>
+</g>
+</svg>

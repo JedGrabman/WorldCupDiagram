@@ -1,0 +1,107 @@
+<svg width="520pt" height="278pt" viewBox="0.00 0.00 520.00 278.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 274)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-274 515.68,-274 515.68,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_icf</title>
+<polygon fill="none" stroke="black" points="0,-8 0,-262 511.68,-262 511.68,-8 0,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="255.84" y="-213" font-family="Times,serif" font-size="50.00">Intercontinental Playoffs</text>
+</g>
+<!-- ICF1R1 -->
+<g id="node1" class="node">
+<title>ICF1R1</title>
+<polygon fill="#f8f9fa" stroke="none" points="44.91,-19.8 44.91,-88.2 229.34,-88.2 229.34,-19.8 44.91,-19.8"/>
+<polygon fill="#eaecf0" stroke="none" points="44.91,-65.4 44.91,-88.2 189.91,-88.2 189.91,-65.4 44.91,-65.4"/>
+<polygon fill="none" stroke="black" points="44.91,-65.4 44.91,-88.2 189.91,-88.2 189.91,-65.4 44.91,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="189.91,-65.4 189.91,-88.2 229.34,-88.2 229.34,-65.4 189.91,-65.4"/>
+<polygon fill="none" stroke="black" points="189.91,-65.4 189.91,-88.2 229.34,-88.2 229.34,-65.4 189.91,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="192.91" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="44.91,-42.6 44.91,-65.4 189.91,-65.4 189.91,-42.6 44.91,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-49.8" font-family="Times,serif" font-size="14.00">🇳🇨 New Caledonia</text>
+<polygon fill="none" stroke="black" points="189.91,-42.6 189.91,-65.4 229.34,-65.4 229.34,-42.6 189.91,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="206.13" y="-49.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="44.91,-19.8 44.91,-42.6 189.91,-42.6 189.91,-19.8 44.91,-19.8"/>
+<polygon fill="none" stroke="black" points="44.91,-19.8 44.91,-42.6 189.91,-42.6 189.91,-19.8 44.91,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-28" font-family="Times,serif" font-weight="bold" font-size="14.00">🇯🇲 Jamaica</text>
+<polygon fill="#bbf3ff" stroke="none" points="189.91,-19.8 189.91,-42.6 229.34,-42.6 229.34,-19.8 189.91,-19.8"/>
+<polygon fill="none" stroke="black" points="189.91,-19.8 189.91,-42.6 229.34,-42.6 229.34,-19.8 189.91,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="206.13" y="-28" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+</g>
+<!-- ICF1R2 -->
+<g id="node2" class="node">
+<title>ICF1R2</title>
+<polygon fill="#f8f9fa" stroke="none" points="281.34,-19.8 281.34,-88.2 465.77,-88.2 465.77,-19.8 281.34,-19.8"/>
+<polygon fill="#eaecf0" stroke="none" points="281.34,-65.4 281.34,-88.2 426.34,-88.2 426.34,-65.4 281.34,-65.4"/>
+<polygon fill="none" stroke="black" points="281.34,-65.4 281.34,-88.2 426.34,-88.2 426.34,-65.4 281.34,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="426.34,-65.4 426.34,-88.2 465.77,-88.2 465.77,-65.4 426.34,-65.4"/>
+<polygon fill="none" stroke="black" points="426.34,-65.4 426.34,-88.2 465.77,-88.2 465.77,-65.4 426.34,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="429.34" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3bb" stroke="none" points="281.34,-42.6 281.34,-65.4 426.34,-65.4 426.34,-42.6 281.34,-42.6"/>
+<polygon fill="none" stroke="black" points="281.34,-42.6 281.34,-65.4 426.34,-65.4 426.34,-42.6 281.34,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="#bbf3bb" stroke="none" points="426.34,-42.6 426.34,-65.4 465.77,-65.4 465.77,-42.6 426.34,-42.6"/>
+<polygon fill="none" stroke="black" points="426.34,-42.6 426.34,-65.4 465.77,-65.4 465.77,-42.6 426.34,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="442.55" y="-50.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="none" stroke="black" points="281.34,-19.8 281.34,-42.6 426.34,-42.6 426.34,-19.8 281.34,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-27" font-family="Times,serif" font-size="14.00">🇯🇲 Jamaica</text>
+<polygon fill="none" stroke="black" points="426.34,-19.8 426.34,-42.6 465.77,-42.6 465.77,-19.8 426.34,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="442.55" y="-27" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- ICF1R1&#45;&gt;ICF1R2 -->
+<g id="edge1" class="edge">
+<title>ICF1R1:e2-&gt;ICF1R2:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M230.34,-31.2C247.53,-31.2 254.74,-31.2 267.41,-31.2"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="267.31,-34.7 277.31,-31.2 267.31,-27.7 267.31,-34.7"/>
+</g>
+<!-- ICF2R1 -->
+<g id="node3" class="node">
+<title>ICF2R1</title>
+<polygon fill="#f8f9fa" stroke="none" points="44.91,-113.8 44.91,-182.2 229.34,-182.2 229.34,-113.8 44.91,-113.8"/>
+<polygon fill="#eaecf0" stroke="none" points="44.91,-159.4 44.91,-182.2 189.91,-182.2 189.91,-159.4 44.91,-159.4"/>
+<polygon fill="none" stroke="black" points="44.91,-159.4 44.91,-182.2 189.91,-182.2 189.91,-159.4 44.91,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="189.91,-159.4 189.91,-182.2 229.34,-182.2 229.34,-159.4 189.91,-159.4"/>
+<polygon fill="none" stroke="black" points="189.91,-159.4 189.91,-182.2 229.34,-182.2 229.34,-159.4 189.91,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="192.91" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="44.91,-136.6 44.91,-159.4 189.91,-159.4 189.91,-136.6 44.91,-136.6"/>
+<polygon fill="none" stroke="black" points="44.91,-136.6 44.91,-159.4 189.91,-159.4 189.91,-136.6 44.91,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-144.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇴 Bolivia</text>
+<polygon fill="#bbf3ff" stroke="none" points="189.91,-136.6 189.91,-159.4 229.34,-159.4 229.34,-136.6 189.91,-136.6"/>
+<polygon fill="none" stroke="black" points="189.91,-136.6 189.91,-159.4 229.34,-159.4 229.34,-136.6 189.91,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="206.13" y="-144.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="44.91,-113.8 44.91,-136.6 189.91,-136.6 189.91,-113.8 44.91,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="47.91" y="-121" font-family="Times,serif" font-size="14.00">🇸🇷 Suriname</text>
+<polygon fill="none" stroke="black" points="189.91,-113.8 189.91,-136.6 229.34,-136.6 229.34,-113.8 189.91,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="206.13" y="-121" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- ICF2R2 -->
+<g id="node4" class="node">
+<title>ICF2R2</title>
+<polygon fill="#f8f9fa" stroke="none" points="281.34,-113.8 281.34,-182.2 465.77,-182.2 465.77,-113.8 281.34,-113.8"/>
+<polygon fill="#eaecf0" stroke="none" points="281.34,-159.4 281.34,-182.2 426.34,-182.2 426.34,-159.4 281.34,-159.4"/>
+<polygon fill="none" stroke="black" points="281.34,-159.4 281.34,-182.2 426.34,-182.2 426.34,-159.4 281.34,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="426.34,-159.4 426.34,-182.2 465.77,-182.2 465.77,-159.4 426.34,-159.4"/>
+<polygon fill="none" stroke="black" points="426.34,-159.4 426.34,-182.2 465.77,-182.2 465.77,-159.4 426.34,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="429.34" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3bb" stroke="none" points="281.34,-136.6 281.34,-159.4 426.34,-159.4 426.34,-136.6 281.34,-136.6"/>
+<polygon fill="none" stroke="black" points="281.34,-136.6 281.34,-159.4 426.34,-159.4 426.34,-136.6 281.34,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-144.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇮🇶 Iraq</text>
+<polygon fill="#bbf3bb" stroke="none" points="426.34,-136.6 426.34,-159.4 465.77,-159.4 465.77,-136.6 426.34,-136.6"/>
+<polygon fill="none" stroke="black" points="426.34,-136.6 426.34,-159.4 465.77,-159.4 465.77,-136.6 426.34,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="442.55" y="-144.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="none" stroke="black" points="281.34,-113.8 281.34,-136.6 426.34,-136.6 426.34,-113.8 281.34,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="284.34" y="-121" font-family="Times,serif" font-size="14.00">🇧🇴 Bolivia</text>
+<polygon fill="none" stroke="black" points="426.34,-113.8 426.34,-136.6 465.77,-136.6 465.77,-113.8 426.34,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="442.55" y="-121" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- ICF2R1&#45;&gt;ICF2R2 -->
+<g id="edge2" class="edge">
+<title>ICF2R1:e1-&gt;ICF2R2:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M230.34,-148C249.8,-148 254.49,-133.52 267.95,-127.64"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="268.23,-131.15 277.37,-125.78 266.88,-124.28 268.23,-131.15"/>
+</g>
+</g>
+</svg>

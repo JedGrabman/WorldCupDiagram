@@ -1,0 +1,279 @@
+<svg width="1256pt" height="370pt" viewBox="0.00 0.00 1256.00 370.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 366)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-366 1252.37,-366 1252.37,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_OFC</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-354 1240.37,-354 1240.37,-8 8,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="624.19" y="-305" font-family="Times,serif" font-size="50.00">Oceania Football Confederation</text>
+</g>
+<!-- OFCR1S1 -->
+<g id="node1" class="node">
+<title>OFCR1S1</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-113.8 24,-182.2 220.43,-182.2 220.43,-113.8 24,-113.8"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-159.4 24,-182.2 181,-182.2 181,-159.4 24,-159.4"/>
+<polygon fill="none" stroke="black" points="24,-159.4 24,-182.2 181,-182.2 181,-159.4 24,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="181,-159.4 181,-182.2 220.43,-182.2 220.43,-159.4 181,-159.4"/>
+<polygon fill="none" stroke="black" points="181,-159.4 181,-182.2 220.43,-182.2 220.43,-159.4 181,-159.4"/>
+<text xml:space="preserve" text-anchor="start" x="184" y="-167.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="24,-136.6 24,-159.4 181,-159.4 181,-136.6 24,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-143.8" font-family="Times,serif" font-size="14.00">🇨🇰 Cook Islands</text>
+<polygon fill="none" stroke="black" points="181,-136.6 181,-159.4 220.43,-159.4 220.43,-136.6 181,-136.6"/>
+<text xml:space="preserve" text-anchor="start" x="197.21" y="-143.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-113.8 24,-136.6 181,-136.6 181,-113.8 24,-113.8"/>
+<polygon fill="none" stroke="black" points="24,-113.8 24,-136.6 181,-136.6 181,-113.8 24,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-122" font-family="Times,serif" font-weight="bold" font-size="14.00">🇹🇴 Tonga</text>
+<polygon fill="#bbf3ff" stroke="none" points="181,-113.8 181,-136.6 220.43,-136.6 220.43,-113.8 181,-113.8"/>
+<polygon fill="none" stroke="black" points="181,-113.8 181,-136.6 220.43,-136.6 220.43,-113.8 181,-113.8"/>
+<text xml:space="preserve" text-anchor="start" x="197.21" y="-122" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+</g>
+<!-- OFCR1F -->
+<g id="node3" class="node">
+<title>OFCR1F</title>
+<polygon fill="#f8f9fa" stroke="none" points="272.43,-20.8 272.43,-89.2 468.86,-89.2 468.86,-20.8 272.43,-20.8"/>
+<polygon fill="#eaecf0" stroke="none" points="272.43,-66.4 272.43,-89.2 429.43,-89.2 429.43,-66.4 272.43,-66.4"/>
+<polygon fill="none" stroke="black" points="272.43,-66.4 272.43,-89.2 429.43,-89.2 429.43,-66.4 272.43,-66.4"/>
+<text xml:space="preserve" text-anchor="start" x="275.43" y="-74.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="429.43,-66.4 429.43,-89.2 468.86,-89.2 468.86,-66.4 429.43,-66.4"/>
+<polygon fill="none" stroke="black" points="429.43,-66.4 429.43,-89.2 468.86,-89.2 468.86,-66.4 429.43,-66.4"/>
+<text xml:space="preserve" text-anchor="start" x="432.43" y="-74.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="272.43,-43.6 272.43,-66.4 429.43,-66.4 429.43,-43.6 272.43,-43.6"/>
+<text xml:space="preserve" text-anchor="start" x="275.43" y="-50.8" font-family="Times,serif" font-size="14.00">🇹🇴 Tonga</text>
+<polygon fill="none" stroke="black" points="429.43,-43.6 429.43,-66.4 468.86,-66.4 468.86,-43.6 429.43,-43.6"/>
+<text xml:space="preserve" text-anchor="start" x="445.64" y="-50.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="272.43,-20.8 272.43,-43.6 429.43,-43.6 429.43,-20.8 272.43,-20.8"/>
+<polygon fill="none" stroke="black" points="272.43,-20.8 272.43,-43.6 429.43,-43.6 429.43,-20.8 272.43,-20.8"/>
+<text xml:space="preserve" text-anchor="start" x="275.43" y="-29" font-family="Times,serif" font-weight="bold" font-size="14.00">🇼🇸 Samoa</text>
+<polygon fill="#bbf3ff" stroke="none" points="429.43,-20.8 429.43,-43.6 468.86,-43.6 468.86,-20.8 429.43,-20.8"/>
+<polygon fill="none" stroke="black" points="429.43,-20.8 429.43,-43.6 468.86,-43.6 468.86,-20.8 429.43,-20.8"/>
+<text xml:space="preserve" text-anchor="start" x="445.64" y="-29" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- OFCR1S1&#45;&gt;OFCR1F -->
+<g id="edge1" class="edge">
+<title>OFCR1S1:e2-&gt;OFCR1F:w1</title>
+<path fill="none" stroke="#0082c8" stroke-width="2" d="M221.43,-125.2C254.5,-125.2 239.19,-72.88 259.03,-58.58"/>
+<polygon fill="#0082c8" stroke="#0082c8" stroke-width="2" points="259.88,-61.97 268.52,-55.84 257.94,-55.25 259.88,-61.97"/>
+</g>
+<!-- OFCR1S2 -->
+<g id="node2" class="node">
+<title>OFCR1S2</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-19.8 24,-88.2 220.43,-88.2 220.43,-19.8 24,-19.8"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-65.4 24,-88.2 181,-88.2 181,-65.4 24,-65.4"/>
+<polygon fill="none" stroke="black" points="24,-65.4 24,-88.2 181,-88.2 181,-65.4 24,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="181,-65.4 181,-88.2 220.43,-88.2 220.43,-65.4 181,-65.4"/>
+<polygon fill="none" stroke="black" points="181,-65.4 181,-88.2 220.43,-88.2 220.43,-65.4 181,-65.4"/>
+<text xml:space="preserve" text-anchor="start" x="184" y="-73.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="24,-42.6 24,-65.4 181,-65.4 181,-42.6 24,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-49.8" font-family="Times,serif" font-size="14.00">🇦🇸 American Samoa</text>
+<polygon fill="none" stroke="black" points="181,-42.6 181,-65.4 220.43,-65.4 220.43,-42.6 181,-42.6"/>
+<text xml:space="preserve" text-anchor="start" x="197.21" y="-49.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-19.8 24,-42.6 181,-42.6 181,-19.8 24,-19.8"/>
+<polygon fill="none" stroke="black" points="24,-19.8 24,-42.6 181,-42.6 181,-19.8 24,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-28" font-family="Times,serif" font-weight="bold" font-size="14.00">🇼🇸 Samoa</text>
+<polygon fill="#bbf3ff" stroke="none" points="181,-19.8 181,-42.6 220.43,-42.6 220.43,-19.8 181,-19.8"/>
+<polygon fill="none" stroke="black" points="181,-19.8 181,-42.6 220.43,-42.6 220.43,-19.8 181,-19.8"/>
+<text xml:space="preserve" text-anchor="start" x="197.21" y="-28" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- OFCR1S2&#45;&gt;OFCR1F -->
+<g id="edge2" class="edge">
+<title>OFCR1S2:e2-&gt;OFCR1F:w2</title>
+<path fill="none" stroke="#0082c8" stroke-width="2" d="M221.43,-31.2C238.62,-31.2 245.83,-31.8 258.5,-32.07"/>
+<polygon fill="#0082c8" stroke="#0082c8" stroke-width="2" points="258.37,-35.57 268.4,-32.17 258.44,-28.57 258.37,-35.57"/>
+</g>
+<!-- OFCR2GB -->
+<g id="node5" class="node">
+<title>OFCR2GB</title>
+<polygon fill="#f8f9fa" stroke="none" points="520.86,-20 520.86,-134 751.52,-134 751.52,-20 520.86,-20"/>
+<polygon fill="#eaecf0" stroke="none" points="520.86,-111.2 520.86,-134 692.86,-134 692.86,-111.2 520.86,-111.2"/>
+<polygon fill="none" stroke="black" points="520.86,-111.2 520.86,-134 692.86,-134 692.86,-111.2 520.86,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="692.86,-111.2 692.86,-134 726.86,-134 726.86,-111.2 692.86,-111.2"/>
+<polygon fill="none" stroke="black" points="692.86,-111.2 692.86,-134 726.86,-134 726.86,-111.2 692.86,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="695.86" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="726.86,-111.2 726.86,-134 751.52,-134 751.52,-111.2 726.86,-111.2"/>
+<polygon fill="none" stroke="black" points="726.86,-111.2 726.86,-134 751.52,-134 751.52,-111.2 726.86,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="729.86" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="520.86,-88.4 520.86,-111.2 692.86,-111.2 692.86,-88.4 520.86,-88.4"/>
+<polygon fill="none" stroke="black" points="520.86,-88.4 520.86,-111.2 692.86,-111.2 692.86,-88.4 520.86,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇿 New Zealand</text>
+<polygon fill="#bbf3ff" stroke="none" points="692.86,-88.4 692.86,-111.2 726.86,-111.2 726.86,-88.4 692.86,-88.4"/>
+<polygon fill="none" stroke="black" points="692.86,-88.4 692.86,-111.2 726.86,-111.2 726.86,-88.4 692.86,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="698.87" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+18</text>
+<polygon fill="#bbf3ff" stroke="none" points="726.86,-88.4 726.86,-111.2 751.52,-111.2 751.52,-88.4 726.86,-88.4"/>
+<polygon fill="none" stroke="black" points="726.86,-88.4 726.86,-111.2 751.52,-111.2 751.52,-88.4 726.86,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="#bbf3ff" stroke="none" points="520.86,-65.6 520.86,-88.4 692.86,-88.4 692.86,-65.6 520.86,-65.6"/>
+<polygon fill="none" stroke="black" points="520.86,-65.6 520.86,-88.4 692.86,-88.4 692.86,-65.6 520.86,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇫 Tahiti</text>
+<polygon fill="#bbf3ff" stroke="none" points="692.86,-65.6 692.86,-88.4 726.86,-88.4 726.86,-65.6 692.86,-65.6"/>
+<polygon fill="none" stroke="black" points="692.86,-65.6 692.86,-88.4 726.86,-88.4 726.86,-65.6 692.86,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="702.37" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+2</text>
+<polygon fill="#bbf3ff" stroke="none" points="726.86,-65.6 726.86,-88.4 751.52,-88.4 751.52,-65.6 726.86,-65.6"/>
+<polygon fill="none" stroke="black" points="726.86,-65.6 726.86,-88.4 751.52,-88.4 751.52,-65.6 726.86,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="none" stroke="black" points="520.86,-42.8 520.86,-65.6 692.86,-65.6 692.86,-42.8 520.86,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-50" font-family="Times,serif" font-size="14.00">🇻🇺 Vanuatu</text>
+<polygon fill="none" stroke="black" points="692.86,-42.8 692.86,-65.6 726.86,-65.6 726.86,-42.8 692.86,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="704.02" y="-50" font-family="Times,serif" font-size="14.00">-6</text>
+<polygon fill="none" stroke="black" points="726.86,-42.8 726.86,-65.6 751.52,-65.6 751.52,-42.8 726.86,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-50" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="520.86,-20 520.86,-42.8 692.86,-42.8 692.86,-20 520.86,-20"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-27.2" font-family="Times,serif" font-size="14.00">🇼🇸 Samoa</text>
+<polygon fill="none" stroke="black" points="692.86,-20 692.86,-42.8 726.86,-42.8 726.86,-20 692.86,-20"/>
+<text xml:space="preserve" text-anchor="start" x="700.52" y="-27.2" font-family="Times,serif" font-size="14.00">-14</text>
+<polygon fill="none" stroke="black" points="726.86,-20 726.86,-42.8 751.52,-42.8 751.52,-20 726.86,-20"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-27.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- OFCR1F&#45;&gt;OFCR2GB -->
+<g id="edge3" class="edge">
+<title>OFCR1F:e2-&gt;OFCR2GB:w4</title>
+<path fill="none" stroke="#0082c8" stroke-width="2" d="M469.86,-32.2C487.05,-32.2 494.26,-31.72 506.93,-31.5"/>
+<polygon fill="#0082c8" stroke="#0082c8" stroke-width="2" points="506.86,-35.01 516.83,-31.42 506.8,-28.01 506.86,-35.01"/>
+</g>
+<!-- OFCR2GA -->
+<g id="node4" class="node">
+<title>OFCR2GA</title>
+<polygon fill="#f8f9fa" stroke="none" points="520.86,-160 520.86,-274 751.52,-274 751.52,-160 520.86,-160"/>
+<polygon fill="#eaecf0" stroke="none" points="520.86,-251.2 520.86,-274 692.86,-274 692.86,-251.2 520.86,-251.2"/>
+<polygon fill="none" stroke="black" points="520.86,-251.2 520.86,-274 692.86,-274 692.86,-251.2 520.86,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="692.86,-251.2 692.86,-274 726.86,-274 726.86,-251.2 692.86,-251.2"/>
+<polygon fill="none" stroke="black" points="692.86,-251.2 692.86,-274 726.86,-274 726.86,-251.2 692.86,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="695.86" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="726.86,-251.2 726.86,-274 751.52,-274 751.52,-251.2 726.86,-251.2"/>
+<polygon fill="none" stroke="black" points="726.86,-251.2 726.86,-274 751.52,-274 751.52,-251.2 726.86,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="729.86" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="520.86,-228.4 520.86,-251.2 692.86,-251.2 692.86,-228.4 520.86,-228.4"/>
+<polygon fill="none" stroke="black" points="520.86,-228.4 520.86,-251.2 692.86,-251.2 692.86,-228.4 520.86,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇨 New Caledonia</text>
+<polygon fill="#bbf3ff" stroke="none" points="692.86,-228.4 692.86,-251.2 726.86,-251.2 726.86,-228.4 692.86,-228.4"/>
+<polygon fill="none" stroke="black" points="692.86,-228.4 692.86,-251.2 726.86,-251.2 726.86,-228.4 692.86,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="702.37" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+3</text>
+<polygon fill="#bbf3ff" stroke="none" points="726.86,-228.4 726.86,-251.2 751.52,-251.2 751.52,-228.4 726.86,-228.4"/>
+<polygon fill="none" stroke="black" points="726.86,-228.4 726.86,-251.2 751.52,-251.2 751.52,-228.4 726.86,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="520.86,-205.6 520.86,-228.4 692.86,-228.4 692.86,-205.6 520.86,-205.6"/>
+<polygon fill="none" stroke="black" points="520.86,-205.6 520.86,-228.4 692.86,-228.4 692.86,-205.6 520.86,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇫🇯 Fiji</text>
+<polygon fill="#bbf3ff" stroke="none" points="692.86,-205.6 692.86,-228.4 726.86,-228.4 726.86,-205.6 692.86,-205.6"/>
+<polygon fill="none" stroke="black" points="692.86,-205.6 692.86,-228.4 726.86,-228.4 726.86,-205.6 692.86,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="702.37" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+1</text>
+<polygon fill="#bbf3ff" stroke="none" points="726.86,-205.6 726.86,-228.4 751.52,-228.4 751.52,-205.6 726.86,-205.6"/>
+<polygon fill="none" stroke="black" points="726.86,-205.6 726.86,-228.4 751.52,-228.4 751.52,-205.6 726.86,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">5</text>
+<polygon fill="none" stroke="black" points="520.86,-182.8 520.86,-205.6 692.86,-205.6 692.86,-182.8 520.86,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-190" font-family="Times,serif" font-size="14.00">🇸🇧 Solomon Islands</text>
+<polygon fill="none" stroke="black" points="692.86,-182.8 692.86,-205.6 726.86,-205.6 726.86,-182.8 692.86,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="704.02" y="-190" font-family="Times,serif" font-size="14.00">-1</text>
+<polygon fill="none" stroke="black" points="726.86,-182.8 726.86,-205.6 751.52,-205.6 751.52,-182.8 726.86,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-190" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="520.86,-160 520.86,-182.8 692.86,-182.8 692.86,-160 520.86,-160"/>
+<text xml:space="preserve" text-anchor="start" x="523.86" y="-167.2" font-family="Times,serif" font-size="14.00">🇵🇬 Papua New Guinea</text>
+<polygon fill="none" stroke="black" points="692.86,-160 692.86,-182.8 726.86,-182.8 726.86,-160 692.86,-160"/>
+<text xml:space="preserve" text-anchor="start" x="704.02" y="-167.2" font-family="Times,serif" font-size="14.00">-3</text>
+<polygon fill="none" stroke="black" points="726.86,-160 726.86,-182.8 751.52,-182.8 751.52,-160 726.86,-160"/>
+<text xml:space="preserve" text-anchor="start" x="735.69" y="-167.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- OFCR3S1 -->
+<g id="node6" class="node">
+<title>OFCR3S1</title>
+<polygon fill="#f8f9fa" stroke="none" points="803.52,-181.8 803.52,-250.2 987.95,-250.2 987.95,-181.8 803.52,-181.8"/>
+<polygon fill="#eaecf0" stroke="none" points="803.52,-227.4 803.52,-250.2 948.52,-250.2 948.52,-227.4 803.52,-227.4"/>
+<polygon fill="none" stroke="black" points="803.52,-227.4 803.52,-250.2 948.52,-250.2 948.52,-227.4 803.52,-227.4"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-235.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="948.52,-227.4 948.52,-250.2 987.95,-250.2 987.95,-227.4 948.52,-227.4"/>
+<polygon fill="none" stroke="black" points="948.52,-227.4 948.52,-250.2 987.95,-250.2 987.95,-227.4 948.52,-227.4"/>
+<text xml:space="preserve" text-anchor="start" x="951.52" y="-235.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="803.52,-204.6 803.52,-227.4 948.52,-227.4 948.52,-204.6 803.52,-204.6"/>
+<polygon fill="none" stroke="black" points="803.52,-204.6 803.52,-227.4 948.52,-227.4 948.52,-204.6 803.52,-204.6"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-212.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇨 New Caledonia</text>
+<polygon fill="#bbf3ff" stroke="none" points="948.52,-204.6 948.52,-227.4 987.95,-227.4 987.95,-204.6 948.52,-204.6"/>
+<polygon fill="none" stroke="black" points="948.52,-204.6 948.52,-227.4 987.95,-227.4 987.95,-204.6 948.52,-204.6"/>
+<text xml:space="preserve" text-anchor="start" x="964.73" y="-212.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="803.52,-181.8 803.52,-204.6 948.52,-204.6 948.52,-181.8 803.52,-181.8"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-189" font-family="Times,serif" font-size="14.00">🇵🇫 Tahiti</text>
+<polygon fill="none" stroke="black" points="948.52,-181.8 948.52,-204.6 987.95,-204.6 987.95,-181.8 948.52,-181.8"/>
+<text xml:space="preserve" text-anchor="start" x="964.73" y="-189" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- OFCR2GA&#45;&gt;OFCR3S1 -->
+<g id="edge4" class="edge">
+<title>OFCR2GA:e1-&gt;OFCR3S1:w1</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M752.52,-239.8C772.13,-239.8 776.61,-224.69 790.07,-218.55"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="790.46,-222.04 799.55,-216.61 789.05,-215.18 790.46,-222.04"/>
+</g>
+<!-- OFCR3S2 -->
+<g id="node7" class="node">
+<title>OFCR3S2</title>
+<polygon fill="#f8f9fa" stroke="none" points="803.52,-87.8 803.52,-156.2 987.95,-156.2 987.95,-87.8 803.52,-87.8"/>
+<polygon fill="#eaecf0" stroke="none" points="803.52,-133.4 803.52,-156.2 948.52,-156.2 948.52,-133.4 803.52,-133.4"/>
+<polygon fill="none" stroke="black" points="803.52,-133.4 803.52,-156.2 948.52,-156.2 948.52,-133.4 803.52,-133.4"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-141.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="948.52,-133.4 948.52,-156.2 987.95,-156.2 987.95,-133.4 948.52,-133.4"/>
+<polygon fill="none" stroke="black" points="948.52,-133.4 948.52,-156.2 987.95,-156.2 987.95,-133.4 948.52,-133.4"/>
+<text xml:space="preserve" text-anchor="start" x="951.52" y="-141.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="803.52,-110.6 803.52,-133.4 948.52,-133.4 948.52,-110.6 803.52,-110.6"/>
+<polygon fill="none" stroke="black" points="803.52,-110.6 803.52,-133.4 948.52,-133.4 948.52,-110.6 803.52,-110.6"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-118.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇿 New Zealand</text>
+<polygon fill="#bbf3ff" stroke="none" points="948.52,-110.6 948.52,-133.4 987.95,-133.4 987.95,-110.6 948.52,-110.6"/>
+<polygon fill="none" stroke="black" points="948.52,-110.6 948.52,-133.4 987.95,-133.4 987.95,-110.6 948.52,-110.6"/>
+<text xml:space="preserve" text-anchor="start" x="964.73" y="-118.8" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="803.52,-87.8 803.52,-110.6 948.52,-110.6 948.52,-87.8 803.52,-87.8"/>
+<text xml:space="preserve" text-anchor="start" x="806.52" y="-95" font-family="Times,serif" font-size="14.00">🇫🇯 Fiji</text>
+<polygon fill="none" stroke="black" points="948.52,-87.8 948.52,-110.6 987.95,-110.6 987.95,-87.8 948.52,-87.8"/>
+<text xml:space="preserve" text-anchor="start" x="964.73" y="-95" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- OFCR2GA&#45;&gt;OFCR3S2 -->
+<g id="edge5" class="edge">
+<title>OFCR2GA:e2-&gt;OFCR3S2:w2</title>
+<path fill="none" stroke="#ff6db6" stroke-width="2" d="M752.52,-217C804.28,-217 756.12,-119.42 789.93,-101.88"/>
+<polygon fill="#ff6db6" stroke="#ff6db6" stroke-width="2" points="790.51,-105.34 799.56,-99.83 789.05,-98.49 790.51,-105.34"/>
+</g>
+<!-- OFCR2GB&#45;&gt;OFCR3S1 -->
+<g id="edge7" class="edge">
+<title>OFCR2GB:e2-&gt;OFCR3S1:w2</title>
+<path fill="none" stroke="#920000" stroke-width="2" d="M752.52,-77C803.69,-77 756.56,-173.26 790.07,-190.55"/>
+<polygon fill="#920000" stroke="#920000" stroke-width="2" points="789.05,-193.92 799.56,-192.57 790.5,-187.07 789.05,-193.92"/>
+</g>
+<!-- OFCR2GB&#45;&gt;OFCR3S2 -->
+<g id="edge6" class="edge">
+<title>OFCR2GB:e1-&gt;OFCR3S2:w1</title>
+<path fill="none" stroke="#b66dff" stroke-width="2" d="M752.52,-99.8C771.7,-99.8 776.6,-113.62 789.76,-119.45"/>
+<polygon fill="#b66dff" stroke="#b66dff" stroke-width="2" points="789.06,-122.88 799.55,-121.41 790.43,-116.02 789.06,-122.88"/>
+</g>
+<!-- OFCR3F -->
+<g id="node8" class="node">
+<title>OFCR3F</title>
+<polygon fill="#f8f9fa" stroke="none" points="1039.95,-145.8 1039.95,-214.2 1224.37,-214.2 1224.37,-145.8 1039.95,-145.8"/>
+<polygon fill="#eaecf0" stroke="none" points="1039.95,-191.4 1039.95,-214.2 1184.95,-214.2 1184.95,-191.4 1039.95,-191.4"/>
+<polygon fill="none" stroke="black" points="1039.95,-191.4 1039.95,-214.2 1184.95,-214.2 1184.95,-191.4 1039.95,-191.4"/>
+<text xml:space="preserve" text-anchor="start" x="1042.95" y="-199.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1184.95,-191.4 1184.95,-214.2 1224.37,-214.2 1224.37,-191.4 1184.95,-191.4"/>
+<polygon fill="none" stroke="black" points="1184.95,-191.4 1184.95,-214.2 1224.37,-214.2 1224.37,-191.4 1184.95,-191.4"/>
+<text xml:space="preserve" text-anchor="start" x="1187.95" y="-199.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="1039.95,-168.6 1039.95,-191.4 1184.95,-191.4 1184.95,-168.6 1039.95,-168.6"/>
+<text xml:space="preserve" text-anchor="start" x="1042.95" y="-175.8" font-family="Times,serif" font-size="14.00">🇳🇨 New Caledonia</text>
+<polygon fill="none" stroke="black" points="1184.95,-168.6 1184.95,-191.4 1224.37,-191.4 1224.37,-168.6 1184.95,-168.6"/>
+<text xml:space="preserve" text-anchor="start" x="1201.16" y="-175.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3bb" stroke="none" points="1039.95,-145.8 1039.95,-168.6 1184.95,-168.6 1184.95,-145.8 1039.95,-145.8"/>
+<polygon fill="none" stroke="black" points="1039.95,-145.8 1039.95,-168.6 1184.95,-168.6 1184.95,-145.8 1039.95,-145.8"/>
+<text xml:space="preserve" text-anchor="start" x="1042.95" y="-154" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇿 New Zealand</text>
+<polygon fill="#bbf3bb" stroke="none" points="1184.95,-145.8 1184.95,-168.6 1224.37,-168.6 1224.37,-145.8 1184.95,-145.8"/>
+<polygon fill="none" stroke="black" points="1184.95,-145.8 1184.95,-168.6 1224.37,-168.6 1224.37,-145.8 1184.95,-145.8"/>
+<text xml:space="preserve" text-anchor="start" x="1201.16" y="-154" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+</g>
+<!-- OFCR3S1&#45;&gt;OFCR3F -->
+<g id="edge8" class="edge">
+<title>OFCR3S1:e1-&gt;OFCR3F:w1</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M988.95,-216C1011.19,-216 1012.22,-192.23 1026.51,-183.32"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="1027.26,-186.74 1036.02,-180.78 1025.46,-179.98 1027.26,-186.74"/>
+</g>
+<!-- OFCR3S2&#45;&gt;OFCR3F -->
+<g id="edge9" class="edge">
+<title>OFCR3S2:e1-&gt;OFCR3F:w2</title>
+<path fill="none" stroke="#b66dff" stroke-width="2" d="M988.95,-122C1011.03,-122 1012.29,-145.24 1026.57,-153.95"/>
+<polygon fill="#b66dff" stroke="#b66dff" stroke-width="2" points="1025.46,-157.28 1036.02,-156.43 1027.23,-150.51 1025.46,-157.28"/>
+</g>
+</g>
+</svg>
