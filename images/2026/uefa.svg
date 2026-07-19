@@ -40,7 +40,7 @@
 <text xml:space="preserve" text-anchor="start" x="268.33" y="-678.8" font-family="Times,serif" font-weight="bold" font-size="14.00">12</text>
 <polygon fill="#bbf3ff" stroke="none" points="24,-647.8 24,-670.6 229,-670.6 229,-647.8 24,-647.8"/>
 <polygon fill="none" stroke="black" points="24,-647.8 24,-670.6 229,-670.6 229,-647.8 24,-647.8"/>
-<text xml:space="preserve" text-anchor="start" x="27" y="-656" font-family="Times,serif" font-weight="bold" font-size="14.00"> Northern Ireland</text>
+<text xml:space="preserve" text-anchor="start" x="27" y="-656" font-family="Times,serif" font-weight="bold" font-size="14.00">     Northern Ireland</text>
 <polygon fill="#bbf3ff" stroke="none" points="229,-647.8 229,-670.6 263,-670.6 263,-647.8 229,-647.8"/>
 <polygon fill="none" stroke="black" points="229,-647.8 229,-670.6 263,-670.6 263,-647.8 229,-647.8"/>
 <text xml:space="preserve" text-anchor="start" x="238.51" y="-656" font-family="Times,serif" font-weight="bold" font-size="14.00">+1</text>
@@ -71,7 +71,7 @@
 <polygon fill="none" stroke="black" points="543.66,-832.6 543.66,-855.4 583.09,-855.4 583.09,-832.6 543.66,-832.6"/>
 <text xml:space="preserve" text-anchor="start" x="559.88" y="-840.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
 <polygon fill="none" stroke="black" points="339.66,-809.8 339.66,-832.6 543.66,-832.6 543.66,-809.8 339.66,-809.8"/>
-<text xml:space="preserve" text-anchor="start" x="342.66" y="-817" font-family="Times,serif" font-size="14.00"> Northern Ireland</text>
+<text xml:space="preserve" text-anchor="start" x="342.66" y="-817" font-family="Times,serif" font-size="14.00">     Northern Ireland</text>
 <polygon fill="none" stroke="black" points="543.66,-809.8 543.66,-832.6 583.09,-832.6 583.09,-809.8 543.66,-809.8"/>
 <text xml:space="preserve" text-anchor="start" x="559.88" y="-817" font-family="Times,serif" font-size="14.00">0</text>
 </g>

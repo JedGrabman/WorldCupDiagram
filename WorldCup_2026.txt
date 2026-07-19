@@ -60,7 +60,7 @@ label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9
 AFCR1M7[shape = plaintext,
 label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
 <tr><td bgcolor = "#eaecf0" width = "142.314117647059" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "58.8047058823529" align = "left"><b>Match 1</b></td><td bgcolor = "#eaecf0" width = "58.8047058823529" align = "left"><b>Match 2</b></td><td bgcolor = "#eaecf0" width = "39.9964705882353" align = "left"><b>Total</b></td></tr>
-<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b> Chinese Taipei</b></td><td bgcolor = "#BBF3FF"><b>4</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>7</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>     Chinese Taipei</b></td><td bgcolor = "#BBF3FF"><b>4</b></td><td bgcolor = "#BBF3FF"><b>3</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>7</b></td></tr>
 <tr><td align = "left" port = "w2">🇹🇱 Timor-Leste</td><td>0</td><td>0</td><td port = "e2">0</td></tr>
 </table>>]
 
@@ -118,7 +118,7 @@ label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9
 <tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇴🇲 Oman</b></td><td bgcolor = "#BBF3FF"><b>+9</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>13</b></td></tr>
 <tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇰🇬 Kyrgyzstan</b></td><td bgcolor = "#BBF3FF"><b>+6</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>11</b></td></tr>
 <tr><td align = "left" port = "w3">🇲🇾 Malaysia</td><td>0</td><td port = "e3">10</td></tr>
-<tr><td align = "left" port = "w4"> Chinese Taipei</td><td>-15</td><td port = "e4">0</td></tr>
+<tr><td align = "left" port = "w4">     Chinese Taipei</td><td>-15</td><td port = "e4">0</td></tr>
 </table>>]
 
 AFCR2GE[shape = plaintext,
@@ -347,7 +347,7 @@ label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9
 <tr><td bgcolor = "#eaecf0" width = "205" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "34" align = "left"><b>GD</b></td><td bgcolor = "#eaecf0" width = "24" align = "left"><b>Pts</b></td></tr>
 <tr><td bgcolor = "#BBF3BB" align = "left" port = "w1"><b>🇩🇪 Germany</b></td><td bgcolor = "#BBF3BB"><b>+13</b></td><td bgcolor = "#BBF3BB" port = "e1"><b>15</b></td></tr>
 <tr><td bgcolor = "#BBF3FF" align = "left" port = "w2"><b>🇸🇰 Slovakia</b></td><td bgcolor = "#BBF3FF"><b>-2</b></td><td bgcolor = "#BBF3FF" port = "e2"><b>12</b></td></tr>
-<tr><td bgcolor = "#BBF3FF" align = "left" port = "w3"><b> Northern Ireland</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e3"><b>9</b></td></tr>
+<tr><td bgcolor = "#BBF3FF" align = "left" port = "w3"><b>     Northern Ireland</b></td><td bgcolor = "#BBF3FF"><b>+1</b></td><td bgcolor = "#BBF3FF" port = "e3"><b>9</b></td></tr>
 <tr><td align = "left" port = "w4">🇱🇺 Luxembourg</td><td>-12</td><td port = "e4">0</td></tr>
 </table>>]
 
@@ -460,7 +460,7 @@ UEFAR2AS1[shape = plaintext,
 label = <<table border = '0' cellborder = '1' cellspacing = '0' bgcolor = '#f8f9fa'>
 <tr><td bgcolor = "#eaecf0" width = "204.794117647059" align = "left"><b>Team</b></td><td bgcolor = "#eaecf0" width = "39.9964705882353" align = "left"><b>Score</b></td></tr>
 <tr><td bgcolor = "#BBF3FF" align = "left" port = "w1"><b>🇮🇹 Italy</b></td><td bgcolor = "#BBF3FF" port = "e1"><b>2</b></td></tr>
-<tr><td align = "left" port = "w2"> Northern Ireland</td><td port = "e2">0</td></tr>
+<tr><td align = "left" port = "w2">     Northern Ireland</td><td port = "e2">0</td></tr>
 </table>>]
 
 UEFAR2AS2[shape = plaintext,

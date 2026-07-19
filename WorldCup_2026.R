@@ -126,10 +126,10 @@ get_single_flag = function(country){
     return("🏴󠁧󠁢󠁷󠁬󠁳󠁿")
   }
   if (country == "Chinese Taipei"){
-    return("") # Uses Chinese Taipei flag, no emoji. Could use Taiwan.
+    return("    ") # Uses Chinese Taipei flag, no emoji. Could use Taiwan.
   }
   if (country == "Northern Ireland"){
-    return("") # Uses the Ulster banner, no Emoji
+    return("    ") # Uses the Ulster banner, no Emoji
   }
   if (country == "??"){
     return("")
