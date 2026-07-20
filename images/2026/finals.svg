@@ -1,0 +1,1471 @@
+<svg width="1796pt" height="1770pt" viewBox="0.00 0.00 1796.00 1770.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1766)">
+<title>g</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1766 1791.8,-1766 1791.8,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_wcF</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-1754 1779.8,-1754 1779.8,-8 8,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="893.9" y="-1705" font-family="Times,serif" font-size="50.00">World Cup Finals</text>
+</g>
+<!-- GroupA -->
+<g id="node1" class="node">
+<title>GroupA</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-1560 24,-1674 286.66,-1674 286.66,-1560 24,-1560"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-1651.2 24,-1674 228,-1674 228,-1651.2 24,-1651.2"/>
+<polygon fill="none" stroke="black" points="24,-1651.2 24,-1674 228,-1674 228,-1651.2 24,-1651.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1659.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-1651.2 228,-1674 262,-1674 262,-1651.2 228,-1651.2"/>
+<polygon fill="none" stroke="black" points="228,-1651.2 228,-1674 262,-1674 262,-1651.2 228,-1651.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-1659.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-1651.2 262,-1674 286.66,-1674 286.66,-1651.2 262,-1651.2"/>
+<polygon fill="none" stroke="black" points="262,-1651.2 262,-1674 286.66,-1674 286.66,-1651.2 262,-1651.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-1659.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1628.4 24,-1651.2 228,-1651.2 228,-1628.4 24,-1628.4"/>
+<polygon fill="none" stroke="black" points="24,-1628.4 24,-1651.2 228,-1651.2 228,-1628.4 24,-1628.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1636.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇽 Mexico</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1628.4 228,-1651.2 262,-1651.2 262,-1628.4 228,-1628.4"/>
+<polygon fill="none" stroke="black" points="228,-1628.4 228,-1651.2 262,-1651.2 262,-1628.4 228,-1628.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1636.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1628.4 262,-1651.2 286.66,-1651.2 286.66,-1628.4 262,-1628.4"/>
+<polygon fill="none" stroke="black" points="262,-1628.4 262,-1651.2 286.66,-1651.2 286.66,-1628.4 262,-1628.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1636.6" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1605.6 24,-1628.4 228,-1628.4 228,-1605.6 24,-1605.6"/>
+<polygon fill="none" stroke="black" points="24,-1605.6 24,-1628.4 228,-1628.4 228,-1605.6 24,-1605.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1613.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇿🇦 South Africa</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1605.6 228,-1628.4 262,-1628.4 262,-1605.6 228,-1605.6"/>
+<polygon fill="none" stroke="black" points="228,-1605.6 228,-1628.4 262,-1628.4 262,-1605.6 228,-1605.6"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1613.8" font-family="Times,serif" font-weight="bold" font-size="14.00">-1</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1605.6 262,-1628.4 286.66,-1628.4 286.66,-1605.6 262,-1605.6"/>
+<polygon fill="none" stroke="black" points="262,-1605.6 262,-1628.4 286.66,-1628.4 286.66,-1605.6 262,-1605.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1613.8" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-1582.8 24,-1605.6 228,-1605.6 228,-1582.8 24,-1582.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1590" font-family="Times,serif" font-size="14.00">🇰🇷 South Korea</text>
+<polygon fill="none" stroke="black" points="228,-1582.8 228,-1605.6 262,-1605.6 262,-1582.8 228,-1582.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1590" font-family="Times,serif" font-size="14.00">-1</text>
+<polygon fill="none" stroke="black" points="262,-1582.8 262,-1605.6 286.66,-1605.6 286.66,-1582.8 262,-1582.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1590" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="24,-1560 24,-1582.8 228,-1582.8 228,-1560 24,-1560"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1567.2" font-family="Times,serif" font-size="14.00">🇨🇿 Czechia</text>
+<polygon fill="none" stroke="black" points="228,-1560 228,-1582.8 262,-1582.8 262,-1560 228,-1560"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1567.2" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="262,-1560 262,-1582.8 286.66,-1582.8 286.66,-1560 262,-1560"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1567.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- GroupB -->
+<g id="node2" class="node">
+<title>GroupB</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-1420 24,-1534 286.66,-1534 286.66,-1420 24,-1420"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-1511.2 24,-1534 228,-1534 228,-1511.2 24,-1511.2"/>
+<polygon fill="none" stroke="black" points="24,-1511.2 24,-1534 228,-1534 228,-1511.2 24,-1511.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1519.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-1511.2 228,-1534 262,-1534 262,-1511.2 228,-1511.2"/>
+<polygon fill="none" stroke="black" points="228,-1511.2 228,-1534 262,-1534 262,-1511.2 228,-1511.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-1519.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-1511.2 262,-1534 286.66,-1534 286.66,-1511.2 262,-1511.2"/>
+<polygon fill="none" stroke="black" points="262,-1511.2 262,-1534 286.66,-1534 286.66,-1511.2 262,-1511.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-1519.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1488.4 24,-1511.2 228,-1511.2 228,-1488.4 24,-1488.4"/>
+<polygon fill="none" stroke="black" points="24,-1488.4 24,-1511.2 228,-1511.2 228,-1488.4 24,-1488.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1496.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇭 Switzerland</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1488.4 228,-1511.2 262,-1511.2 262,-1488.4 228,-1488.4"/>
+<polygon fill="none" stroke="black" points="228,-1488.4 228,-1511.2 262,-1511.2 262,-1488.4 228,-1488.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1496.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1488.4 262,-1511.2 286.66,-1511.2 286.66,-1488.4 262,-1488.4"/>
+<polygon fill="none" stroke="black" points="262,-1488.4 262,-1511.2 286.66,-1511.2 286.66,-1488.4 262,-1488.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1496.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1465.6 24,-1488.4 228,-1488.4 228,-1465.6 24,-1465.6"/>
+<polygon fill="none" stroke="black" points="24,-1465.6 24,-1488.4 228,-1488.4 228,-1465.6 24,-1465.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1473.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇦 Canada</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1465.6 228,-1488.4 262,-1488.4 262,-1465.6 228,-1465.6"/>
+<polygon fill="none" stroke="black" points="228,-1465.6 228,-1488.4 262,-1488.4 262,-1465.6 228,-1465.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1473.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1465.6 262,-1488.4 286.66,-1488.4 286.66,-1465.6 262,-1465.6"/>
+<polygon fill="none" stroke="black" points="262,-1465.6 262,-1488.4 286.66,-1488.4 286.66,-1465.6 262,-1465.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1473.8" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1442.8 24,-1465.6 228,-1465.6 228,-1442.8 24,-1442.8"/>
+<polygon fill="none" stroke="black" points="24,-1442.8 24,-1465.6 228,-1465.6 228,-1442.8 24,-1442.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1451" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇦 Bosnia and Herzegovina</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1442.8 228,-1465.6 262,-1465.6 262,-1442.8 228,-1442.8"/>
+<polygon fill="none" stroke="black" points="228,-1442.8 228,-1465.6 262,-1465.6 262,-1442.8 228,-1442.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1451" font-family="Times,serif" font-weight="bold" font-size="14.00">-1</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1442.8 262,-1465.6 286.66,-1465.6 286.66,-1442.8 262,-1442.8"/>
+<polygon fill="none" stroke="black" points="262,-1442.8 262,-1465.6 286.66,-1465.6 286.66,-1442.8 262,-1442.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1451" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-1420 24,-1442.8 228,-1442.8 228,-1420 24,-1420"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1427.2" font-family="Times,serif" font-size="14.00">🇶🇦 Qatar</text>
+<polygon fill="none" stroke="black" points="228,-1420 228,-1442.8 262,-1442.8 262,-1420 228,-1420"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1427.2" font-family="Times,serif" font-size="14.00">-8</text>
+<polygon fill="none" stroke="black" points="262,-1420 262,-1442.8 286.66,-1442.8 286.66,-1420 262,-1420"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1427.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- GroupB&#45;&gt;GroupA -->
+<!-- GroupC -->
+<g id="node3" class="node">
+<title>GroupC</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-1280 24,-1394 286.66,-1394 286.66,-1280 24,-1280"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-1371.2 24,-1394 228,-1394 228,-1371.2 24,-1371.2"/>
+<polygon fill="none" stroke="black" points="24,-1371.2 24,-1394 228,-1394 228,-1371.2 24,-1371.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1379.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-1371.2 228,-1394 262,-1394 262,-1371.2 228,-1371.2"/>
+<polygon fill="none" stroke="black" points="228,-1371.2 228,-1394 262,-1394 262,-1371.2 228,-1371.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-1379.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-1371.2 262,-1394 286.66,-1394 286.66,-1371.2 262,-1371.2"/>
+<polygon fill="none" stroke="black" points="262,-1371.2 262,-1394 286.66,-1394 286.66,-1371.2 262,-1371.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-1379.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1348.4 24,-1371.2 228,-1371.2 228,-1348.4 24,-1348.4"/>
+<polygon fill="none" stroke="black" points="24,-1348.4 24,-1371.2 228,-1371.2 228,-1348.4 24,-1348.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1356.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇷 Brazil</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1348.4 228,-1371.2 262,-1371.2 262,-1348.4 228,-1348.4"/>
+<polygon fill="none" stroke="black" points="228,-1348.4 228,-1371.2 262,-1371.2 262,-1348.4 228,-1348.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1356.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1348.4 262,-1371.2 286.66,-1371.2 286.66,-1348.4 262,-1348.4"/>
+<polygon fill="none" stroke="black" points="262,-1348.4 262,-1371.2 286.66,-1371.2 286.66,-1348.4 262,-1348.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1356.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1325.6 24,-1348.4 228,-1348.4 228,-1325.6 24,-1325.6"/>
+<polygon fill="none" stroke="black" points="24,-1325.6 24,-1348.4 228,-1348.4 228,-1325.6 24,-1325.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1333.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇦 Morocco</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1325.6 228,-1348.4 262,-1348.4 262,-1325.6 228,-1325.6"/>
+<polygon fill="none" stroke="black" points="228,-1325.6 228,-1348.4 262,-1348.4 262,-1325.6 228,-1325.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1333.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+3</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1325.6 262,-1348.4 286.66,-1348.4 286.66,-1325.6 262,-1325.6"/>
+<polygon fill="none" stroke="black" points="262,-1325.6 262,-1348.4 286.66,-1348.4 286.66,-1325.6 262,-1325.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1333.8" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="none" stroke="black" points="24,-1302.8 24,-1325.6 228,-1325.6 228,-1302.8 24,-1302.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1310" font-family="Times,serif" font-size="14.00">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland</text>
+<polygon fill="none" stroke="black" points="228,-1302.8 228,-1325.6 262,-1325.6 262,-1302.8 228,-1302.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1310" font-family="Times,serif" font-size="14.00">-3</text>
+<polygon fill="none" stroke="black" points="262,-1302.8 262,-1325.6 286.66,-1325.6 286.66,-1302.8 262,-1302.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1310" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="24,-1280 24,-1302.8 228,-1302.8 228,-1280 24,-1280"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1287.2" font-family="Times,serif" font-size="14.00">🇭🇹 Haiti</text>
+<polygon fill="none" stroke="black" points="228,-1280 228,-1302.8 262,-1302.8 262,-1280 228,-1280"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1287.2" font-family="Times,serif" font-size="14.00">-6</text>
+<polygon fill="none" stroke="black" points="262,-1280 262,-1302.8 286.66,-1302.8 286.66,-1280 262,-1280"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1287.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupC&#45;&gt;GroupB -->
+<!-- GroupD -->
+<g id="node4" class="node">
+<title>GroupD</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-1140 24,-1254 286.66,-1254 286.66,-1140 24,-1140"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-1231.2 24,-1254 228,-1254 228,-1231.2 24,-1231.2"/>
+<polygon fill="none" stroke="black" points="24,-1231.2 24,-1254 228,-1254 228,-1231.2 24,-1231.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1239.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-1231.2 228,-1254 262,-1254 262,-1231.2 228,-1231.2"/>
+<polygon fill="none" stroke="black" points="228,-1231.2 228,-1254 262,-1254 262,-1231.2 228,-1231.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-1239.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-1231.2 262,-1254 286.66,-1254 286.66,-1231.2 262,-1231.2"/>
+<polygon fill="none" stroke="black" points="262,-1231.2 262,-1254 286.66,-1254 286.66,-1231.2 262,-1231.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-1239.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1208.4 24,-1231.2 228,-1231.2 228,-1208.4 24,-1208.4"/>
+<polygon fill="none" stroke="black" points="24,-1208.4 24,-1231.2 228,-1231.2 228,-1208.4 24,-1208.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1216.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇺🇸 United States</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1208.4 228,-1231.2 262,-1231.2 262,-1208.4 228,-1208.4"/>
+<polygon fill="none" stroke="black" points="228,-1208.4 228,-1231.2 262,-1231.2 262,-1208.4 228,-1208.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1216.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1208.4 262,-1231.2 286.66,-1231.2 286.66,-1208.4 262,-1208.4"/>
+<polygon fill="none" stroke="black" points="262,-1208.4 262,-1231.2 286.66,-1231.2 286.66,-1208.4 262,-1208.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1216.6" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1185.6 24,-1208.4 228,-1208.4 228,-1185.6 24,-1185.6"/>
+<polygon fill="none" stroke="black" points="24,-1185.6 24,-1208.4 228,-1208.4 228,-1185.6 24,-1185.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1193.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇺 Australia</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1185.6 228,-1208.4 262,-1208.4 262,-1185.6 228,-1185.6"/>
+<polygon fill="none" stroke="black" points="228,-1185.6 228,-1208.4 262,-1208.4 262,-1185.6 228,-1185.6"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-1193.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1185.6 262,-1208.4 286.66,-1208.4 286.66,-1185.6 262,-1185.6"/>
+<polygon fill="none" stroke="black" points="262,-1185.6 262,-1208.4 286.66,-1208.4 286.66,-1185.6 262,-1185.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1193.8" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1162.8 24,-1185.6 228,-1185.6 228,-1162.8 24,-1162.8"/>
+<polygon fill="none" stroke="black" points="24,-1162.8 24,-1185.6 228,-1185.6 228,-1162.8 24,-1162.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1171" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇾 Paraguay</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1162.8 228,-1185.6 262,-1185.6 262,-1162.8 228,-1162.8"/>
+<polygon fill="none" stroke="black" points="228,-1162.8 228,-1185.6 262,-1185.6 262,-1162.8 228,-1162.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1171" font-family="Times,serif" font-weight="bold" font-size="14.00">-2</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1162.8 262,-1185.6 286.66,-1185.6 286.66,-1162.8 262,-1162.8"/>
+<polygon fill="none" stroke="black" points="262,-1162.8 262,-1185.6 286.66,-1185.6 286.66,-1162.8 262,-1162.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1171" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-1140 24,-1162.8 228,-1162.8 228,-1140 24,-1140"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1147.2" font-family="Times,serif" font-size="14.00">🇹🇷 Turkey</text>
+<polygon fill="none" stroke="black" points="228,-1140 228,-1162.8 262,-1162.8 262,-1140 228,-1140"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1147.2" font-family="Times,serif" font-size="14.00">-2</text>
+<polygon fill="none" stroke="black" points="262,-1140 262,-1162.8 286.66,-1162.8 286.66,-1140 262,-1140"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1147.2" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- GroupD&#45;&gt;GroupC -->
+<!-- GroupE -->
+<g id="node5" class="node">
+<title>GroupE</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-1000 24,-1114 286.66,-1114 286.66,-1000 24,-1000"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-1091.2 24,-1114 228,-1114 228,-1091.2 24,-1091.2"/>
+<polygon fill="none" stroke="black" points="24,-1091.2 24,-1114 228,-1114 228,-1091.2 24,-1091.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1099.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-1091.2 228,-1114 262,-1114 262,-1091.2 228,-1091.2"/>
+<polygon fill="none" stroke="black" points="228,-1091.2 228,-1114 262,-1114 262,-1091.2 228,-1091.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-1099.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-1091.2 262,-1114 286.66,-1114 286.66,-1091.2 262,-1091.2"/>
+<polygon fill="none" stroke="black" points="262,-1091.2 262,-1114 286.66,-1114 286.66,-1091.2 262,-1091.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-1099.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1068.4 24,-1091.2 228,-1091.2 228,-1068.4 24,-1068.4"/>
+<polygon fill="none" stroke="black" points="24,-1068.4 24,-1091.2 228,-1091.2 228,-1068.4 24,-1068.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1076.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇩🇪 Germany</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1068.4 228,-1091.2 262,-1091.2 262,-1068.4 228,-1068.4"/>
+<polygon fill="none" stroke="black" points="228,-1068.4 228,-1091.2 262,-1091.2 262,-1068.4 228,-1068.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1076.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1068.4 262,-1091.2 286.66,-1091.2 286.66,-1068.4 262,-1068.4"/>
+<polygon fill="none" stroke="black" points="262,-1068.4 262,-1091.2 286.66,-1091.2 286.66,-1068.4 262,-1068.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1076.6" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1045.6 24,-1068.4 228,-1068.4 228,-1045.6 24,-1045.6"/>
+<polygon fill="none" stroke="black" points="24,-1045.6 24,-1068.4 228,-1068.4 228,-1045.6 24,-1045.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1053.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇮 Ivory Coast</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1045.6 228,-1068.4 262,-1068.4 262,-1045.6 228,-1045.6"/>
+<polygon fill="none" stroke="black" points="228,-1045.6 228,-1068.4 262,-1068.4 262,-1045.6 228,-1045.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-1053.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+2</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1045.6 262,-1068.4 286.66,-1068.4 286.66,-1045.6 262,-1045.6"/>
+<polygon fill="none" stroke="black" points="262,-1045.6 262,-1068.4 286.66,-1068.4 286.66,-1045.6 262,-1045.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1053.8" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-1022.8 24,-1045.6 228,-1045.6 228,-1022.8 24,-1022.8"/>
+<polygon fill="none" stroke="black" points="24,-1022.8 24,-1045.6 228,-1045.6 228,-1022.8 24,-1022.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1031" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇨 Ecuador</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-1022.8 228,-1045.6 262,-1045.6 262,-1022.8 228,-1022.8"/>
+<polygon fill="none" stroke="black" points="228,-1022.8 228,-1045.6 262,-1045.6 262,-1022.8 228,-1022.8"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-1031" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-1022.8 262,-1045.6 286.66,-1045.6 286.66,-1022.8 262,-1022.8"/>
+<polygon fill="none" stroke="black" points="262,-1022.8 262,-1045.6 286.66,-1045.6 286.66,-1022.8 262,-1022.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1031" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-1000 24,-1022.8 228,-1022.8 228,-1000 24,-1000"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-1007.2" font-family="Times,serif" font-size="14.00">🇨🇼 Curaçao</text>
+<polygon fill="none" stroke="black" points="228,-1000 228,-1022.8 262,-1022.8 262,-1000 228,-1000"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-1007.2" font-family="Times,serif" font-size="14.00">-8</text>
+<polygon fill="none" stroke="black" points="262,-1000 262,-1022.8 286.66,-1022.8 286.66,-1000 262,-1000"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-1007.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- GroupE&#45;&gt;GroupD -->
+<!-- GroupF -->
+<g id="node6" class="node">
+<title>GroupF</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-860 24,-974 286.66,-974 286.66,-860 24,-860"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-951.2 24,-974 228,-974 228,-951.2 24,-951.2"/>
+<polygon fill="none" stroke="black" points="24,-951.2 24,-974 228,-974 228,-951.2 24,-951.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-959.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-951.2 228,-974 262,-974 262,-951.2 228,-951.2"/>
+<polygon fill="none" stroke="black" points="228,-951.2 228,-974 262,-974 262,-951.2 228,-951.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-959.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-951.2 262,-974 286.66,-974 286.66,-951.2 262,-951.2"/>
+<polygon fill="none" stroke="black" points="262,-951.2 262,-974 286.66,-974 286.66,-951.2 262,-951.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-959.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-928.4 24,-951.2 228,-951.2 228,-928.4 24,-928.4"/>
+<polygon fill="none" stroke="black" points="24,-928.4 24,-951.2 228,-951.2 228,-928.4 24,-928.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-936.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇱 Netherlands</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-928.4 228,-951.2 262,-951.2 262,-928.4 228,-928.4"/>
+<polygon fill="none" stroke="black" points="228,-928.4 228,-951.2 262,-951.2 262,-928.4 228,-928.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-936.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+6</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-928.4 262,-951.2 286.66,-951.2 286.66,-928.4 262,-928.4"/>
+<polygon fill="none" stroke="black" points="262,-928.4 262,-951.2 286.66,-951.2 286.66,-928.4 262,-928.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-936.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-905.6 24,-928.4 228,-928.4 228,-905.6 24,-905.6"/>
+<polygon fill="none" stroke="black" points="24,-905.6 24,-928.4 228,-928.4 228,-905.6 24,-905.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-913.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇯🇵 Japan</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-905.6 228,-928.4 262,-928.4 262,-905.6 228,-905.6"/>
+<polygon fill="none" stroke="black" points="228,-905.6 228,-928.4 262,-928.4 262,-905.6 228,-905.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-913.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-905.6 262,-928.4 286.66,-928.4 286.66,-905.6 262,-905.6"/>
+<polygon fill="none" stroke="black" points="262,-905.6 262,-928.4 286.66,-928.4 286.66,-905.6 262,-905.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-913.8" font-family="Times,serif" font-weight="bold" font-size="14.00">5</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-882.8 24,-905.6 228,-905.6 228,-882.8 24,-882.8"/>
+<polygon fill="none" stroke="black" points="24,-882.8 24,-905.6 228,-905.6 228,-882.8 24,-882.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-891" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇪 Sweden</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-882.8 228,-905.6 262,-905.6 262,-882.8 228,-882.8"/>
+<polygon fill="none" stroke="black" points="228,-882.8 228,-905.6 262,-905.6 262,-882.8 228,-882.8"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-891" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-882.8 262,-905.6 286.66,-905.6 286.66,-882.8 262,-882.8"/>
+<polygon fill="none" stroke="black" points="262,-882.8 262,-905.6 286.66,-905.6 286.66,-882.8 262,-882.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-891" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-860 24,-882.8 228,-882.8 228,-860 24,-860"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-867.2" font-family="Times,serif" font-size="14.00">🇹🇳 Tunisia</text>
+<polygon fill="none" stroke="black" points="228,-860 228,-882.8 262,-882.8 262,-860 228,-860"/>
+<text xml:space="preserve" text-anchor="start" x="235.67" y="-867.2" font-family="Times,serif" font-size="14.00">-10</text>
+<polygon fill="none" stroke="black" points="262,-860 262,-882.8 286.66,-882.8 286.66,-860 262,-860"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-867.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupF&#45;&gt;GroupE -->
+<!-- R32M8 -->
+<g id="node20" class="node">
+<title>R32M8</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-859.8 338.66,-928.2 582.09,-928.2 582.09,-859.8 338.66,-859.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-905.4 338.66,-928.2 542.66,-928.2 542.66,-905.4 338.66,-905.4"/>
+<polygon fill="none" stroke="black" points="338.66,-905.4 338.66,-928.2 542.66,-928.2 542.66,-905.4 338.66,-905.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-913.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-905.4 542.66,-928.2 582.09,-928.2 582.09,-905.4 542.66,-905.4"/>
+<polygon fill="none" stroke="black" points="542.66,-905.4 542.66,-928.2 582.09,-928.2 582.09,-905.4 542.66,-905.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-913.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-882.6 338.66,-905.4 542.66,-905.4 542.66,-882.6 338.66,-882.6"/>
+<polygon fill="none" stroke="black" points="338.66,-882.6 338.66,-905.4 542.66,-905.4 542.66,-882.6 338.66,-882.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-890.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇪 Belgium</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-882.6 542.66,-905.4 582.09,-905.4 582.09,-882.6 542.66,-882.6"/>
+<polygon fill="none" stroke="black" points="542.66,-882.6 542.66,-905.4 582.09,-905.4 582.09,-882.6 542.66,-882.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-890.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="338.66,-859.8 338.66,-882.6 542.66,-882.6 542.66,-859.8 338.66,-859.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-867" font-family="Times,serif" font-size="14.00">🇸🇳 Senegal</text>
+<polygon fill="none" stroke="black" points="542.66,-859.8 542.66,-882.6 582.09,-882.6 582.09,-859.8 542.66,-859.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-867" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- GroupF&#45;&gt;R32M8 -->
+<!-- GroupG -->
+<g id="node7" class="node">
+<title>GroupG</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-720 24,-834 286.66,-834 286.66,-720 24,-720"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-811.2 24,-834 228,-834 228,-811.2 24,-811.2"/>
+<polygon fill="none" stroke="black" points="24,-811.2 24,-834 228,-834 228,-811.2 24,-811.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-819.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-811.2 228,-834 262,-834 262,-811.2 228,-811.2"/>
+<polygon fill="none" stroke="black" points="228,-811.2 228,-834 262,-834 262,-811.2 228,-811.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-819.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-811.2 262,-834 286.66,-834 286.66,-811.2 262,-811.2"/>
+<polygon fill="none" stroke="black" points="262,-811.2 262,-834 286.66,-834 286.66,-811.2 262,-811.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-819.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-788.4 24,-811.2 228,-811.2 228,-788.4 24,-788.4"/>
+<polygon fill="none" stroke="black" points="24,-788.4 24,-811.2 228,-811.2 228,-788.4 24,-788.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-796.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇪 Belgium</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-788.4 228,-811.2 262,-811.2 262,-788.4 228,-788.4"/>
+<polygon fill="none" stroke="black" points="228,-788.4 228,-811.2 262,-811.2 262,-788.4 228,-788.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-796.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-788.4 262,-811.2 286.66,-811.2 286.66,-788.4 262,-788.4"/>
+<polygon fill="none" stroke="black" points="262,-788.4 262,-811.2 286.66,-811.2 286.66,-788.4 262,-788.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-796.6" font-family="Times,serif" font-weight="bold" font-size="14.00">5</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-765.6 24,-788.4 228,-788.4 228,-765.6 24,-765.6"/>
+<polygon fill="none" stroke="black" points="24,-765.6 24,-788.4 228,-788.4 228,-765.6 24,-765.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-773.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇬 Egypt</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-765.6 228,-788.4 262,-788.4 262,-765.6 228,-765.6"/>
+<polygon fill="none" stroke="black" points="228,-765.6 228,-788.4 262,-788.4 262,-765.6 228,-765.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-773.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+2</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-765.6 262,-788.4 286.66,-788.4 286.66,-765.6 262,-765.6"/>
+<polygon fill="none" stroke="black" points="262,-765.6 262,-788.4 286.66,-788.4 286.66,-765.6 262,-765.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-773.8" font-family="Times,serif" font-weight="bold" font-size="14.00">5</text>
+<polygon fill="none" stroke="black" points="24,-742.8 24,-765.6 228,-765.6 228,-742.8 24,-742.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-750" font-family="Times,serif" font-size="14.00">🇮🇷 Iran</text>
+<polygon fill="none" stroke="black" points="228,-742.8 228,-765.6 262,-765.6 262,-742.8 228,-742.8"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-750" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="none" stroke="black" points="262,-742.8 262,-765.6 286.66,-765.6 286.66,-742.8 262,-742.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-750" font-family="Times,serif" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="24,-720 24,-742.8 228,-742.8 228,-720 24,-720"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-727.2" font-family="Times,serif" font-size="14.00">🇳🇿 New Zealand</text>
+<polygon fill="none" stroke="black" points="228,-720 228,-742.8 262,-742.8 262,-720 228,-720"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-727.2" font-family="Times,serif" font-size="14.00">-6</text>
+<polygon fill="none" stroke="black" points="262,-720 262,-742.8 286.66,-742.8 286.66,-720 262,-720"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-727.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- GroupG&#45;&gt;GroupF -->
+<!-- R32M9 -->
+<g id="node21" class="node">
+<title>R32M9</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-765.8 338.66,-834.2 582.09,-834.2 582.09,-765.8 338.66,-765.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-811.4 338.66,-834.2 542.66,-834.2 542.66,-811.4 338.66,-811.4"/>
+<polygon fill="none" stroke="black" points="338.66,-811.4 338.66,-834.2 542.66,-834.2 542.66,-811.4 338.66,-811.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-819.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-811.4 542.66,-834.2 582.09,-834.2 582.09,-811.4 542.66,-811.4"/>
+<polygon fill="none" stroke="black" points="542.66,-811.4 542.66,-834.2 582.09,-834.2 582.09,-811.4 542.66,-811.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-819.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-788.6 338.66,-811.4 542.66,-811.4 542.66,-788.6 338.66,-788.6"/>
+<polygon fill="none" stroke="black" points="338.66,-788.6 338.66,-811.4 542.66,-811.4 542.66,-788.6 338.66,-788.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-796.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇷 Brazil</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-788.6 542.66,-811.4 582.09,-811.4 582.09,-788.6 542.66,-788.6"/>
+<polygon fill="none" stroke="black" points="542.66,-788.6 542.66,-811.4 582.09,-811.4 582.09,-788.6 542.66,-788.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-796.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-765.8 338.66,-788.6 542.66,-788.6 542.66,-765.8 338.66,-765.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-773" font-family="Times,serif" font-size="14.00">🇯🇵 Japan</text>
+<polygon fill="none" stroke="black" points="542.66,-765.8 542.66,-788.6 582.09,-788.6 582.09,-765.8 542.66,-765.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-773" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- GroupG&#45;&gt;R32M9 -->
+<!-- GroupH -->
+<g id="node8" class="node">
+<title>GroupH</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-580 24,-694 286.66,-694 286.66,-580 24,-580"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-671.2 24,-694 228,-694 228,-671.2 24,-671.2"/>
+<polygon fill="none" stroke="black" points="24,-671.2 24,-694 228,-694 228,-671.2 24,-671.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-679.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-671.2 228,-694 262,-694 262,-671.2 228,-671.2"/>
+<polygon fill="none" stroke="black" points="228,-671.2 228,-694 262,-694 262,-671.2 228,-671.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-679.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-671.2 262,-694 286.66,-694 286.66,-671.2 262,-671.2"/>
+<polygon fill="none" stroke="black" points="262,-671.2 262,-694 286.66,-694 286.66,-671.2 262,-671.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-679.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-648.4 24,-671.2 228,-671.2 228,-648.4 24,-648.4"/>
+<polygon fill="none" stroke="black" points="24,-648.4 24,-671.2 228,-671.2 228,-648.4 24,-648.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-656.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-648.4 228,-671.2 262,-671.2 262,-648.4 228,-648.4"/>
+<polygon fill="none" stroke="black" points="228,-648.4 228,-671.2 262,-671.2 262,-648.4 228,-648.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-656.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-648.4 262,-671.2 286.66,-671.2 286.66,-648.4 262,-648.4"/>
+<polygon fill="none" stroke="black" points="262,-648.4 262,-671.2 286.66,-671.2 286.66,-648.4 262,-648.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-656.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-625.6 24,-648.4 228,-648.4 228,-625.6 24,-625.6"/>
+<polygon fill="none" stroke="black" points="24,-625.6 24,-648.4 228,-648.4 228,-625.6 24,-625.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-633.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇻 Cape Verde</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-625.6 228,-648.4 262,-648.4 262,-625.6 228,-625.6"/>
+<polygon fill="none" stroke="black" points="228,-625.6 228,-648.4 262,-648.4 262,-625.6 228,-625.6"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-633.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-625.6 262,-648.4 286.66,-648.4 286.66,-625.6 262,-625.6"/>
+<polygon fill="none" stroke="black" points="262,-625.6 262,-648.4 286.66,-648.4 286.66,-625.6 262,-625.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-633.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="24,-602.8 24,-625.6 228,-625.6 228,-602.8 24,-602.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-610" font-family="Times,serif" font-size="14.00">🇺🇾 Uruguay</text>
+<polygon fill="none" stroke="black" points="228,-602.8 228,-625.6 262,-625.6 262,-602.8 228,-602.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-610" font-family="Times,serif" font-size="14.00">-1</text>
+<polygon fill="none" stroke="black" points="262,-602.8 262,-625.6 286.66,-625.6 286.66,-602.8 262,-602.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-610" font-family="Times,serif" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="24,-580 24,-602.8 228,-602.8 228,-580 24,-580"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-587.2" font-family="Times,serif" font-size="14.00">🇸🇦 Saudi Arabia</text>
+<polygon fill="none" stroke="black" points="228,-580 228,-602.8 262,-602.8 262,-580 228,-580"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-587.2" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="262,-580 262,-602.8 286.66,-602.8 286.66,-580 262,-580"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-587.2" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- GroupH&#45;&gt;GroupG -->
+<!-- GroupI -->
+<g id="node9" class="node">
+<title>GroupI</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-440 24,-554 286.66,-554 286.66,-440 24,-440"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-531.2 24,-554 228,-554 228,-531.2 24,-531.2"/>
+<polygon fill="none" stroke="black" points="24,-531.2 24,-554 228,-554 228,-531.2 24,-531.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-539.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-531.2 228,-554 262,-554 262,-531.2 228,-531.2"/>
+<polygon fill="none" stroke="black" points="228,-531.2 228,-554 262,-554 262,-531.2 228,-531.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-539.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-531.2 262,-554 286.66,-554 286.66,-531.2 262,-531.2"/>
+<polygon fill="none" stroke="black" points="262,-531.2 262,-554 286.66,-554 286.66,-531.2 262,-531.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-539.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-508.4 24,-531.2 228,-531.2 228,-508.4 24,-508.4"/>
+<polygon fill="none" stroke="black" points="24,-508.4 24,-531.2 228,-531.2 228,-508.4 24,-508.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-516.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇫🇷 France</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-508.4 228,-531.2 262,-531.2 262,-508.4 228,-508.4"/>
+<polygon fill="none" stroke="black" points="228,-508.4 228,-531.2 262,-531.2 262,-508.4 228,-508.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-516.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+8</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-508.4 262,-531.2 286.66,-531.2 286.66,-508.4 262,-508.4"/>
+<polygon fill="none" stroke="black" points="262,-508.4 262,-531.2 286.66,-531.2 286.66,-508.4 262,-508.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-516.6" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-485.6 24,-508.4 228,-508.4 228,-485.6 24,-485.6"/>
+<polygon fill="none" stroke="black" points="24,-485.6 24,-508.4 228,-508.4 228,-485.6 24,-485.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-493.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇴 Norway</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-485.6 228,-508.4 262,-508.4 262,-485.6 228,-485.6"/>
+<polygon fill="none" stroke="black" points="228,-485.6 228,-508.4 262,-508.4 262,-485.6 228,-485.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-493.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+1</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-485.6 262,-508.4 286.66,-508.4 286.66,-485.6 262,-485.6"/>
+<polygon fill="none" stroke="black" points="262,-485.6 262,-508.4 286.66,-508.4 286.66,-485.6 262,-485.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-493.8" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-462.8 24,-485.6 228,-485.6 228,-462.8 24,-462.8"/>
+<polygon fill="none" stroke="black" points="24,-462.8 24,-485.6 228,-485.6 228,-462.8 24,-462.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-471" font-family="Times,serif" font-weight="bold" font-size="14.00">🇸🇳 Senegal</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-462.8 228,-485.6 262,-485.6 262,-462.8 228,-462.8"/>
+<polygon fill="none" stroke="black" points="228,-462.8 228,-485.6 262,-485.6 262,-462.8 228,-462.8"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-471" font-family="Times,serif" font-weight="bold" font-size="14.00">+2</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-462.8 262,-485.6 286.66,-485.6 286.66,-462.8 262,-462.8"/>
+<polygon fill="none" stroke="black" points="262,-462.8 262,-485.6 286.66,-485.6 286.66,-462.8 262,-462.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-471" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="24,-440 24,-462.8 228,-462.8 228,-440 24,-440"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-447.2" font-family="Times,serif" font-size="14.00">🇮🇶 Iraq</text>
+<polygon fill="none" stroke="black" points="228,-440 228,-462.8 262,-462.8 262,-440 228,-440"/>
+<text xml:space="preserve" text-anchor="start" x="235.67" y="-447.2" font-family="Times,serif" font-size="14.00">-11</text>
+<polygon fill="none" stroke="black" points="262,-440 262,-462.8 286.66,-462.8 286.66,-440 262,-440"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-447.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupI&#45;&gt;GroupH -->
+<!-- GroupJ -->
+<g id="node10" class="node">
+<title>GroupJ</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-300 24,-414 286.66,-414 286.66,-300 24,-300"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-391.2 24,-414 228,-414 228,-391.2 24,-391.2"/>
+<polygon fill="none" stroke="black" points="24,-391.2 24,-414 228,-414 228,-391.2 24,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-399.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-391.2 228,-414 262,-414 262,-391.2 228,-391.2"/>
+<polygon fill="none" stroke="black" points="228,-391.2 228,-414 262,-414 262,-391.2 228,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-399.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-391.2 262,-414 286.66,-414 286.66,-391.2 262,-391.2"/>
+<polygon fill="none" stroke="black" points="262,-391.2 262,-414 286.66,-414 286.66,-391.2 262,-391.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-399.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-368.4 24,-391.2 228,-391.2 228,-368.4 24,-368.4"/>
+<polygon fill="none" stroke="black" points="24,-368.4 24,-391.2 228,-391.2 228,-368.4 24,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-376.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-368.4 228,-391.2 262,-391.2 262,-368.4 228,-368.4"/>
+<polygon fill="none" stroke="black" points="228,-368.4 228,-391.2 262,-391.2 262,-368.4 228,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-376.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+7</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-368.4 262,-391.2 286.66,-391.2 286.66,-368.4 262,-368.4"/>
+<polygon fill="none" stroke="black" points="262,-368.4 262,-391.2 286.66,-391.2 286.66,-368.4 262,-368.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-376.6" font-family="Times,serif" font-weight="bold" font-size="14.00">9</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-345.6 24,-368.4 228,-368.4 228,-345.6 24,-345.6"/>
+<polygon fill="none" stroke="black" points="24,-345.6 24,-368.4 228,-368.4 228,-345.6 24,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-353.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇹 Austria</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-345.6 228,-368.4 262,-368.4 262,-345.6 228,-345.6"/>
+<polygon fill="none" stroke="black" points="228,-345.6 228,-368.4 262,-368.4 262,-345.6 228,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-353.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-345.6 262,-368.4 286.66,-368.4 286.66,-345.6 262,-345.6"/>
+<polygon fill="none" stroke="black" points="262,-345.6 262,-368.4 286.66,-368.4 286.66,-345.6 262,-345.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-353.8" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-322.8 24,-345.6 228,-345.6 228,-322.8 24,-322.8"/>
+<polygon fill="none" stroke="black" points="24,-322.8 24,-345.6 228,-345.6 228,-322.8 24,-322.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-331" font-family="Times,serif" font-weight="bold" font-size="14.00">🇩🇿 Algeria</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-322.8 228,-345.6 262,-345.6 262,-322.8 228,-322.8"/>
+<polygon fill="none" stroke="black" points="228,-322.8 228,-345.6 262,-345.6 262,-322.8 228,-322.8"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-331" font-family="Times,serif" font-weight="bold" font-size="14.00">-2</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-322.8 262,-345.6 286.66,-345.6 286.66,-322.8 262,-322.8"/>
+<polygon fill="none" stroke="black" points="262,-322.8 262,-345.6 286.66,-345.6 286.66,-322.8 262,-322.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-331" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-300 24,-322.8 228,-322.8 228,-300 24,-300"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-307.2" font-family="Times,serif" font-size="14.00">🇯🇴 Jordan</text>
+<polygon fill="none" stroke="black" points="228,-300 228,-322.8 262,-322.8 262,-300 228,-300"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-307.2" font-family="Times,serif" font-size="14.00">-5</text>
+<polygon fill="none" stroke="black" points="262,-300 262,-322.8 286.66,-322.8 286.66,-300 262,-300"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-307.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupJ&#45;&gt;GroupI -->
+<!-- GroupK -->
+<g id="node11" class="node">
+<title>GroupK</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-160 24,-274 286.66,-274 286.66,-160 24,-160"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-251.2 24,-274 228,-274 228,-251.2 24,-251.2"/>
+<polygon fill="none" stroke="black" points="24,-251.2 24,-274 228,-274 228,-251.2 24,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-251.2 228,-274 262,-274 262,-251.2 228,-251.2"/>
+<polygon fill="none" stroke="black" points="228,-251.2 228,-274 262,-274 262,-251.2 228,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-251.2 262,-274 286.66,-274 286.66,-251.2 262,-251.2"/>
+<polygon fill="none" stroke="black" points="262,-251.2 262,-274 286.66,-274 286.66,-251.2 262,-251.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-259.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-228.4 24,-251.2 228,-251.2 228,-228.4 24,-228.4"/>
+<polygon fill="none" stroke="black" points="24,-228.4 24,-251.2 228,-251.2 228,-228.4 24,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇴 Colombia</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-228.4 228,-251.2 262,-251.2 262,-228.4 228,-228.4"/>
+<polygon fill="none" stroke="black" points="228,-228.4 228,-251.2 262,-251.2 262,-228.4 228,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+3</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-228.4 262,-251.2 286.66,-251.2 286.66,-228.4 262,-228.4"/>
+<polygon fill="none" stroke="black" points="262,-228.4 262,-251.2 286.66,-251.2 286.66,-228.4 262,-228.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-236.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-205.6 24,-228.4 228,-228.4 228,-205.6 24,-205.6"/>
+<polygon fill="none" stroke="black" points="24,-205.6 24,-228.4 228,-228.4 228,-205.6 24,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇹 Portugal</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-205.6 228,-228.4 262,-228.4 262,-205.6 228,-205.6"/>
+<polygon fill="none" stroke="black" points="228,-205.6 228,-228.4 262,-228.4 262,-205.6 228,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">+5</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-205.6 262,-228.4 286.66,-228.4 286.66,-205.6 262,-205.6"/>
+<polygon fill="none" stroke="black" points="262,-205.6 262,-228.4 286.66,-228.4 286.66,-205.6 262,-205.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-213.8" font-family="Times,serif" font-weight="bold" font-size="14.00">5</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-182.8 24,-205.6 228,-205.6 228,-182.8 24,-182.8"/>
+<polygon fill="none" stroke="black" points="24,-182.8 24,-205.6 228,-205.6 228,-182.8 24,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-182.8 228,-205.6 262,-205.6 262,-182.8 228,-182.8"/>
+<polygon fill="none" stroke="black" points="228,-182.8 228,-205.6 262,-205.6 262,-182.8 228,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">+1</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-182.8 262,-205.6 286.66,-205.6 286.66,-182.8 262,-182.8"/>
+<polygon fill="none" stroke="black" points="262,-182.8 262,-205.6 286.66,-205.6 286.66,-182.8 262,-182.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-191" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-160 24,-182.8 228,-182.8 228,-160 24,-160"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-167.2" font-family="Times,serif" font-size="14.00">🇺🇿 Uzbekistan</text>
+<polygon fill="none" stroke="black" points="228,-160 228,-182.8 262,-182.8 262,-160 228,-160"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-167.2" font-family="Times,serif" font-size="14.00">-9</text>
+<polygon fill="none" stroke="black" points="262,-160 262,-182.8 286.66,-182.8 286.66,-160 262,-160"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-167.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupK&#45;&gt;GroupJ -->
+<!-- GroupL -->
+<g id="node12" class="node">
+<title>GroupL</title>
+<polygon fill="#f8f9fa" stroke="none" points="24,-20 24,-134 286.66,-134 286.66,-20 24,-20"/>
+<polygon fill="#eaecf0" stroke="none" points="24,-111.2 24,-134 228,-134 228,-111.2 24,-111.2"/>
+<polygon fill="none" stroke="black" points="24,-111.2 24,-134 228,-134 228,-111.2 24,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="228,-111.2 228,-134 262,-134 262,-111.2 228,-111.2"/>
+<polygon fill="none" stroke="black" points="228,-111.2 228,-134 262,-134 262,-111.2 228,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="231" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">GD</text>
+<polygon fill="#eaecf0" stroke="none" points="262,-111.2 262,-134 286.66,-134 286.66,-111.2 262,-111.2"/>
+<polygon fill="none" stroke="black" points="262,-111.2 262,-134 286.66,-134 286.66,-111.2 262,-111.2"/>
+<text xml:space="preserve" text-anchor="start" x="265" y="-119.4" font-family="Times,serif" font-weight="bold" font-size="14.00">Pts</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-88.4 24,-111.2 228,-111.2 228,-88.4 24,-88.4"/>
+<polygon fill="none" stroke="black" points="24,-88.4 24,-111.2 228,-111.2 228,-88.4 24,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-88.4 228,-111.2 262,-111.2 262,-88.4 228,-88.4"/>
+<polygon fill="none" stroke="black" points="228,-88.4 228,-111.2 262,-111.2 262,-88.4 228,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="237.51" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">+4</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-88.4 262,-111.2 286.66,-111.2 286.66,-88.4 262,-88.4"/>
+<polygon fill="none" stroke="black" points="262,-88.4 262,-111.2 286.66,-111.2 286.66,-88.4 262,-88.4"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-96.6" font-family="Times,serif" font-weight="bold" font-size="14.00">7</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-65.6 24,-88.4 228,-88.4 228,-65.6 24,-65.6"/>
+<polygon fill="none" stroke="black" points="24,-65.6 24,-88.4 228,-88.4 228,-65.6 24,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇭🇷 Croatia</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-65.6 228,-88.4 262,-88.4 262,-65.6 228,-65.6"/>
+<polygon fill="none" stroke="black" points="228,-65.6 228,-88.4 262,-88.4 262,-65.6 228,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-65.6 262,-88.4 286.66,-88.4 286.66,-65.6 262,-65.6"/>
+<polygon fill="none" stroke="black" points="262,-65.6 262,-88.4 286.66,-88.4 286.66,-65.6 262,-65.6"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-73.8" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+<polygon fill="#bbf3ff" stroke="none" points="24,-42.8 24,-65.6 228,-65.6 228,-42.8 24,-42.8"/>
+<polygon fill="none" stroke="black" points="24,-42.8 24,-65.6 228,-65.6 228,-42.8 24,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-51" font-family="Times,serif" font-weight="bold" font-size="14.00">🇬🇭 Ghana</text>
+<polygon fill="#bbf3ff" stroke="none" points="228,-42.8 228,-65.6 262,-65.6 262,-42.8 228,-42.8"/>
+<polygon fill="none" stroke="black" points="228,-42.8 228,-65.6 262,-65.6 262,-42.8 228,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="241.5" y="-51" font-family="Times,serif" font-weight="bold" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="262,-42.8 262,-65.6 286.66,-65.6 286.66,-42.8 262,-42.8"/>
+<polygon fill="none" stroke="black" points="262,-42.8 262,-65.6 286.66,-65.6 286.66,-42.8 262,-42.8"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-51" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+<polygon fill="none" stroke="black" points="24,-20 24,-42.8 228,-42.8 228,-20 24,-20"/>
+<text xml:space="preserve" text-anchor="start" x="27" y="-27.2" font-family="Times,serif" font-size="14.00">🇵🇦 Panama</text>
+<polygon fill="none" stroke="black" points="228,-20 228,-42.8 262,-42.8 262,-20 228,-20"/>
+<text xml:space="preserve" text-anchor="start" x="239.17" y="-27.2" font-family="Times,serif" font-size="14.00">-4</text>
+<polygon fill="none" stroke="black" points="262,-20 262,-42.8 286.66,-42.8 286.66,-20 262,-20"/>
+<text xml:space="preserve" text-anchor="start" x="270.83" y="-27.2" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- GroupL&#45;&gt;GroupK -->
+<!-- R32M1 -->
+<g id="node13" class="node">
+<title>R32M1</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1517.8 338.66,-1586.2 582.09,-1586.2 582.09,-1517.8 338.66,-1517.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1563.4 338.66,-1586.2 542.66,-1586.2 542.66,-1563.4 338.66,-1563.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1563.4 338.66,-1586.2 542.66,-1586.2 542.66,-1563.4 338.66,-1563.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1571.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1563.4 542.66,-1586.2 582.09,-1586.2 582.09,-1563.4 542.66,-1563.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1563.4 542.66,-1586.2 582.09,-1586.2 582.09,-1563.4 542.66,-1563.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1571.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="338.66,-1540.6 338.66,-1563.4 542.66,-1563.4 542.66,-1540.6 338.66,-1540.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1547.8" font-family="Times,serif" font-size="14.00">🇩🇪 Germany</text>
+<polygon fill="none" stroke="black" points="542.66,-1540.6 542.66,-1563.4 582.09,-1563.4 582.09,-1540.6 542.66,-1540.6"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-1547.8" font-family="Times,serif" font-size="14.00">1 (3)</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1517.8 338.66,-1540.6 542.66,-1540.6 542.66,-1517.8 338.66,-1517.8"/>
+<polygon fill="none" stroke="black" points="338.66,-1517.8 338.66,-1540.6 542.66,-1540.6 542.66,-1517.8 338.66,-1517.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1526" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇾 Paraguay</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1517.8 542.66,-1540.6 582.09,-1540.6 582.09,-1517.8 542.66,-1517.8"/>
+<polygon fill="none" stroke="black" points="542.66,-1517.8 542.66,-1540.6 582.09,-1540.6 582.09,-1517.8 542.66,-1517.8"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-1526" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (4)</text>
+</g>
+<!-- R16M1 -->
+<g id="node29" class="node">
+<title>R16M1</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-1387.8 634.09,-1456.2 877.52,-1456.2 877.52,-1387.8 634.09,-1387.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-1433.4 634.09,-1456.2 838.09,-1456.2 838.09,-1433.4 634.09,-1433.4"/>
+<polygon fill="none" stroke="black" points="634.09,-1433.4 634.09,-1456.2 838.09,-1456.2 838.09,-1433.4 634.09,-1433.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1441.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-1433.4 838.09,-1456.2 877.52,-1456.2 877.52,-1433.4 838.09,-1433.4"/>
+<polygon fill="none" stroke="black" points="838.09,-1433.4 838.09,-1456.2 877.52,-1456.2 877.52,-1433.4 838.09,-1433.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-1441.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-1410.6 634.09,-1433.4 838.09,-1433.4 838.09,-1410.6 634.09,-1410.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1417.8" font-family="Times,serif" font-size="14.00">🇵🇾 Paraguay</text>
+<polygon fill="none" stroke="black" points="838.09,-1410.6 838.09,-1433.4 877.52,-1433.4 877.52,-1410.6 838.09,-1410.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1417.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-1387.8 634.09,-1410.6 838.09,-1410.6 838.09,-1387.8 634.09,-1387.8"/>
+<polygon fill="none" stroke="black" points="634.09,-1387.8 634.09,-1410.6 838.09,-1410.6 838.09,-1387.8 634.09,-1387.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1396" font-family="Times,serif" font-weight="bold" font-size="14.00">🇫🇷 France</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-1387.8 838.09,-1410.6 877.52,-1410.6 877.52,-1387.8 838.09,-1387.8"/>
+<polygon fill="none" stroke="black" points="838.09,-1387.8 838.09,-1410.6 877.52,-1410.6 877.52,-1387.8 838.09,-1387.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1396" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+</g>
+<!-- R32M1&#45;&gt;R16M1 -->
+<g id="edge43" class="edge">
+<title>R32M1:e2-&gt;R16M1:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1529.2C630.53,-1529.2 590.26,-1441.92 620.57,-1424.87"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.17,-1428.32 630.14,-1422.68 619.61,-1421.5 621.17,-1428.32"/>
+</g>
+<!-- F -->
+<g id="node44" class="node">
+<title>F</title>
+<polygon fill="#f8f9fa" stroke="none" points="1520.37,-848.8 1520.37,-917.2 1763.8,-917.2 1763.8,-848.8 1520.37,-848.8"/>
+<polygon fill="#eaecf0" stroke="none" points="1520.37,-894.4 1520.37,-917.2 1724.37,-917.2 1724.37,-894.4 1520.37,-894.4"/>
+<polygon fill="none" stroke="black" points="1520.37,-894.4 1520.37,-917.2 1724.37,-917.2 1724.37,-894.4 1520.37,-894.4"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-902.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1724.37,-894.4 1724.37,-917.2 1763.8,-917.2 1763.8,-894.4 1724.37,-894.4"/>
+<polygon fill="none" stroke="black" points="1724.37,-894.4 1724.37,-917.2 1763.8,-917.2 1763.8,-894.4 1724.37,-894.4"/>
+<text xml:space="preserve" text-anchor="start" x="1727.37" y="-902.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="gold" stroke="none" points="1520.37,-871.6 1520.37,-894.4 1724.37,-894.4 1724.37,-871.6 1520.37,-871.6"/>
+<polygon fill="none" stroke="black" points="1520.37,-871.6 1520.37,-894.4 1724.37,-894.4 1724.37,-871.6 1520.37,-871.6"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-879.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="gold" stroke="none" points="1724.37,-871.6 1724.37,-894.4 1763.8,-894.4 1763.8,-871.6 1724.37,-871.6"/>
+<polygon fill="none" stroke="black" points="1724.37,-871.6 1724.37,-894.4 1763.8,-894.4 1763.8,-871.6 1724.37,-871.6"/>
+<text xml:space="preserve" text-anchor="start" x="1740.59" y="-879.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="#c0c0c0" stroke="none" points="1520.37,-848.8 1520.37,-871.6 1724.37,-871.6 1724.37,-848.8 1520.37,-848.8"/>
+<polygon fill="none" stroke="black" points="1520.37,-848.8 1520.37,-871.6 1724.37,-871.6 1724.37,-848.8 1520.37,-848.8"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-856" font-family="Times,serif" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#c0c0c0" stroke="none" points="1724.37,-848.8 1724.37,-871.6 1763.8,-871.6 1763.8,-848.8 1724.37,-848.8"/>
+<polygon fill="none" stroke="black" points="1724.37,-848.8 1724.37,-871.6 1763.8,-871.6 1763.8,-848.8 1724.37,-848.8"/>
+<text xml:space="preserve" text-anchor="start" x="1740.59" y="-856" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M1&#45;&gt;F -->
+<!-- R32M2 -->
+<g id="node14" class="node">
+<title>R32M2</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1423.8 338.66,-1492.2 582.09,-1492.2 582.09,-1423.8 338.66,-1423.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1469.4 338.66,-1492.2 542.66,-1492.2 542.66,-1469.4 338.66,-1469.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1469.4 338.66,-1492.2 542.66,-1492.2 542.66,-1469.4 338.66,-1469.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1477.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1469.4 542.66,-1492.2 582.09,-1492.2 582.09,-1469.4 542.66,-1469.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1469.4 542.66,-1492.2 582.09,-1492.2 582.09,-1469.4 542.66,-1469.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1477.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1446.6 338.66,-1469.4 542.66,-1469.4 542.66,-1446.6 338.66,-1446.6"/>
+<polygon fill="none" stroke="black" points="338.66,-1446.6 338.66,-1469.4 542.66,-1469.4 542.66,-1446.6 338.66,-1446.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1454.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇫🇷 France</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1446.6 542.66,-1469.4 582.09,-1469.4 582.09,-1446.6 542.66,-1446.6"/>
+<polygon fill="none" stroke="black" points="542.66,-1446.6 542.66,-1469.4 582.09,-1469.4 582.09,-1446.6 542.66,-1446.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1454.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="338.66,-1423.8 338.66,-1446.6 542.66,-1446.6 542.66,-1423.8 338.66,-1423.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1431" font-family="Times,serif" font-size="14.00">🇸🇪 Sweden</text>
+<polygon fill="none" stroke="black" points="542.66,-1423.8 542.66,-1446.6 582.09,-1446.6 582.09,-1423.8 542.66,-1423.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1431" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M2&#45;&gt;R32M1 -->
+<!-- R32M2&#45;&gt;R16M1 -->
+<g id="edge44" class="edge">
+<title>R32M2:e1-&gt;R16M1:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1458C612.3,-1458 603.14,-1415.36 620.97,-1402.7"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.55,-1406.18 630.18,-1400.04 619.6,-1399.45 621.55,-1406.18"/>
+</g>
+<!-- R32M3 -->
+<g id="node15" class="node">
+<title>R32M3</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1329.8 338.66,-1398.2 582.09,-1398.2 582.09,-1329.8 338.66,-1329.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1375.4 338.66,-1398.2 542.66,-1398.2 542.66,-1375.4 338.66,-1375.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1375.4 338.66,-1398.2 542.66,-1398.2 542.66,-1375.4 338.66,-1375.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1383.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1375.4 542.66,-1398.2 582.09,-1398.2 582.09,-1375.4 542.66,-1375.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1375.4 542.66,-1398.2 582.09,-1398.2 582.09,-1375.4 542.66,-1375.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1383.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="338.66,-1352.6 338.66,-1375.4 542.66,-1375.4 542.66,-1352.6 338.66,-1352.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1359.8" font-family="Times,serif" font-size="14.00">🇿🇦 South Africa</text>
+<polygon fill="none" stroke="black" points="542.66,-1352.6 542.66,-1375.4 582.09,-1375.4 582.09,-1352.6 542.66,-1352.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1359.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1329.8 338.66,-1352.6 542.66,-1352.6 542.66,-1329.8 338.66,-1329.8"/>
+<polygon fill="none" stroke="black" points="338.66,-1329.8 338.66,-1352.6 542.66,-1352.6 542.66,-1329.8 338.66,-1329.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1338" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇦 Canada</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1329.8 542.66,-1352.6 582.09,-1352.6 582.09,-1329.8 542.66,-1329.8"/>
+<polygon fill="none" stroke="black" points="542.66,-1329.8 542.66,-1352.6 582.09,-1352.6 582.09,-1329.8 542.66,-1329.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1338" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+</g>
+<!-- R32M3&#45;&gt;R32M2 -->
+<!-- R16M2 -->
+<g id="node30" class="node">
+<title>R16M2</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-1235.8 634.09,-1304.2 877.52,-1304.2 877.52,-1235.8 634.09,-1235.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-1281.4 634.09,-1304.2 838.09,-1304.2 838.09,-1281.4 634.09,-1281.4"/>
+<polygon fill="none" stroke="black" points="634.09,-1281.4 634.09,-1304.2 838.09,-1304.2 838.09,-1281.4 634.09,-1281.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1289.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-1281.4 838.09,-1304.2 877.52,-1304.2 877.52,-1281.4 838.09,-1281.4"/>
+<polygon fill="none" stroke="black" points="838.09,-1281.4 838.09,-1304.2 877.52,-1304.2 877.52,-1281.4 838.09,-1281.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-1289.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-1258.6 634.09,-1281.4 838.09,-1281.4 838.09,-1258.6 634.09,-1258.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1265.8" font-family="Times,serif" font-size="14.00">🇨🇦 Canada</text>
+<polygon fill="none" stroke="black" points="838.09,-1258.6 838.09,-1281.4 877.52,-1281.4 877.52,-1258.6 838.09,-1258.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1265.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-1235.8 634.09,-1258.6 838.09,-1258.6 838.09,-1235.8 634.09,-1235.8"/>
+<polygon fill="none" stroke="black" points="634.09,-1235.8 634.09,-1258.6 838.09,-1258.6 838.09,-1235.8 634.09,-1235.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1244" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇦 Morocco</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-1235.8 838.09,-1258.6 877.52,-1258.6 877.52,-1235.8 838.09,-1235.8"/>
+<polygon fill="none" stroke="black" points="838.09,-1235.8 838.09,-1258.6 877.52,-1258.6 877.52,-1235.8 838.09,-1235.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1244" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+</g>
+<!-- R32M3&#45;&gt;R16M2 -->
+<g id="edge45" class="edge">
+<title>R32M3:e2-&gt;R16M2:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1341.2C616.47,-1341.2 600.66,-1288.14 620.59,-1273.63"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.56,-1276.99 630.18,-1270.84 619.6,-1270.27 621.56,-1276.99"/>
+</g>
+<!-- R32M4 -->
+<g id="node16" class="node">
+<title>R32M4</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1235.8 338.66,-1304.2 582.09,-1304.2 582.09,-1235.8 338.66,-1235.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1281.4 338.66,-1304.2 542.66,-1304.2 542.66,-1281.4 338.66,-1281.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1281.4 338.66,-1304.2 542.66,-1304.2 542.66,-1281.4 338.66,-1281.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1289.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1281.4 542.66,-1304.2 582.09,-1304.2 582.09,-1281.4 542.66,-1281.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1281.4 542.66,-1304.2 582.09,-1304.2 582.09,-1281.4 542.66,-1281.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1289.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="338.66,-1258.6 338.66,-1281.4 542.66,-1281.4 542.66,-1258.6 338.66,-1258.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1265.8" font-family="Times,serif" font-size="14.00">🇳🇱 Netherlands</text>
+<polygon fill="none" stroke="black" points="542.66,-1258.6 542.66,-1281.4 582.09,-1281.4 582.09,-1258.6 542.66,-1258.6"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-1265.8" font-family="Times,serif" font-size="14.00">1 (2)</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1235.8 338.66,-1258.6 542.66,-1258.6 542.66,-1235.8 338.66,-1235.8"/>
+<polygon fill="none" stroke="black" points="338.66,-1235.8 338.66,-1258.6 542.66,-1258.6 542.66,-1235.8 338.66,-1235.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1244" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇦 Morocco</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1235.8 542.66,-1258.6 582.09,-1258.6 582.09,-1235.8 542.66,-1235.8"/>
+<polygon fill="none" stroke="black" points="542.66,-1235.8 542.66,-1258.6 582.09,-1258.6 582.09,-1235.8 542.66,-1235.8"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-1244" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (3)</text>
+</g>
+<!-- R32M4&#45;&gt;R32M3 -->
+<!-- R32M4&#45;&gt;R16M2 -->
+<g id="edge46" class="edge">
+<title>R32M4:e2-&gt;R16M2:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1247.2C600.28,-1247.2 607.49,-1247.2 620.16,-1247.2"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="620.06,-1250.7 630.06,-1247.2 620.06,-1243.7 620.06,-1250.7"/>
+</g>
+<!-- R32M5 -->
+<g id="node17" class="node">
+<title>R32M5</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1141.8 338.66,-1210.2 582.09,-1210.2 582.09,-1141.8 338.66,-1141.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1187.4 338.66,-1210.2 542.66,-1210.2 542.66,-1187.4 338.66,-1187.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1187.4 338.66,-1210.2 542.66,-1210.2 542.66,-1187.4 338.66,-1187.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1195.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1187.4 542.66,-1210.2 582.09,-1210.2 582.09,-1187.4 542.66,-1187.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1187.4 542.66,-1210.2 582.09,-1210.2 582.09,-1187.4 542.66,-1187.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1195.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1164.6 338.66,-1187.4 542.66,-1187.4 542.66,-1164.6 338.66,-1164.6"/>
+<polygon fill="none" stroke="black" points="338.66,-1164.6 338.66,-1187.4 542.66,-1187.4 542.66,-1164.6 338.66,-1164.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1172.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇵🇹 Portugal</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1164.6 542.66,-1187.4 582.09,-1187.4 582.09,-1164.6 542.66,-1164.6"/>
+<polygon fill="none" stroke="black" points="542.66,-1164.6 542.66,-1187.4 582.09,-1187.4 582.09,-1164.6 542.66,-1164.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1172.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-1141.8 338.66,-1164.6 542.66,-1164.6 542.66,-1141.8 338.66,-1141.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1149" font-family="Times,serif" font-size="14.00">🇭🇷 Croatia</text>
+<polygon fill="none" stroke="black" points="542.66,-1141.8 542.66,-1164.6 582.09,-1164.6 582.09,-1141.8 542.66,-1141.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1149" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- R32M5&#45;&gt;R32M4 -->
+<!-- R16M3 -->
+<g id="node31" class="node">
+<title>R16M3</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-1069.8 634.09,-1138.2 877.52,-1138.2 877.52,-1069.8 634.09,-1069.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-1115.4 634.09,-1138.2 838.09,-1138.2 838.09,-1115.4 634.09,-1115.4"/>
+<polygon fill="none" stroke="black" points="634.09,-1115.4 634.09,-1138.2 838.09,-1138.2 838.09,-1115.4 634.09,-1115.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1123.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-1115.4 838.09,-1138.2 877.52,-1138.2 877.52,-1115.4 838.09,-1115.4"/>
+<polygon fill="none" stroke="black" points="838.09,-1115.4 838.09,-1138.2 877.52,-1138.2 877.52,-1115.4 838.09,-1115.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-1123.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-1092.6 634.09,-1115.4 838.09,-1115.4 838.09,-1092.6 634.09,-1092.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1099.8" font-family="Times,serif" font-size="14.00">🇵🇹 Portugal</text>
+<polygon fill="none" stroke="black" points="838.09,-1092.6 838.09,-1115.4 877.52,-1115.4 877.52,-1092.6 838.09,-1092.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1099.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-1069.8 634.09,-1092.6 838.09,-1092.6 838.09,-1069.8 634.09,-1069.8"/>
+<polygon fill="none" stroke="black" points="634.09,-1069.8 634.09,-1092.6 838.09,-1092.6 838.09,-1069.8 634.09,-1069.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-1078" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-1069.8 838.09,-1092.6 877.52,-1092.6 877.52,-1069.8 838.09,-1069.8"/>
+<polygon fill="none" stroke="black" points="838.09,-1069.8 838.09,-1092.6 877.52,-1092.6 877.52,-1069.8 838.09,-1069.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-1078" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+</g>
+<!-- R32M5&#45;&gt;R16M3 -->
+<g id="edge47" class="edge">
+<title>R32M5:e1-&gt;R16M3:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1176C616.87,-1176 600.37,-1121.85 620.79,-1107.47"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.5,-1110.91 630.18,-1104.82 619.6,-1104.17 621.5,-1110.91"/>
+</g>
+<!-- R32M6 -->
+<g id="node18" class="node">
+<title>R32M6</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-1047.8 338.66,-1116.2 582.09,-1116.2 582.09,-1047.8 338.66,-1047.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-1093.4 338.66,-1116.2 542.66,-1116.2 542.66,-1093.4 338.66,-1093.4"/>
+<polygon fill="none" stroke="black" points="338.66,-1093.4 338.66,-1116.2 542.66,-1116.2 542.66,-1093.4 338.66,-1093.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1101.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-1093.4 542.66,-1116.2 582.09,-1116.2 582.09,-1093.4 542.66,-1093.4"/>
+<polygon fill="none" stroke="black" points="542.66,-1093.4 542.66,-1116.2 582.09,-1116.2 582.09,-1093.4 542.66,-1093.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1101.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-1070.6 338.66,-1093.4 542.66,-1093.4 542.66,-1070.6 338.66,-1070.6"/>
+<polygon fill="none" stroke="black" points="338.66,-1070.6 338.66,-1093.4 542.66,-1093.4 542.66,-1070.6 338.66,-1070.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1078.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-1070.6 542.66,-1093.4 582.09,-1093.4 582.09,-1070.6 542.66,-1070.6"/>
+<polygon fill="none" stroke="black" points="542.66,-1070.6 542.66,-1093.4 582.09,-1093.4 582.09,-1070.6 542.66,-1070.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1078.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="338.66,-1047.8 338.66,-1070.6 542.66,-1070.6 542.66,-1047.8 338.66,-1047.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1055" font-family="Times,serif" font-size="14.00">🇦🇹 Austria</text>
+<polygon fill="none" stroke="black" points="542.66,-1047.8 542.66,-1070.6 582.09,-1070.6 582.09,-1047.8 542.66,-1047.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-1055" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M6&#45;&gt;R32M5 -->
+<!-- R32M6&#45;&gt;R16M3 -->
+<g id="edge48" class="edge">
+<title>R32M6:e1-&gt;R16M3:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-1082C600.28,-1082 607.49,-1081.52 620.16,-1081.3"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="620.09,-1084.81 630.06,-1081.22 620.03,-1077.81 620.09,-1084.81"/>
+</g>
+<!-- R32M7 -->
+<g id="node19" class="node">
+<title>R32M7</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-953.8 338.66,-1022.2 582.09,-1022.2 582.09,-953.8 338.66,-953.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-999.4 338.66,-1022.2 542.66,-1022.2 542.66,-999.4 338.66,-999.4"/>
+<polygon fill="none" stroke="black" points="338.66,-999.4 338.66,-1022.2 542.66,-1022.2 542.66,-999.4 338.66,-999.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-1007.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-999.4 542.66,-1022.2 582.09,-1022.2 582.09,-999.4 542.66,-999.4"/>
+<polygon fill="none" stroke="black" points="542.66,-999.4 542.66,-1022.2 582.09,-1022.2 582.09,-999.4 542.66,-999.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-1007.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-976.6 338.66,-999.4 542.66,-999.4 542.66,-976.6 338.66,-976.6"/>
+<polygon fill="none" stroke="black" points="338.66,-976.6 338.66,-999.4 542.66,-999.4 542.66,-976.6 338.66,-976.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-984.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇺🇸 United States</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-976.6 542.66,-999.4 582.09,-999.4 582.09,-976.6 542.66,-976.6"/>
+<polygon fill="none" stroke="black" points="542.66,-976.6 542.66,-999.4 582.09,-999.4 582.09,-976.6 542.66,-976.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-984.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-953.8 338.66,-976.6 542.66,-976.6 542.66,-953.8 338.66,-953.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-961" font-family="Times,serif" font-size="14.00">🇧🇦 Bosnia and Herzegovina</text>
+<polygon fill="none" stroke="black" points="542.66,-953.8 542.66,-976.6 582.09,-976.6 582.09,-953.8 542.66,-953.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-961" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M7&#45;&gt;R32M6 -->
+<!-- R16M4 -->
+<g id="node32" class="node">
+<title>R16M4</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-917.8 634.09,-986.2 877.52,-986.2 877.52,-917.8 634.09,-917.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-963.4 634.09,-986.2 838.09,-986.2 838.09,-963.4 634.09,-963.4"/>
+<polygon fill="none" stroke="black" points="634.09,-963.4 634.09,-986.2 838.09,-986.2 838.09,-963.4 634.09,-963.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-971.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-963.4 838.09,-986.2 877.52,-986.2 877.52,-963.4 838.09,-963.4"/>
+<polygon fill="none" stroke="black" points="838.09,-963.4 838.09,-986.2 877.52,-986.2 877.52,-963.4 838.09,-963.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-971.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-940.6 634.09,-963.4 838.09,-963.4 838.09,-940.6 634.09,-940.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-947.8" font-family="Times,serif" font-size="14.00">🇺🇸 United States</text>
+<polygon fill="none" stroke="black" points="838.09,-940.6 838.09,-963.4 877.52,-963.4 877.52,-940.6 838.09,-940.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-947.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-917.8 634.09,-940.6 838.09,-940.6 838.09,-917.8 634.09,-917.8"/>
+<polygon fill="none" stroke="black" points="634.09,-917.8 634.09,-940.6 838.09,-940.6 838.09,-917.8 634.09,-917.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-926" font-family="Times,serif" font-weight="bold" font-size="14.00">🇧🇪 Belgium</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-917.8 838.09,-940.6 877.52,-940.6 877.52,-917.8 838.09,-917.8"/>
+<polygon fill="none" stroke="black" points="838.09,-917.8 838.09,-940.6 877.52,-940.6 877.52,-917.8 838.09,-917.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-926" font-family="Times,serif" font-weight="bold" font-size="14.00">4</text>
+</g>
+<!-- R32M7&#45;&gt;R16M4 -->
+<g id="edge49" class="edge">
+<title>R32M7:e1-&gt;R16M4:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-988C605.34,-988 606.36,-964.23 620.65,-955.32"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.41,-958.74 630.17,-952.78 619.6,-951.98 621.41,-958.74"/>
+</g>
+<!-- R32M8&#45;&gt;R32M7 -->
+<!-- R32M8&#45;&gt;R16M4 -->
+<g id="edge50" class="edge">
+<title>R32M8:e1-&gt;R16M4:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-894C605.17,-894 606.44,-917.24 620.71,-925.95"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.6,-929.28 630.16,-928.43 621.38,-922.51 619.6,-929.28"/>
+</g>
+<!-- R32M9&#45;&gt;R32M8 -->
+<!-- R16M5 -->
+<g id="node33" class="node">
+<title>R16M5</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-718.8 634.09,-787.2 877.52,-787.2 877.52,-718.8 634.09,-718.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-764.4 634.09,-787.2 838.09,-787.2 838.09,-764.4 634.09,-764.4"/>
+<polygon fill="none" stroke="black" points="634.09,-764.4 634.09,-787.2 838.09,-787.2 838.09,-764.4 634.09,-764.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-772.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-764.4 838.09,-787.2 877.52,-787.2 877.52,-764.4 838.09,-764.4"/>
+<polygon fill="none" stroke="black" points="838.09,-764.4 838.09,-787.2 877.52,-787.2 877.52,-764.4 838.09,-764.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-772.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-741.6 634.09,-764.4 838.09,-764.4 838.09,-741.6 634.09,-741.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-748.8" font-family="Times,serif" font-size="14.00">🇧🇷 Brazil</text>
+<polygon fill="none" stroke="black" points="838.09,-741.6 838.09,-764.4 877.52,-764.4 877.52,-741.6 838.09,-741.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-748.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-718.8 634.09,-741.6 838.09,-741.6 838.09,-718.8 634.09,-718.8"/>
+<polygon fill="none" stroke="black" points="634.09,-718.8 634.09,-741.6 838.09,-741.6 838.09,-718.8 634.09,-718.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-727" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇴 Norway</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-718.8 838.09,-741.6 877.52,-741.6 877.52,-718.8 838.09,-718.8"/>
+<polygon fill="none" stroke="black" points="838.09,-718.8 838.09,-741.6 877.52,-741.6 877.52,-718.8 838.09,-718.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-727" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- R32M9&#45;&gt;R16M5 -->
+<g id="edge51" class="edge">
+<title>R32M9:e1-&gt;R16M5:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-800C608.35,-800 605.15,-767.77 620.62,-756.69"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="621.59,-760.05 630.19,-753.86 619.6,-753.34 621.59,-760.05"/>
+</g>
+<!-- R32M10 -->
+<g id="node22" class="node">
+<title>R32M10</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-671.8 338.66,-740.2 582.09,-740.2 582.09,-671.8 338.66,-671.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-717.4 338.66,-740.2 542.66,-740.2 542.66,-717.4 338.66,-717.4"/>
+<polygon fill="none" stroke="black" points="338.66,-717.4 338.66,-740.2 542.66,-740.2 542.66,-717.4 338.66,-717.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-725.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-717.4 542.66,-740.2 582.09,-740.2 582.09,-717.4 542.66,-717.4"/>
+<polygon fill="none" stroke="black" points="542.66,-717.4 542.66,-740.2 582.09,-740.2 582.09,-717.4 542.66,-717.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-725.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="338.66,-694.6 338.66,-717.4 542.66,-717.4 542.66,-694.6 338.66,-694.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-701.8" font-family="Times,serif" font-size="14.00">🇨🇮 Ivory Coast</text>
+<polygon fill="none" stroke="black" points="542.66,-694.6 542.66,-717.4 582.09,-717.4 582.09,-694.6 542.66,-694.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-701.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-671.8 338.66,-694.6 542.66,-694.6 542.66,-671.8 338.66,-671.8"/>
+<polygon fill="none" stroke="black" points="338.66,-671.8 338.66,-694.6 542.66,-694.6 542.66,-671.8 338.66,-671.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-680" font-family="Times,serif" font-weight="bold" font-size="14.00">🇳🇴 Norway</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-671.8 542.66,-694.6 582.09,-694.6 582.09,-671.8 542.66,-671.8"/>
+<polygon fill="none" stroke="black" points="542.66,-671.8 542.66,-694.6 582.09,-694.6 582.09,-671.8 542.66,-671.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-680" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- R32M10&#45;&gt;R32M9 -->
+<!-- R32M10&#45;&gt;R16M5 -->
+<g id="edge52" class="edge">
+<title>R32M10:e2-&gt;R16M5:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-683.2C608.35,-683.2 605.15,-715.43 620.62,-726.51"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.6,-729.86 630.19,-729.34 621.59,-723.15 619.6,-729.86"/>
+</g>
+<!-- R32M11 -->
+<g id="node23" class="node">
+<title>R32M11</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-577.8 338.66,-646.2 582.09,-646.2 582.09,-577.8 338.66,-577.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-623.4 338.66,-646.2 542.66,-646.2 542.66,-623.4 338.66,-623.4"/>
+<polygon fill="none" stroke="black" points="338.66,-623.4 338.66,-646.2 542.66,-646.2 542.66,-623.4 338.66,-623.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-631.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-623.4 542.66,-646.2 582.09,-646.2 582.09,-623.4 542.66,-623.4"/>
+<polygon fill="none" stroke="black" points="542.66,-623.4 542.66,-646.2 582.09,-646.2 582.09,-623.4 542.66,-623.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-631.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-600.6 338.66,-623.4 542.66,-623.4 542.66,-600.6 338.66,-600.6"/>
+<polygon fill="none" stroke="black" points="338.66,-600.6 338.66,-623.4 542.66,-623.4 542.66,-600.6 338.66,-600.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-608.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇲🇽 Mexico</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-600.6 542.66,-623.4 582.09,-623.4 582.09,-600.6 542.66,-600.6"/>
+<polygon fill="none" stroke="black" points="542.66,-600.6 542.66,-623.4 582.09,-623.4 582.09,-600.6 542.66,-600.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-608.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-577.8 338.66,-600.6 542.66,-600.6 542.66,-577.8 338.66,-577.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-585" font-family="Times,serif" font-size="14.00">🇪🇨 Ecuador</text>
+<polygon fill="none" stroke="black" points="542.66,-577.8 542.66,-600.6 582.09,-600.6 582.09,-577.8 542.66,-577.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-585" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M11&#45;&gt;R32M10 -->
+<!-- R16M6 -->
+<g id="node34" class="node">
+<title>R16M6</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-577.8 634.09,-646.2 877.52,-646.2 877.52,-577.8 634.09,-577.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-623.4 634.09,-646.2 838.09,-646.2 838.09,-623.4 634.09,-623.4"/>
+<polygon fill="none" stroke="black" points="634.09,-623.4 634.09,-646.2 838.09,-646.2 838.09,-623.4 634.09,-623.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-631.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-623.4 838.09,-646.2 877.52,-646.2 877.52,-623.4 838.09,-623.4"/>
+<polygon fill="none" stroke="black" points="838.09,-623.4 838.09,-646.2 877.52,-646.2 877.52,-623.4 838.09,-623.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-631.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="634.09,-600.6 634.09,-623.4 838.09,-623.4 838.09,-600.6 634.09,-600.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-607.8" font-family="Times,serif" font-size="14.00">🇲🇽 Mexico</text>
+<polygon fill="none" stroke="black" points="838.09,-600.6 838.09,-623.4 877.52,-623.4 877.52,-600.6 838.09,-600.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-607.8" font-family="Times,serif" font-size="14.00">2</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-577.8 634.09,-600.6 838.09,-600.6 838.09,-577.8 634.09,-577.8"/>
+<polygon fill="none" stroke="black" points="634.09,-577.8 634.09,-600.6 838.09,-600.6 838.09,-577.8 634.09,-577.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-586" font-family="Times,serif" font-weight="bold" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-577.8 838.09,-600.6 877.52,-600.6 877.52,-577.8 838.09,-577.8"/>
+<polygon fill="none" stroke="black" points="838.09,-577.8 838.09,-600.6 877.52,-600.6 877.52,-577.8 838.09,-577.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-586" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+</g>
+<!-- R32M11&#45;&gt;R16M6 -->
+<g id="edge53" class="edge">
+<title>R32M11:e1-&gt;R16M6:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-612C600.28,-612 607.49,-612 620.16,-612"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="620.06,-615.5 630.06,-612 620.06,-608.5 620.06,-615.5"/>
+</g>
+<!-- R32M12 -->
+<g id="node24" class="node">
+<title>R32M12</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-483.8 338.66,-552.2 582.09,-552.2 582.09,-483.8 338.66,-483.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-529.4 338.66,-552.2 542.66,-552.2 542.66,-529.4 338.66,-529.4"/>
+<polygon fill="none" stroke="black" points="338.66,-529.4 338.66,-552.2 542.66,-552.2 542.66,-529.4 338.66,-529.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-537.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-529.4 542.66,-552.2 582.09,-552.2 582.09,-529.4 542.66,-529.4"/>
+<polygon fill="none" stroke="black" points="542.66,-529.4 542.66,-552.2 582.09,-552.2 582.09,-529.4 542.66,-529.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-537.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-506.6 338.66,-529.4 542.66,-529.4 542.66,-506.6 338.66,-506.6"/>
+<polygon fill="none" stroke="black" points="338.66,-506.6 338.66,-529.4 542.66,-529.4 542.66,-506.6 338.66,-506.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-514.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-506.6 542.66,-529.4 582.09,-529.4 582.09,-506.6 542.66,-506.6"/>
+<polygon fill="none" stroke="black" points="542.66,-506.6 542.66,-529.4 582.09,-529.4 582.09,-506.6 542.66,-506.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-514.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-483.8 338.66,-506.6 542.66,-506.6 542.66,-483.8 338.66,-483.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-491" font-family="Times,serif" font-size="14.00">🇨🇩 DR Congo</text>
+<polygon fill="none" stroke="black" points="542.66,-483.8 542.66,-506.6 582.09,-506.6 582.09,-483.8 542.66,-483.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-491" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- R32M12&#45;&gt;R32M11 -->
+<!-- R32M12&#45;&gt;R16M6 -->
+<g id="edge54" class="edge">
+<title>R32M12:e1-&gt;R16M6:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-518C616.47,-518 600.66,-571.06 620.59,-585.57"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.6,-588.93 630.18,-588.36 621.56,-582.21 619.6,-588.93"/>
+</g>
+<!-- R32M13 -->
+<g id="node25" class="node">
+<title>R32M13</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-389.8 338.66,-458.2 582.09,-458.2 582.09,-389.8 338.66,-389.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-435.4 338.66,-458.2 542.66,-458.2 542.66,-435.4 338.66,-435.4"/>
+<polygon fill="none" stroke="black" points="338.66,-435.4 338.66,-458.2 542.66,-458.2 542.66,-435.4 338.66,-435.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-443.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-435.4 542.66,-458.2 582.09,-458.2 582.09,-435.4 542.66,-435.4"/>
+<polygon fill="none" stroke="black" points="542.66,-435.4 542.66,-458.2 582.09,-458.2 582.09,-435.4 542.66,-435.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-443.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-412.6 338.66,-435.4 542.66,-435.4 542.66,-412.6 338.66,-412.6"/>
+<polygon fill="none" stroke="black" points="338.66,-412.6 338.66,-435.4 542.66,-435.4 542.66,-412.6 338.66,-412.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-420.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-412.6 542.66,-435.4 582.09,-435.4 582.09,-412.6 542.66,-412.6"/>
+<polygon fill="none" stroke="black" points="542.66,-412.6 542.66,-435.4 582.09,-435.4 582.09,-412.6 542.66,-412.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-420.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="338.66,-389.8 338.66,-412.6 542.66,-412.6 542.66,-389.8 338.66,-389.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-397" font-family="Times,serif" font-size="14.00">🇨🇻 Cape Verde</text>
+<polygon fill="none" stroke="black" points="542.66,-389.8 542.66,-412.6 582.09,-412.6 582.09,-389.8 542.66,-389.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-397" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- R32M13&#45;&gt;R32M12 -->
+<!-- R16M7 -->
+<g id="node35" class="node">
+<title>R16M7</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-389.8 634.09,-458.2 877.52,-458.2 877.52,-389.8 634.09,-389.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-435.4 634.09,-458.2 838.09,-458.2 838.09,-435.4 634.09,-435.4"/>
+<polygon fill="none" stroke="black" points="634.09,-435.4 634.09,-458.2 838.09,-458.2 838.09,-435.4 634.09,-435.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-443.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-435.4 838.09,-458.2 877.52,-458.2 877.52,-435.4 838.09,-435.4"/>
+<polygon fill="none" stroke="black" points="838.09,-435.4 838.09,-458.2 877.52,-458.2 877.52,-435.4 838.09,-435.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-443.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-412.6 634.09,-435.4 838.09,-435.4 838.09,-412.6 634.09,-412.6"/>
+<polygon fill="none" stroke="black" points="634.09,-412.6 634.09,-435.4 838.09,-435.4 838.09,-412.6 634.09,-412.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-420.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-412.6 838.09,-435.4 877.52,-435.4 877.52,-412.6 838.09,-412.6"/>
+<polygon fill="none" stroke="black" points="838.09,-412.6 838.09,-435.4 877.52,-435.4 877.52,-412.6 838.09,-412.6"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-420.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="634.09,-389.8 634.09,-412.6 838.09,-412.6 838.09,-389.8 634.09,-389.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-397" font-family="Times,serif" font-size="14.00">🇪🇬 Egypt</text>
+<polygon fill="none" stroke="black" points="838.09,-389.8 838.09,-412.6 877.52,-412.6 877.52,-389.8 838.09,-389.8"/>
+<text xml:space="preserve" text-anchor="start" x="854.3" y="-397" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- R32M13&#45;&gt;R16M7 -->
+<g id="edge55" class="edge">
+<title>R32M13:e1-&gt;R16M7:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-424C600.28,-424 607.49,-424 620.16,-424"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="620.06,-427.5 630.06,-424 620.06,-420.5 620.06,-427.5"/>
+</g>
+<!-- R32M14 -->
+<g id="node26" class="node">
+<title>R32M14</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-295.8 338.66,-364.2 582.09,-364.2 582.09,-295.8 338.66,-295.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-341.4 338.66,-364.2 542.66,-364.2 542.66,-341.4 338.66,-341.4"/>
+<polygon fill="none" stroke="black" points="338.66,-341.4 338.66,-364.2 542.66,-364.2 542.66,-341.4 338.66,-341.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-349.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-341.4 542.66,-364.2 582.09,-364.2 582.09,-341.4 542.66,-341.4"/>
+<polygon fill="none" stroke="black" points="542.66,-341.4 542.66,-364.2 582.09,-364.2 582.09,-341.4 542.66,-341.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-349.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="338.66,-318.6 338.66,-341.4 542.66,-341.4 542.66,-318.6 338.66,-318.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-325.8" font-family="Times,serif" font-size="14.00">🇦🇺 Australia</text>
+<polygon fill="none" stroke="black" points="542.66,-318.6 542.66,-341.4 582.09,-341.4 582.09,-318.6 542.66,-318.6"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-325.8" font-family="Times,serif" font-size="14.00">1 (2)</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-295.8 338.66,-318.6 542.66,-318.6 542.66,-295.8 338.66,-295.8"/>
+<polygon fill="none" stroke="black" points="338.66,-295.8 338.66,-318.6 542.66,-318.6 542.66,-295.8 338.66,-295.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-304" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇬 Egypt</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-295.8 542.66,-318.6 582.09,-318.6 582.09,-295.8 542.66,-295.8"/>
+<polygon fill="none" stroke="black" points="542.66,-295.8 542.66,-318.6 582.09,-318.6 582.09,-295.8 542.66,-295.8"/>
+<text xml:space="preserve" text-anchor="start" x="548.96" y="-304" font-family="Times,serif" font-weight="bold" font-size="14.00">1 (4)</text>
+</g>
+<!-- R32M14&#45;&gt;R32M13 -->
+<!-- R32M14&#45;&gt;R16M7 -->
+<g id="edge56" class="edge">
+<title>R32M14:e2-&gt;R16M7:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-307.2C625.23,-307.2 594.43,-381.76 620.62,-398.07"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.6,-401.42 630.15,-400.46 621.31,-394.64 619.6,-401.42"/>
+</g>
+<!-- R32M15 -->
+<g id="node27" class="node">
+<title>R32M15</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-201.8 338.66,-270.2 582.09,-270.2 582.09,-201.8 338.66,-201.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-247.4 338.66,-270.2 542.66,-270.2 542.66,-247.4 338.66,-247.4"/>
+<polygon fill="none" stroke="black" points="338.66,-247.4 338.66,-270.2 542.66,-270.2 542.66,-247.4 338.66,-247.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-255.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-247.4 542.66,-270.2 582.09,-270.2 582.09,-247.4 542.66,-247.4"/>
+<polygon fill="none" stroke="black" points="542.66,-247.4 542.66,-270.2 582.09,-270.2 582.09,-247.4 542.66,-247.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-255.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-224.6 338.66,-247.4 542.66,-247.4 542.66,-224.6 338.66,-224.6"/>
+<polygon fill="none" stroke="black" points="338.66,-224.6 338.66,-247.4 542.66,-247.4 542.66,-224.6 338.66,-224.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-232.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇭 Switzerland</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-224.6 542.66,-247.4 582.09,-247.4 582.09,-224.6 542.66,-224.6"/>
+<polygon fill="none" stroke="black" points="542.66,-224.6 542.66,-247.4 582.09,-247.4 582.09,-224.6 542.66,-224.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-232.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="338.66,-201.8 338.66,-224.6 542.66,-224.6 542.66,-201.8 338.66,-201.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-209" font-family="Times,serif" font-size="14.00">🇩🇿 Algeria</text>
+<polygon fill="none" stroke="black" points="542.66,-201.8 542.66,-224.6 582.09,-224.6 582.09,-201.8 542.66,-201.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-209" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M15&#45;&gt;R32M14 -->
+<!-- R16M8 -->
+<g id="node36" class="node">
+<title>R16M8</title>
+<polygon fill="#f8f9fa" stroke="none" points="634.09,-262.8 634.09,-331.2 877.52,-331.2 877.52,-262.8 634.09,-262.8"/>
+<polygon fill="#eaecf0" stroke="none" points="634.09,-308.4 634.09,-331.2 838.09,-331.2 838.09,-308.4 634.09,-308.4"/>
+<polygon fill="none" stroke="black" points="634.09,-308.4 634.09,-331.2 838.09,-331.2 838.09,-308.4 634.09,-308.4"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-316.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="838.09,-308.4 838.09,-331.2 877.52,-331.2 877.52,-308.4 838.09,-308.4"/>
+<polygon fill="none" stroke="black" points="838.09,-308.4 838.09,-331.2 877.52,-331.2 877.52,-308.4 838.09,-308.4"/>
+<text xml:space="preserve" text-anchor="start" x="841.09" y="-316.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="634.09,-285.6 634.09,-308.4 838.09,-308.4 838.09,-285.6 634.09,-285.6"/>
+<polygon fill="none" stroke="black" points="634.09,-285.6 634.09,-308.4 838.09,-308.4 838.09,-285.6 634.09,-285.6"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-293.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇭 Switzerland</text>
+<polygon fill="#bbf3ff" stroke="none" points="838.09,-285.6 838.09,-308.4 877.52,-308.4 877.52,-285.6 838.09,-285.6"/>
+<polygon fill="none" stroke="black" points="838.09,-285.6 838.09,-308.4 877.52,-308.4 877.52,-285.6 838.09,-285.6"/>
+<text xml:space="preserve" text-anchor="start" x="844.39" y="-293.8" font-family="Times,serif" font-weight="bold" font-size="14.00">0 (4)</text>
+<polygon fill="none" stroke="black" points="634.09,-262.8 634.09,-285.6 838.09,-285.6 838.09,-262.8 634.09,-262.8"/>
+<text xml:space="preserve" text-anchor="start" x="637.09" y="-270" font-family="Times,serif" font-size="14.00">🇨🇴 Colombia</text>
+<polygon fill="none" stroke="black" points="838.09,-262.8 838.09,-285.6 877.52,-285.6 877.52,-262.8 838.09,-262.8"/>
+<text xml:space="preserve" text-anchor="start" x="844.39" y="-270" font-family="Times,serif" font-size="14.00">0 (3)</text>
+</g>
+<!-- R32M15&#45;&gt;R16M8 -->
+<g id="edge57" class="edge">
+<title>R32M15:e1-&gt;R16M8:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-236C612.94,-236 602.79,-280.23 620.77,-293.37"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.6,-296.67 630.19,-296.14 621.58,-289.96 619.6,-296.67"/>
+</g>
+<!-- R32M16 -->
+<g id="node28" class="node">
+<title>R32M16</title>
+<polygon fill="#f8f9fa" stroke="none" points="338.66,-107.8 338.66,-176.2 582.09,-176.2 582.09,-107.8 338.66,-107.8"/>
+<polygon fill="#eaecf0" stroke="none" points="338.66,-153.4 338.66,-176.2 542.66,-176.2 542.66,-153.4 338.66,-153.4"/>
+<polygon fill="none" stroke="black" points="338.66,-153.4 338.66,-176.2 542.66,-176.2 542.66,-153.4 338.66,-153.4"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-161.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="542.66,-153.4 542.66,-176.2 582.09,-176.2 582.09,-153.4 542.66,-153.4"/>
+<polygon fill="none" stroke="black" points="542.66,-153.4 542.66,-176.2 582.09,-176.2 582.09,-153.4 542.66,-153.4"/>
+<text xml:space="preserve" text-anchor="start" x="545.66" y="-161.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="338.66,-130.6 338.66,-153.4 542.66,-153.4 542.66,-130.6 338.66,-130.6"/>
+<polygon fill="none" stroke="black" points="338.66,-130.6 338.66,-153.4 542.66,-153.4 542.66,-130.6 338.66,-130.6"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-138.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇨🇴 Colombia</text>
+<polygon fill="#bbf3ff" stroke="none" points="542.66,-130.6 542.66,-153.4 582.09,-153.4 582.09,-130.6 542.66,-130.6"/>
+<polygon fill="none" stroke="black" points="542.66,-130.6 542.66,-153.4 582.09,-153.4 582.09,-130.6 542.66,-130.6"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-138.8" font-family="Times,serif" font-weight="bold" font-size="14.00">1</text>
+<polygon fill="none" stroke="black" points="338.66,-107.8 338.66,-130.6 542.66,-130.6 542.66,-107.8 338.66,-107.8"/>
+<text xml:space="preserve" text-anchor="start" x="341.66" y="-115" font-family="Times,serif" font-size="14.00">🇬🇭 Ghana</text>
+<polygon fill="none" stroke="black" points="542.66,-107.8 542.66,-130.6 582.09,-130.6 582.09,-107.8 542.66,-107.8"/>
+<text xml:space="preserve" text-anchor="start" x="558.88" y="-115" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R32M16&#45;&gt;R32M15 -->
+<!-- R32M16&#45;&gt;R16M8 -->
+<g id="edge58" class="edge">
+<title>R32M16:e1-&gt;R16M8:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M583.09,-142C641,-142 581.25,-254.35 620.77,-271.91"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="619.64,-275.26 630.11,-273.65 620.92,-268.37 619.64,-275.26"/>
+</g>
+<!-- P3 -->
+<g id="node43" class="node">
+<title>P3</title>
+<polygon fill="#f8f9fa" stroke="none" points="1520.37,-754.8 1520.37,-823.2 1763.8,-823.2 1763.8,-754.8 1520.37,-754.8"/>
+<polygon fill="#eaecf0" stroke="none" points="1520.37,-800.4 1520.37,-823.2 1724.37,-823.2 1724.37,-800.4 1520.37,-800.4"/>
+<polygon fill="none" stroke="black" points="1520.37,-800.4 1520.37,-823.2 1724.37,-823.2 1724.37,-800.4 1520.37,-800.4"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-808.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1724.37,-800.4 1724.37,-823.2 1763.8,-823.2 1763.8,-800.4 1724.37,-800.4"/>
+<polygon fill="none" stroke="black" points="1724.37,-800.4 1724.37,-823.2 1763.8,-823.2 1763.8,-800.4 1724.37,-800.4"/>
+<text xml:space="preserve" text-anchor="start" x="1727.37" y="-808.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="1520.37,-777.6 1520.37,-800.4 1724.37,-800.4 1724.37,-777.6 1520.37,-777.6"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-784.8" font-family="Times,serif" font-size="14.00">🇫🇷 France</text>
+<polygon fill="none" stroke="black" points="1724.37,-777.6 1724.37,-800.4 1763.8,-800.4 1763.8,-777.6 1724.37,-777.6"/>
+<text xml:space="preserve" text-anchor="start" x="1740.59" y="-784.8" font-family="Times,serif" font-size="14.00">4</text>
+<polygon fill="#cc9966" stroke="none" points="1520.37,-754.8 1520.37,-777.6 1724.37,-777.6 1724.37,-754.8 1520.37,-754.8"/>
+<polygon fill="none" stroke="black" points="1520.37,-754.8 1520.37,-777.6 1724.37,-777.6 1724.37,-754.8 1520.37,-754.8"/>
+<text xml:space="preserve" text-anchor="start" x="1523.37" y="-763" font-family="Times,serif" font-weight="bold" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="#cc9966" stroke="none" points="1724.37,-754.8 1724.37,-777.6 1763.8,-777.6 1763.8,-754.8 1724.37,-754.8"/>
+<polygon fill="none" stroke="black" points="1724.37,-754.8 1724.37,-777.6 1763.8,-777.6 1763.8,-754.8 1724.37,-754.8"/>
+<text xml:space="preserve" text-anchor="start" x="1740.59" y="-763" font-family="Times,serif" font-weight="bold" font-size="14.00">6</text>
+</g>
+<!-- R32M16&#45;&gt;P3 -->
+<!-- QF1 -->
+<g id="node37" class="node">
+<title>QF1</title>
+<polygon fill="#f8f9fa" stroke="none" points="929.52,-1105.8 929.52,-1174.2 1172.95,-1174.2 1172.95,-1105.8 929.52,-1105.8"/>
+<polygon fill="#eaecf0" stroke="none" points="929.52,-1151.4 929.52,-1174.2 1133.52,-1174.2 1133.52,-1151.4 929.52,-1151.4"/>
+<polygon fill="none" stroke="black" points="929.52,-1151.4 929.52,-1174.2 1133.52,-1174.2 1133.52,-1151.4 929.52,-1151.4"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-1159.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1133.52,-1151.4 1133.52,-1174.2 1172.95,-1174.2 1172.95,-1151.4 1133.52,-1151.4"/>
+<polygon fill="none" stroke="black" points="1133.52,-1151.4 1133.52,-1174.2 1172.95,-1174.2 1172.95,-1151.4 1133.52,-1151.4"/>
+<text xml:space="preserve" text-anchor="start" x="1136.52" y="-1159.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="929.52,-1128.6 929.52,-1151.4 1133.52,-1151.4 1133.52,-1128.6 929.52,-1128.6"/>
+<polygon fill="none" stroke="black" points="929.52,-1128.6 929.52,-1151.4 1133.52,-1151.4 1133.52,-1128.6 929.52,-1128.6"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-1136.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇫🇷 France</text>
+<polygon fill="#bbf3ff" stroke="none" points="1133.52,-1128.6 1133.52,-1151.4 1172.95,-1151.4 1172.95,-1128.6 1133.52,-1128.6"/>
+<polygon fill="none" stroke="black" points="1133.52,-1128.6 1133.52,-1151.4 1172.95,-1151.4 1172.95,-1128.6 1133.52,-1128.6"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-1136.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="929.52,-1105.8 929.52,-1128.6 1133.52,-1128.6 1133.52,-1105.8 929.52,-1105.8"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-1113" font-family="Times,serif" font-size="14.00">🇲🇦 Morocco</text>
+<polygon fill="none" stroke="black" points="1133.52,-1105.8 1133.52,-1128.6 1172.95,-1128.6 1172.95,-1105.8 1133.52,-1105.8"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-1113" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- R16M1&#45;&gt;QF1 -->
+<g id="edge59" class="edge">
+<title>R16M1:e2-&gt;QF1:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-1399.2C991.03,-1399.2 825.83,-1160.83 915.56,-1141.27"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.9,-1144.76 925.5,-1140.3 915.21,-1137.79 915.9,-1144.76"/>
+</g>
+<!-- R16M2&#45;&gt;R16M1 -->
+<!-- R16M2&#45;&gt;QF1 -->
+<g id="edge60" class="edge">
+<title>R16M2:e2-&gt;QF1:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-1247.2C935.34,-1247.2 877.81,-1137.65 915.87,-1119.68"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="916.41,-1123.14 925.55,-1117.78 915.06,-1116.27 916.41,-1123.14"/>
+</g>
+<!-- R16M3&#45;&gt;R16M2 -->
+<!-- QF2 -->
+<g id="node38" class="node">
+<title>QF2</title>
+<polygon fill="#f8f9fa" stroke="none" points="929.52,-917.8 929.52,-986.2 1172.95,-986.2 1172.95,-917.8 929.52,-917.8"/>
+<polygon fill="#eaecf0" stroke="none" points="929.52,-963.4 929.52,-986.2 1133.52,-986.2 1133.52,-963.4 929.52,-963.4"/>
+<polygon fill="none" stroke="black" points="929.52,-963.4 929.52,-986.2 1133.52,-986.2 1133.52,-963.4 929.52,-963.4"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-971.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1133.52,-963.4 1133.52,-986.2 1172.95,-986.2 1172.95,-963.4 1133.52,-963.4"/>
+<polygon fill="none" stroke="black" points="1133.52,-963.4 1133.52,-986.2 1172.95,-986.2 1172.95,-963.4 1133.52,-963.4"/>
+<text xml:space="preserve" text-anchor="start" x="1136.52" y="-971.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="929.52,-940.6 929.52,-963.4 1133.52,-963.4 1133.52,-940.6 929.52,-940.6"/>
+<polygon fill="none" stroke="black" points="929.52,-940.6 929.52,-963.4 1133.52,-963.4 1133.52,-940.6 929.52,-940.6"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-948.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="#bbf3ff" stroke="none" points="1133.52,-940.6 1133.52,-963.4 1172.95,-963.4 1172.95,-940.6 1133.52,-940.6"/>
+<polygon fill="none" stroke="black" points="1133.52,-940.6 1133.52,-963.4 1172.95,-963.4 1172.95,-940.6 1133.52,-940.6"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-948.8" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+<polygon fill="none" stroke="black" points="929.52,-917.8 929.52,-940.6 1133.52,-940.6 1133.52,-917.8 929.52,-917.8"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-925" font-family="Times,serif" font-size="14.00">🇧🇪 Belgium</text>
+<polygon fill="none" stroke="black" points="1133.52,-917.8 1133.52,-940.6 1172.95,-940.6 1172.95,-917.8 1133.52,-917.8"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-925" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- R16M3&#45;&gt;QF2 -->
+<g id="edge61" class="edge">
+<title>R16M3:e2-&gt;QF2:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-1081.2C935.04,-1081.2 878.04,-972.33 915.94,-954.47"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="916.41,-957.94 925.55,-952.58 915.06,-951.07 916.41,-957.94"/>
+</g>
+<!-- R16M4&#45;&gt;R16M3 -->
+<!-- R16M4&#45;&gt;QF2 -->
+<g id="edge62" class="edge">
+<title>R16M4:e2-&gt;QF2:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-929.2C895.71,-929.2 902.92,-929.2 915.59,-929.2"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.49,-932.7 925.49,-929.2 915.49,-925.7 915.49,-932.7"/>
+</g>
+<!-- R16M5&#45;&gt;R16M4 -->
+<!-- QF3 -->
+<g id="node39" class="node">
+<title>QF3</title>
+<polygon fill="#f8f9fa" stroke="none" points="929.52,-696.8 929.52,-765.2 1172.95,-765.2 1172.95,-696.8 929.52,-696.8"/>
+<polygon fill="#eaecf0" stroke="none" points="929.52,-742.4 929.52,-765.2 1133.52,-765.2 1133.52,-742.4 929.52,-742.4"/>
+<polygon fill="none" stroke="black" points="929.52,-742.4 929.52,-765.2 1133.52,-765.2 1133.52,-742.4 929.52,-742.4"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-750.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1133.52,-742.4 1133.52,-765.2 1172.95,-765.2 1172.95,-742.4 1133.52,-742.4"/>
+<polygon fill="none" stroke="black" points="1133.52,-742.4 1133.52,-765.2 1172.95,-765.2 1172.95,-742.4 1133.52,-742.4"/>
+<text xml:space="preserve" text-anchor="start" x="1136.52" y="-750.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="929.52,-719.6 929.52,-742.4 1133.52,-742.4 1133.52,-719.6 929.52,-719.6"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-726.8" font-family="Times,serif" font-size="14.00">🇳🇴 Norway</text>
+<polygon fill="none" stroke="black" points="1133.52,-719.6 1133.52,-742.4 1172.95,-742.4 1172.95,-719.6 1133.52,-719.6"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-726.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="929.52,-696.8 929.52,-719.6 1133.52,-719.6 1133.52,-696.8 929.52,-696.8"/>
+<polygon fill="none" stroke="black" points="929.52,-696.8 929.52,-719.6 1133.52,-719.6 1133.52,-696.8 929.52,-696.8"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-705" font-family="Times,serif" font-weight="bold" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="#bbf3ff" stroke="none" points="1133.52,-696.8 1133.52,-719.6 1172.95,-719.6 1172.95,-696.8 1133.52,-696.8"/>
+<polygon fill="none" stroke="black" points="1133.52,-696.8 1133.52,-719.6 1172.95,-719.6 1172.95,-696.8 1133.52,-696.8"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-705" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- R16M5&#45;&gt;QF3 -->
+<g id="edge63" class="edge">
+<title>R16M5:e2-&gt;QF3:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-730.2C895.71,-730.2 902.92,-730.68 915.59,-730.9"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.46,-734.39 925.49,-730.98 915.52,-727.39 915.46,-734.39"/>
+</g>
+<!-- R16M6&#45;&gt;R16M5 -->
+<!-- R16M6&#45;&gt;QF3 -->
+<g id="edge64" class="edge">
+<title>R16M6:e2-&gt;QF3:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-589.2C930.73,-589.2 881.8,-687.78 915.83,-705.49"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.05,-708.9 925.56,-707.57 916.51,-702.06 915.05,-708.9"/>
+</g>
+<!-- R16M7&#45;&gt;R16M6 -->
+<!-- QF4 -->
+<g id="node40" class="node">
+<title>QF4</title>
+<polygon fill="#f8f9fa" stroke="none" points="929.52,-472.8 929.52,-541.2 1172.95,-541.2 1172.95,-472.8 929.52,-472.8"/>
+<polygon fill="#eaecf0" stroke="none" points="929.52,-518.4 929.52,-541.2 1133.52,-541.2 1133.52,-518.4 929.52,-518.4"/>
+<polygon fill="none" stroke="black" points="929.52,-518.4 929.52,-541.2 1133.52,-541.2 1133.52,-518.4 929.52,-518.4"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-526.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1133.52,-518.4 1133.52,-541.2 1172.95,-541.2 1172.95,-518.4 1133.52,-518.4"/>
+<polygon fill="none" stroke="black" points="1133.52,-518.4 1133.52,-541.2 1172.95,-541.2 1172.95,-518.4 1133.52,-518.4"/>
+<text xml:space="preserve" text-anchor="start" x="1136.52" y="-526.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="#bbf3ff" stroke="none" points="929.52,-495.6 929.52,-518.4 1133.52,-518.4 1133.52,-495.6 929.52,-495.6"/>
+<polygon fill="none" stroke="black" points="929.52,-495.6 929.52,-518.4 1133.52,-518.4 1133.52,-495.6 929.52,-495.6"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-503.8" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3ff" stroke="none" points="1133.52,-495.6 1133.52,-518.4 1172.95,-518.4 1172.95,-495.6 1133.52,-495.6"/>
+<polygon fill="none" stroke="black" points="1133.52,-495.6 1133.52,-518.4 1172.95,-518.4 1172.95,-495.6 1133.52,-495.6"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-503.8" font-family="Times,serif" font-weight="bold" font-size="14.00">3</text>
+<polygon fill="none" stroke="black" points="929.52,-472.8 929.52,-495.6 1133.52,-495.6 1133.52,-472.8 929.52,-472.8"/>
+<text xml:space="preserve" text-anchor="start" x="932.52" y="-480" font-family="Times,serif" font-size="14.00">🇨🇭 Switzerland</text>
+<polygon fill="none" stroke="black" points="1133.52,-472.8 1133.52,-495.6 1172.95,-495.6 1172.95,-472.8 1133.52,-472.8"/>
+<text xml:space="preserve" text-anchor="start" x="1149.73" y="-480" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- R16M7&#45;&gt;QF4 -->
+<g id="edge65" class="edge">
+<title>R16M7:e1-&gt;QF4:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-424C916.37,-424 893.04,-488.12 916.08,-503.64"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.03,-506.99 925.59,-506.21 916.85,-500.23 915.03,-506.99"/>
+</g>
+<!-- R16M8&#45;&gt;R16M7 -->
+<!-- R16M8&#45;&gt;QF4 -->
+<g id="edge66" class="edge">
+<title>R16M8:e1-&gt;QF4:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M878.52,-297C959.76,-297 855.58,-463.59 915.81,-482.47"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="915.14,-485.91 925.52,-483.79 916.08,-478.97 915.14,-485.91"/>
+</g>
+<!-- SF1 -->
+<g id="node41" class="node">
+<title>SF1</title>
+<polygon fill="#f8f9fa" stroke="none" points="1224.95,-870.8 1224.95,-939.2 1468.37,-939.2 1468.37,-870.8 1224.95,-870.8"/>
+<polygon fill="#eaecf0" stroke="none" points="1224.95,-916.4 1224.95,-939.2 1428.95,-939.2 1428.95,-916.4 1224.95,-916.4"/>
+<polygon fill="none" stroke="black" points="1224.95,-916.4 1224.95,-939.2 1428.95,-939.2 1428.95,-916.4 1224.95,-916.4"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-924.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1428.95,-916.4 1428.95,-939.2 1468.37,-939.2 1468.37,-916.4 1428.95,-916.4"/>
+<polygon fill="none" stroke="black" points="1428.95,-916.4 1428.95,-939.2 1468.37,-939.2 1468.37,-916.4 1428.95,-916.4"/>
+<text xml:space="preserve" text-anchor="start" x="1431.95" y="-924.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="1224.95,-893.6 1224.95,-916.4 1428.95,-916.4 1428.95,-893.6 1224.95,-893.6"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-900.8" font-family="Times,serif" font-size="14.00">🇫🇷 France</text>
+<polygon fill="none" stroke="black" points="1428.95,-893.6 1428.95,-916.4 1468.37,-916.4 1468.37,-893.6 1428.95,-893.6"/>
+<text xml:space="preserve" text-anchor="start" x="1445.16" y="-900.8" font-family="Times,serif" font-size="14.00">0</text>
+<polygon fill="#bbf3ff" stroke="none" points="1224.95,-870.8 1224.95,-893.6 1428.95,-893.6 1428.95,-870.8 1224.95,-870.8"/>
+<polygon fill="none" stroke="black" points="1224.95,-870.8 1224.95,-893.6 1428.95,-893.6 1428.95,-870.8 1224.95,-870.8"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-879" font-family="Times,serif" font-weight="bold" font-size="14.00">🇪🇸 Spain</text>
+<polygon fill="#bbf3ff" stroke="none" points="1428.95,-870.8 1428.95,-893.6 1468.37,-893.6 1468.37,-870.8 1428.95,-870.8"/>
+<polygon fill="none" stroke="black" points="1428.95,-870.8 1428.95,-893.6 1468.37,-893.6 1468.37,-870.8 1428.95,-870.8"/>
+<text xml:space="preserve" text-anchor="start" x="1445.16" y="-879" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- QF1&#45;&gt;SF1 -->
+<g id="edge67" class="edge">
+<title>QF1:e1-&gt;SF1:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1173.95,-1140C1275.93,-1140 1131.31,-925.64 1211.14,-906.38"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1211.37,-909.88 1220.94,-905.32 1210.62,-902.92 1211.37,-909.88"/>
+</g>
+<!-- QF2&#45;&gt;QF1 -->
+<!-- QF2&#45;&gt;SF1 -->
+<g id="edge68" class="edge">
+<title>QF2:e1-&gt;SF1:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1173.95,-952C1206.89,-952 1191.78,-899.98 1211.58,-885.76"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1212.39,-889.17 1221.04,-883.04 1210.46,-882.44 1212.39,-889.17"/>
+</g>
+<!-- QF3&#45;&gt;QF2 -->
+<!-- SF2 -->
+<g id="node42" class="node">
+<title>SF2</title>
+<polygon fill="#f8f9fa" stroke="none" points="1224.95,-732.8 1224.95,-801.2 1468.37,-801.2 1468.37,-732.8 1224.95,-732.8"/>
+<polygon fill="#eaecf0" stroke="none" points="1224.95,-778.4 1224.95,-801.2 1428.95,-801.2 1428.95,-778.4 1224.95,-778.4"/>
+<polygon fill="none" stroke="black" points="1224.95,-778.4 1224.95,-801.2 1428.95,-801.2 1428.95,-778.4 1224.95,-778.4"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-786.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Team</text>
+<polygon fill="#eaecf0" stroke="none" points="1428.95,-778.4 1428.95,-801.2 1468.37,-801.2 1468.37,-778.4 1428.95,-778.4"/>
+<polygon fill="none" stroke="black" points="1428.95,-778.4 1428.95,-801.2 1468.37,-801.2 1468.37,-778.4 1428.95,-778.4"/>
+<text xml:space="preserve" text-anchor="start" x="1431.95" y="-786.6" font-family="Times,serif" font-weight="bold" font-size="14.00">Score</text>
+<polygon fill="none" stroke="black" points="1224.95,-755.6 1224.95,-778.4 1428.95,-778.4 1428.95,-755.6 1224.95,-755.6"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-762.8" font-family="Times,serif" font-size="14.00">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</text>
+<polygon fill="none" stroke="black" points="1428.95,-755.6 1428.95,-778.4 1468.37,-778.4 1468.37,-755.6 1428.95,-755.6"/>
+<text xml:space="preserve" text-anchor="start" x="1445.16" y="-762.8" font-family="Times,serif" font-size="14.00">1</text>
+<polygon fill="#bbf3ff" stroke="none" points="1224.95,-732.8 1224.95,-755.6 1428.95,-755.6 1428.95,-732.8 1224.95,-732.8"/>
+<polygon fill="none" stroke="black" points="1224.95,-732.8 1224.95,-755.6 1428.95,-755.6 1428.95,-732.8 1224.95,-732.8"/>
+<text xml:space="preserve" text-anchor="start" x="1227.95" y="-741" font-family="Times,serif" font-weight="bold" font-size="14.00">🇦🇷 Argentina</text>
+<polygon fill="#bbf3ff" stroke="none" points="1428.95,-732.8 1428.95,-755.6 1468.37,-755.6 1468.37,-732.8 1428.95,-732.8"/>
+<polygon fill="none" stroke="black" points="1428.95,-732.8 1428.95,-755.6 1468.37,-755.6 1468.37,-732.8 1428.95,-732.8"/>
+<text xml:space="preserve" text-anchor="start" x="1445.16" y="-741" font-family="Times,serif" font-weight="bold" font-size="14.00">2</text>
+</g>
+<!-- QF3&#45;&gt;SF2 -->
+<g id="edge69" class="edge">
+<title>QF3:e2-&gt;SF2:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1173.95,-708.2C1203.16,-708.2 1194,-750.84 1211.82,-763.5"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1210.46,-766.75 1221.04,-766.16 1212.4,-760.02 1210.46,-766.75"/>
+</g>
+<!-- QF4&#45;&gt;QF3 -->
+<!-- QF4&#45;&gt;SF2 -->
+<g id="edge70" class="edge">
+<title>QF4:e1-&gt;SF2:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1173.95,-507C1276.84,-507 1130.52,-723.37 1211.03,-742.81"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1210.62,-746.28 1220.94,-743.88 1211.37,-739.32 1210.62,-746.28"/>
+</g>
+<!-- SF1&#45;&gt;P3 -->
+<g id="edge73" class="edge">
+<title>SF1:e1-&gt;P3:w1</title>
+<path fill="none" stroke="#888888" stroke-width="2" d="M1469.37,-905C1520.47,-905 1473.47,-808.91 1506.94,-791.64"/>
+<polygon fill="#888888" stroke="#888888" stroke-width="2" points="1507.36,-795.13 1516.41,-789.63 1505.9,-788.28 1507.36,-795.13"/>
+</g>
+<!-- SF1&#45;&gt;F -->
+<g id="edge71" class="edge">
+<title>SF1:e2-&gt;F:w1</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1469.37,-882.2C1486.56,-882.2 1493.78,-882.68 1506.45,-882.9"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1506.32,-886.39 1516.35,-882.98 1506.37,-879.39 1506.32,-886.39"/>
+</g>
+<!-- SF2&#45;&gt;SF1 -->
+<!-- SF2&#45;&gt;P3 -->
+<g id="edge74" class="edge">
+<title>SF2:e1-&gt;P3:w2</title>
+<path fill="none" stroke="#888888" stroke-width="2" d="M1469.37,-767C1486.56,-767 1493.78,-766.52 1506.45,-766.3"/>
+<polygon fill="#888888" stroke="#888888" stroke-width="2" points="1506.37,-769.81 1516.35,-766.22 1506.32,-762.81 1506.37,-769.81"/>
+</g>
+<!-- SF2&#45;&gt;F -->
+<g id="edge72" class="edge">
+<title>SF2:e2-&gt;F:w2</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1469.37,-744.2C1520.47,-744.2 1473.47,-840.29 1506.94,-857.56"/>
+<polygon fill="black" stroke="black" stroke-width="2" points="1505.9,-860.92 1516.41,-859.57 1507.36,-854.07 1505.9,-860.92"/>
+</g>
+<!-- P3&#45;&gt;F -->
+</g>
+</svg>

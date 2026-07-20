@@ -818,8 +818,8 @@ knockout_teams = c("Germany", "Paraguay",
  write(create_H2H("SF1", "France", "Spain", 0, 2, FALSE, ko_widths), file_name, append = TRUE)
  write(create_H2H("SF2", "England", "Argentina", 1, 2, FALSE, ko_widths), file_name, append = TRUE)
 # 
- write(create_H2H("P3", "France", "England", "4", "6", TRUE, ko_widths, categories = c("", "bronze")), file_name, append = TRUE)
- write(create_H2H("F", "Spain", "Argentina", "?", "?", TRUE, ko_widths, categories = c("gold", "silver")), file_name, append = TRUE)
+ write(create_H2H("P3", "France", "England", 4, 6, TRUE, ko_widths, categories = c("", "bronze")), file_name, append = TRUE)
+ write(create_H2H("F", "Spain", "Argentina", 1, 0, TRUE, ko_widths, categories = c("gold", "silver")), file_name, append = TRUE)
 
 #END World cup finals
 
@@ -1091,8 +1091,8 @@ subgraph cluster_wcF {
     SF1:e2 -> F:w1
     SF2:e2 -> F:w2
     
-    SF1:e1 -> P3:w1
-    SF2:e1 -> P3:w2
+    SF1:e1 -> P3:w1 [color = "#888888"]
+    SF2:e1 -> P3:w2 [color = "#888888"]
 }
 
 #225 + 259 + 99 + 90 + 18 + 204 + 4 + 104
