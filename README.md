@@ -117,17 +117,23 @@ This was rendered using emoji flags. There is no official emoji for these two te
 
 ## Have you done this for past World Cups?
 
-[2014 Reddit post](https://www.reddit.com/r/soccer/comments/2akovc/203_teams_883_matches_1_champion_a_diagram/)
+You may explore previous diagrams in the [images section](https://github.com/JedGrabman/WorldCupDiagram/tree/main/images) of this project.
 
-[2018 Reddit post](https://www.reddit.com/r/soccer/comments/8ywhjs/210_teams_935_matches_1_champion_a_diagram/)
+There are also reddit posts that I made after each World Cup since 2014:
 
-[2022 Reddit post](https://www.reddit.com/r/soccer/comments/zp6bos/oc_206_teams_929_matches_1_champion_diagrams/)
+* [2014 Reddit post](https://www.reddit.com/r/soccer/comments/2akovc/203_teams_883_matches_1_champion_a_diagram/)
+
+* [2018 Reddit post](https://www.reddit.com/r/soccer/comments/8ywhjs/210_teams_935_matches_1_champion_a_diagram/)
+
+* [2022 Reddit post](https://www.reddit.com/r/soccer/comments/zp6bos/oc_206_teams_929_matches_1_champion_diagrams/)
+
+* [2026 Reddit post](https://www.reddit.com/r/soccer/comments/1v21vrt/209_countries_1003_matches_1_champion_diagrams/)
 
 As you can see, I’ve experimented with the exact format.
 
 ## How can I contact you?
 
-Generally, issues or contact through Github is preferred, but I know many users come here through reddit. You can also message [my account there](https://www.reddit.com/user/aeouo).
+Generally, issues or contact through Github is preferred, but I know many users come here through reddit. You can also message [my account there](https://www.reddit.com/user/aeouo) or comment on the [2026 post](https://www.reddit.com/r/soccer/comments/1v21vrt/209_countries_1003_matches_1_champion_diagrams/) (until it gets archived).
 
 If you have code improvement suggestions, See “Your code has a problem - will you fix it?”
 
