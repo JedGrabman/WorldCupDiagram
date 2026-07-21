@@ -72,7 +72,7 @@ It means they withdrew (W) or were ejected (DQ) from the tournament.
 
 **CAF:** The top 4 runner-ups in round 1 were granted advancement to round 2. The runners-up were ranked by points and goal differential. Due to Eritrea's withdrawal, games against the last placed team in each group were excluded from the calculation.
 
-**UEFA:** The top four UEFA [Nations League group winners](https://en.wikipedia.org/wiki/2020%E2%80%9321_UEFA_Nations_League) that had not already qualified for round 2 were granted advancement.
+**UEFA:** The top four UEFA [Nations League group winners](https://en.wikipedia.org/wiki/2024%E2%80%9325_UEFA_Nations_League) that had not already qualified for round 2 were granted advancement.
 
 **Finals:** The top eight 3rd place finishers advanced to the round of 32. The 3rd place finishers were ranked by points and goal differential.
 
